@@ -1,0 +1,925 @@
+OCCUPATION,AI_EXPOSURE_SCORE
+"Accountants and Auditors",68
+"Actors",44
+"Actuaries",32
+"Acupuncturists",47
+"Adhesive Bonding Machine Operators and Tenders",63
+"Administrative Law Judges, Adjudicators, and Hearing Officers",56
+"Administrative Services Managers",55
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",56
+"Advertising and Promotions Managers",34
+"Advertising Sales Agents",66
+"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",16
+"Aerospace Engineering and Operations Technologists and Technicians",44
+"Aerospace Engineers",33
+"Agents and Business Managers of Artists, Performers, and Athletes",40
+"Agricultural Engineers",47
+"Agricultural Equipment Operators",59
+"Agricultural Inspectors",66
+"Agricultural Sciences Teachers, Postsecondary",51
+"Agricultural Technicians",69
+"Agricultural Workers",54
+"Agricultural Workers, All Other",51
+"Air Traffic Controllers",40
+"Air Transportation Workers",31
+"Aircraft Cargo Handling Supervisors",29
+"Aircraft Mechanics and Service Technicians",49
+"Aircraft Service Attendants",46
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",67
+"Airfield Operations Specialists",61
+"Airline Pilots, Copilots, and Flight Engineers",37
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",28
+"Amusement and Recreation Attendants",55
+"Anesthesiologists",54
+"Animal Breeders",69
+"Animal Care and Service Workers",37
+"Animal Caretakers",52
+"Animal Control Workers",45
+"Animal Scientists",44
+"Animal Trainers",40
+"Anthropologists and Archeologists",32
+"Anthropology and Archeology Teachers, Postsecondary",53
+"Arbitrators, Mediators, and Conciliators",39
+"Architects, Except Landscape and Naval",29
+"Architects, Surveyors, and Cartographers",32
+"Architectural and Civil Drafters",52
+"Architectural and Engineering Managers",23
+"Architecture Teachers, Postsecondary",47
+"Archivists",67
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",54
+"Art and Design Workers",35
+"Art Directors",31
+"Art, Drama, and Music Teachers, Postsecondary",51
+"Artists and Related Workers, All Other",23
+"Assemblers and Fabricators",37
+"Astronomers",27
+"Athletes and Sports Competitors",39
+"Athletic Trainers",36
+"Atmospheric and Space Scientists",56
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",52
+"Audio and Video Technicians",52
+"Audiologists",31
+"Audiovisual Equipment Installers and Repairers",54
+"Automotive and Watercraft Service Attendants",64
+"Automotive Body and Related Repairers",60
+"Automotive Glass Installers and Repairers",48
+"Automotive Service Technicians and Mechanics",52
+"Avionics Technicians",47
+"Baggage Porters and Bellhops",61
+"Baggage Porters, Bellhops, and Concierges",31
+"Bailiffs",44
+"Bakers",57
+"Barbers",61
+"Bartenders",59
+"Bicycle Repairers",44
+"Bill and Account Collectors",80
+"Billing and Posting Clerks",70
+"Biochemists and Biophysicists",29
+"Bioengineers and Biomedical Engineers",31
+"Biological Science Teachers, Postsecondary",51
+"Biological Scientists, All Other",35
+"Biological Technicians",51
+"Boilermakers",45
+"Bookkeeping, Accounting, and Auditing Clerks",79
+"Brickmasons and Blockmasons",51
+"Bridge and Lock Tenders",69
+"Broadcast Announcers and Radio Disc Jockeys",51
+"Broadcast Technicians",60
+"Brokerage Clerks",80
+"Budget Analysts",67
+"Building Cleaning and Pest Control Workers",45
+"Building Cleaning Workers, All Other",44
+"Bus and Truck Mechanics and Diesel Engine Specialists",53
+"Bus Drivers, School",62
+"Bus Drivers, Transit and Intercity",57
+"Business Operations Specialists",28
+"Business Operations Specialists, All Other",43
+"Business Teachers, Postsecondary",47
+"Butchers and Meat Cutters",61
+"Buyers and Purchasing Agents",45
+"Cabinetmakers and Bench Carpenters",61
+"Calibration Technologists and Technicians",44
+"Camera and Photographic Equipment Repairers",77
+"Camera Operators, Television, Video, and Film",48
+"Captains, Mates, and Pilots of Water Vessels",38
+"Cardiologists",49
+"Cardiovascular Technologists and Technicians",42
+"Career/Technical Education Teachers, Middle School",44
+"Career/Technical Education Teachers, Postsecondary",50
+"Career/Technical Education Teachers, Secondary School",38
+"Cargo and Freight Agents",66
+"Carpenters",57
+"Carpet Installers",72
+"Cartographers and Photogrammetrists",69
+"Cashiers",79
+"Cement Masons and Concrete Finishers",52
+"Chefs and Head Cooks",39
+"Chemical Engineers",30
+"Chemical Equipment Operators and Tenders",59
+"Chemical Plant and System Operators",66
+"Chemical Technicians",54
+"Chemistry Teachers, Postsecondary",52
+"Chemists",41
+"Chief Executives",27
+"Child, Family, and School Social Workers",36
+"Childcare Workers",46
+"Chiropractors",35
+"Choreographers",33
+"Civil Engineering Technologists and Technicians",56
+"Civil Engineers",32
+"Claims Adjusters, Examiners, and Investigators",70
+"Cleaners of Vehicles and Equipment",42
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",59
+"Clergy",31
+"Clinical and Counseling Psychologists",31
+"Clinical Laboratory Technologists and Technicians",50
+"Coaches and Scouts",35
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",60
+"Coil Winders, Tapers, and Finishers",58
+"Coin, Vending, and Amusement Machine Servicers and Repairers",62
+"Commercial and Industrial Designers",38
+"Commercial Divers",37
+"Commercial Pilots",50
+"Communications Equipment Operators",57
+"Communications Equipment Operators, All Other",36
+"Communications Teachers, Postsecondary",54
+"Community and Social Service Specialists, All Other",31
+"Community Health Workers",48
+"Compensation and Benefits Managers",59
+"Compensation, Benefits, and Job Analysis Specialists",50
+"Compliance Officers",40
+"Computer and Information Research Scientists",30
+"Computer and Information Systems Managers",30
+"Computer Hardware Engineers",34
+"Computer Network Architects",39
+"Computer Network Support Specialists",49
+"Computer Numerically Controlled Tool Operators",57
+"Computer Numerically Controlled Tool Programmers",48
+"Computer Occupations",26
+"Computer Occupations, All Other",40
+"Computer Programmers",53
+"Computer Science Teachers, Postsecondary",48
+"Computer Systems Analysts",30
+"Computer User Support Specialists",50
+"Computer, Automated Teller, and Office Machine Repairers",59
+"Concierges",29
+"Conservation Scientists",36
+"Construction and Building Inspectors",56
+"Construction Laborers",59
+"Construction Managers",31
+"Construction Trades Workers",35
+"Continuous Mining Machine Operators",43
+"Control and Valve Installers and Repairers, Except Mechanical Door",53
+"Conveyor Operators and Tenders",67
+"Cooks and Food Preparation Workers",51
+"Cooks, All Other",50
+"Cooks, Fast Food",69
+"Cooks, Institution and Cafeteria",59
+"Cooks, Private Household",44
+"Cooks, Restaurant",62
+"Cooks, Short Order",71
+"Cooling and Freezing Equipment Operators and Tenders",68
+"Correctional Officers and Jailers",61
+"Correspondence Clerks",75
+"Cost Estimators",60
+"Costume Attendants",53
+"Counselors, All Other",24
+"Counselors, Social Workers, and Other Community and Social Service Specialists",35
+"Counter and Rental Clerks",62
+"Couriers and Messengers",67
+"Court Reporters and Simultaneous Captioners",49
+"Court, Municipal, and License Clerks",59
+"Craft Artists",36
+"Crane and Tower Operators",59
+"Credit Analysts",76
+"Credit Authorizers, Checkers, and Clerks",80
+"Credit Counselors",38
+"Crematory Operators",46
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",55
+"Crossing Guards and Flaggers",47
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",68
+"Curators",32
+"Customer Service Representatives",64
+"Cutters and Trimmers, Hand",77
+"Cutting and Slicing Machine Setters, Operators, and Tenders",63
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",70
+"Dancers",40
+"Data Entry Keyers",95
+"Data Scientists",45
+"Database Administrators",37
+"Database Architects",40
+"Demonstrators and Product Promoters",57
+"Dental Assistants",53
+"Dental Hygienists",57
+"Dental Laboratory Technicians",52
+"Dentists, All Other Specialists",13
+"Dentists, General",24
+"Dermatologists",47
+"Derrick Operators, Oil and Gas",55
+"Designers, All Other",37
+"Desktop Publishers",56
+"Detectives and Criminal Investigators",48
+"Diagnostic Medical Sonographers",47
+"Dietetic Technicians",47
+"Dietitians and Nutritionists",34
+"Dining Room and Cafeteria Attendants and Bartender Helpers",57
+"Directors, Religious Activities and Education",30
+"Disc Jockeys, Except Radio",47
+"Dishwashers",47
+"Dispatchers, Except Police, Fire, and Ambulance",66
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",84
+"Drafters, All Other",54
+"Drafters, Engineering Technicians, and Mapping Technicians",34
+"Dredge Operators",55
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",79
+"Driver/Sales Workers",70
+"Drywall and Ceiling Tile Installers",54
+"Earth Drillers, Except Oil and Gas",58
+"Economics Teachers, Postsecondary",51
+"Economists",48
+"Editors",39
+"Education Administrators, All Other",21
+"Education Administrators, Kindergarten through Secondary",31
+"Education Administrators, Postsecondary",34
+"Education and Childcare Administrators, Preschool and Daycare",45
+"Education Teachers, Postsecondary",55
+"Educational Instruction and Library Workers, All Other",36
+"Educational, Guidance, and Career Counselors and Advisors",32
+"Electric Motor, Power Tool, and Related Repairers",51
+"Electrical and Electronic Engineering Technologists and Technicians",59
+"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",35
+"Electrical and Electronics Drafters",65
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",59
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",48
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",44
+"Electrical Engineers",34
+"Electrical Power-Line Installers and Repairers",28
+"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",53
+"Electricians",32
+"Electro-Mechanical and Mechatronics Technologists and Technicians",57
+"Electronic Equipment Installers and Repairers, Motor Vehicles",65
+"Electronics Engineers, Except Computer",29
+"Elementary School Teachers, Except Special Education",34
+"Elevator and Escalator Installers and Repairers",39
+"Eligibility Interviewers, Government Programs",66
+"Embalmers",54
+"Emergency Management Directors",35
+"Emergency Medical Technicians",40
+"Emergency Medicine Physicians",54
+"Engine and Other Machine Assemblers",74
+"Engineering Teachers, Postsecondary",52
+"Engineering Technologists and Technicians, Except Drafters, All Other",42
+"Engineers",20
+"Engineers, All Other",30
+"English Language and Literature Teachers, Postsecondary",47
+"Entertainers and Performers, Sports and Related Workers",35
+"Entertainers and Performers, Sports and Related Workers, All Other",35
+"Entertainment and Recreation Managers, Except Gambling",35
+"Entertainment Attendants and Related Workers",37
+"Entertainment Attendants and Related Workers, All Other",38
+"Environmental Engineering Technologists and Technicians",46
+"Environmental Engineers",33
+"Environmental Science and Protection Technicians, Including Health",67
+"Environmental Science Teachers, Postsecondary",54
+"Environmental Scientists and Specialists, Including Health",35
+"Epidemiologists",42
+"Etchers and Engravers",64
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",57
+"Executive Secretaries and Executive Administrative Assistants",69
+"Exercise Physiologists",36
+"Exercise Trainers and Group Fitness Instructors",40
+"Explosives Workers, Ordnance Handling Experts, and Blasters",46
+"Extraction Workers",29
+"Extraction Workers, All Other",36
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",55
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",64
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",64
+"Fabric and Apparel Patternmakers",33
+"Facilities Managers",50
+"Fallers",57
+"Family and Consumer Sciences Teachers, Postsecondary",54
+"Family Medicine Physicians",46
+"Farm and Home Management Educators",47
+"Farm Equipment Mechanics and Service Technicians",54
+"Farm Labor Contractors",59
+"Farmers, Ranchers, and Other Agricultural Managers",38
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",63
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",62
+"Fashion Designers",23
+"Fast Food and Counter Workers",64
+"Fence Erectors",56
+"Fiberglass Laminators and Fabricators",60
+"File Clerks",87
+"Film and Video Editors",48
+"Financial and Investment Analysts",39
+"Financial Clerks",43
+"Financial Clerks, All Other",36
+"Financial Examiners",43
+"Financial Managers",34
+"Financial Risk Specialists",54
+"Financial Specialists",31
+"Financial Specialists, All Other",43
+"Fine Artists, Including Painters, Sculptors, and Illustrators",36
+"Fire Inspectors and Investigators",51
+"Firefighters",32
+"Firefighting and Prevention Workers",35
+"First-Line Supervisors of Construction Trades and Extraction Workers",40
+"First-Line Supervisors of Correctional Officers",39
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",47
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",54
+"First-Line Supervisors of Firefighting and Prevention Workers",31
+"First-Line Supervisors of Food Preparation and Serving Workers",56
+"First-Line Supervisors of Gambling Services Workers",44
+"First-Line Supervisors of Housekeeping and Janitorial Workers",67
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",53
+"First-Line Supervisors of Mechanics, Installers, and Repairers",34
+"First-Line Supervisors of Non-Retail Sales Workers",44
+"First-Line Supervisors of Office and Administrative Support Workers",38
+"First-Line Supervisors of Personal Service Workers",39
+"First-Line Supervisors of Police and Detectives",38
+"First-Line Supervisors of Production and Operating Workers",40
+"First-Line Supervisors of Protective Service Workers, All Other",34
+"First-Line Supervisors of Retail Sales Workers",55
+"First-Line Supervisors of Security Workers",51
+"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",25
+"Fish and Game Wardens",40
+"Flight Attendants",45
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",47
+"Floor Sanders and Finishers",54
+"Floral Designers",45
+"Food and Beverage Serving Workers",37
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",64
+"Food Batchmakers",59
+"Food Cooking Machine Operators and Tenders",52
+"Food Preparation and Serving Related Workers, All Other",37
+"Food Preparation Workers",57
+"Food Processing Workers",37
+"Food Processing Workers, All Other",52
+"Food Science Technicians",72
+"Food Scientists and Technologists",41
+"Food Servers, Nonrestaurant",60
+"Food Service Managers",40
+"Foreign Language and Literature Teachers, Postsecondary",55
+"Forensic Science Technicians",40
+"Forest and Conservation Technicians",51
+"Forest and Conservation Workers",62
+"Forest Fire Inspectors and Prevention Specialists",39
+"Forest, Conservation, and Logging Workers",39
+"Foresters",32
+"Forestry and Conservation Science Teachers, Postsecondary",47
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",75
+"Foundry Mold and Coremakers",53
+"Fundraisers",42
+"Fundraising Managers",24
+"Funeral Attendants",41
+"Funeral Home Managers",45
+"Funeral Service Workers",37
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",48
+"Furniture Finishers",50
+"Gambling and Sports Book Writers and Runners",74
+"Gambling Cage Workers",59
+"Gambling Change Persons and Booth Cashiers",74
+"Gambling Dealers",76
+"Gambling Managers",38
+"Gambling Service Workers, All Other",53
+"Gambling Surveillance Officers and Gambling Investigators",70
+"Gas Compressor and Gas Pumping Station Operators",63
+"Gas Plant Operators",63
+"General and Operations Managers",39
+"General Internal Medicine Physicians",39
+"Genetic Counselors",31
+"Geographers",32
+"Geography Teachers, Postsecondary",54
+"Geological Technicians, Except Hydrologic Technicians",65
+"Geoscientists, Except Hydrologists and Geographers",52
+"Glaziers",44
+"Graders and Sorters, Agricultural Products",64
+"Graphic Designers",36
+"Grinding and Polishing Workers, Hand",86
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",69
+"Grounds Maintenance Workers",37
+"Grounds Maintenance Workers, All Other",53
+"Hairdressers, Hairstylists, and Cosmetologists",42
+"Hazardous Materials Removal Workers",45
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",34
+"Health Education Specialists",36
+"Health Information Technologists and Medical Registrars",51
+"Health Specialties Teachers, Postsecondary",52
+"Health Technologists and Technicians",35
+"Health Technologists and Technicians, All Other",40
+"Healthcare Diagnosing or Treating Practitioners",31
+"Healthcare Diagnosing or Treating Practitioners, All Other",48
+"Healthcare Practitioners and Technical Workers, All Other",38
+"Healthcare Social Workers",35
+"Healthcare Support Workers, All Other",65
+"Hearing Aid Specialists",32
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",74
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",52
+"Heavy and Tractor-Trailer Truck Drivers",58
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",63
+"Helpers--Carpenters",56
+"Helpers--Electricians",51
+"Helpers--Extraction Workers",41
+"Helpers--Installation, Maintenance, and Repair Workers",51
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",57
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",46
+"Helpers--Production Workers",64
+"Helpers--Roofers",50
+"Helpers, Construction Trades",37
+"Helpers, Construction Trades, All Other",49
+"Highway Maintenance Workers",57
+"Historians",54
+"History Teachers, Postsecondary",54
+"Hoist and Winch Operators",48
+"Home Appliance Repairers",53
+"Home Health and Personal Care Aides",47
+"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",47
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",69
+"Hotel, Motel, and Resort Desk Clerks",70
+"Human Resources Assistants, Except Payroll and Timekeeping",79
+"Human Resources Managers",28
+"Human Resources Specialists",46
+"Hydrologic Technicians",65
+"Hydrologists",33
+"Industrial Engineering Technologists and Technicians",37
+"Industrial Engineers",34
+"Industrial Machinery Mechanics",54
+"Industrial Production Managers",33
+"Industrial Truck and Tractor Operators",57
+"Industrial-Organizational Psychologists",27
+"Information and Record Clerks",40
+"Information and Record Clerks, All Other",36
+"Information Security Analysts",42
+"Inspectors, Testers, Sorters, Samplers, and Weighers",68
+"Installation, Maintenance, and Repair Workers, All Other",62
+"Instructional Coordinators",34
+"Insulation Workers, Floor, Ceiling, and Wall",53
+"Insulation Workers, Mechanical",46
+"Insurance Appraisers, Auto Damage",67
+"Insurance Claims and Policy Processing Clerks",76
+"Insurance Sales Agents",63
+"Insurance Underwriters",74
+"Interior Designers",33
+"Interpreters and Translators",48
+"Interviewers, Except Eligibility and Loan",85
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",49
+"Jewelers and Precious Stone and Metal Workers",70
+"Judges, Magistrate Judges, and Magistrates",43
+"Judicial Law Clerks",48
+"Kindergarten Teachers, Except Special Education",36
+"Labor Relations Specialists",44
+"Laborers and Freight, Stock, and Material Movers, Hand",54
+"Landscape Architects",34
+"Landscaping and Groundskeeping Workers",45
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",71
+"Laundry and Dry-Cleaning Workers",55
+"Law Enforcement Workers",35
+"Law Teachers, Postsecondary",50
+"Lawyers",31
+"Lawyers, Judges, and Related Workers",17
+"Layout Workers, Metal and Plastic",57
+"Legal Secretaries and Administrative Assistants",80
+"Legal Support Workers",35
+"Legal Support Workers, All Other",53
+"Legislators",48
+"Librarians and Media Collections Specialists",58
+"Librarians, Curators, and Archivists",46
+"Library Assistants, Clerical",77
+"Library Science Teachers, Postsecondary",54
+"Library Technicians",78
+"Licensed Practical and Licensed Vocational Nurses",36
+"Life Scientists",32
+"Life Scientists, All Other",32
+"Life, Physical, and Social Science Technicians",35
+"Life, Physical, and Social Science Technicians, All Other",60
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",54
+"Light Truck Drivers",59
+"Lighting Technicians",45
+"Loading and Moving Machine Operators, Underground Mining",70
+"Loan Interviewers and Clerks",73
+"Loan Officers",68
+"Locker Room, Coatroom, and Dressing Room Attendants",49
+"Locksmiths and Safe Repairers",64
+"Locomotive Engineers",61
+"Lodging Managers",38
+"Log Graders and Scalers",69
+"Logging Equipment Operators",57
+"Logging Workers, All Other",52
+"Logisticians",36
+"Machine Feeders and Offbearers",78
+"Machinists",51
+"Magnetic Resonance Imaging Technologists",42
+"Maids and Housekeeping Cleaners",55
+"Mail Clerks and Mail Machine Operators, Except Postal Service",72
+"Maintenance and Repair Workers, General",49
+"Maintenance Workers, Machinery",58
+"Makeup Artists, Theatrical and Performance",38
+"Management Analysts",39
+"Managers, All Other",36
+"Manicurists and Pedicurists",61
+"Manufactured Building and Mobile Home Installers",36
+"Marine Engineers and Naval Architects",33
+"Market Research Analysts and Marketing Specialists",54
+"Marketing Managers",27
+"Marriage and Family Therapists",32
+"Massage Therapists",55
+"Material Moving Workers",37
+"Material Moving Workers, All Other",36
+"Material Recording, Scheduling, Dispatching, and Distributing Workers",39
+"Materials Engineers",34
+"Materials Scientists",35
+"Mathematical Science Occupations",31
+"Mathematical Science Occupations, All Other",67
+"Mathematical Science Teachers, Postsecondary",54
+"Mathematicians",24
+"Meat, Poultry, and Fish Cutters and Trimmers",57
+"Mechanical Door Repairers",55
+"Mechanical Drafters",58
+"Mechanical Engineering Technologists and Technicians",46
+"Mechanical Engineers",32
+"Media and Communication Equipment Workers",35
+"Media and Communication Equipment Workers, All Other",34
+"Media and Communication Workers",34
+"Media and Communication Workers, All Other",33
+"Medical and Health Services Managers",37
+"Medical Appliance Technicians",41
+"Medical Assistants",49
+"Medical Dosimetrists",38
+"Medical Equipment Preparers",58
+"Medical Equipment Repairers",42
+"Medical Records Specialists",69
+"Medical Scientists, Except Epidemiologists",38
+"Medical Secretaries and Administrative Assistants",67
+"Medical Transcriptionists",75
+"Meeting, Convention, and Event Planners",37
+"Mental Health and Substance Abuse Social Workers",36
+"Merchandise Displayers and Window Trimmers",47
+"Metal Workers and Plastic Workers",39
+"Metal Workers and Plastic Workers, All Other",61
+"Metal-Refining Furnace Operators and Tenders",63
+"Meter Readers, Utilities",74
+"Microbiologists",40
+"Middle School Teachers, Except Special and Career/Technical Education",43
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",78
+"Millwrights",46
+"Mining and Geological Engineers, Including Mining Safety Engineers",35
+"Miscellaneous Assemblers and Fabricators",54
+"Miscellaneous Construction and Related Workers",49
+"Mixing and Blending Machine Setters, Operators, and Tenders",70
+"Mobile Heavy Equipment Mechanics, Except Engines",46
+"Model Makers, Metal and Plastic",78
+"Model Makers, Wood",68
+"Models",68
+"Molders, Shapers, and Casters, Except Metal and Plastic",59
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",66
+"Morticians, Undertakers, and Funeral Arrangers",44
+"Motion Picture Projectionists",66
+"Motor Vehicle Operators",36
+"Motor Vehicle Operators, All Other",37
+"Motorboat Mechanics and Service Technicians",50
+"Motorboat Operators",50
+"Motorcycle Mechanics",52
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",63
+"Museum Technicians and Conservators",50
+"Music Directors and Composers",33
+"Musical Instrument Repairers and Tuners",55
+"Musicians and Singers",39
+"Natural Sciences Managers",27
+"Network and Computer Systems Administrators",39
+"Neurologists",50
+"New Accounts Clerks",86
+"News Analysts, Reporters, and Journalists",48
+"Nuclear Engineers",35
+"Nuclear Medicine Technologists",40
+"Nuclear Power Reactor Operators",79
+"Nuclear Technicians",67
+"Nurse Anesthetists",36
+"Nurse Midwives",48
+"Nurse Practitioners",42
+"Nursing Assistants",48
+"Nursing Instructors and Teachers, Postsecondary",47
+"Obstetricians and Gynecologists",54
+"Occupational Health and Safety Specialists",44
+"Occupational Health and Safety Specialists and Technicians",26
+"Occupational Health and Safety Technicians",46
+"Occupational Therapists",28
+"Occupational Therapy Aides",43
+"Occupational Therapy and Physical Therapist Assistants and Aides",23
+"Occupational Therapy Assistants",30
+"Office and Administrative Support Workers, All Other",44
+"Office Clerks, General",79
+"Office Machine Operators, Except Computer",80
+"Operating Engineers and Other Construction Equipment Operators",61
+"Operations Research Analysts",35
+"Operations Specialties Managers",28
+"Ophthalmic Laboratory Technicians",58
+"Ophthalmic Medical Technicians",36
+"Ophthalmologists, Except Pediatric",50
+"Opticians, Dispensing",58
+"Optometrists",30
+"Oral and Maxillofacial Surgeons",36
+"Order Clerks",90
+"Orderlies",43
+"Orthodontists",40
+"Orthopedic Surgeons, Except Pediatric",49
+"Orthotists and Prosthetists",28
+"Other Construction and Related Workers",35
+"Other Educational Instruction and Library Occupations",37
+"Other Food Preparation and Serving Related Workers",37
+"Other Healthcare Practitioners and Technical Occupations",35
+"Other Healthcare Support Occupations",36
+"Other Installation, Maintenance, and Repair Occupations",35
+"Other Management Occupations",31
+"Other Office and Administrative Support Workers",44
+"Other Personal Care and Service Workers",37
+"Other Production Occupations",37
+"Other Protective Service Workers",37
+"Other Sales and Related Workers",36
+"Other Teachers and Instructors",36
+"Other Transportation Workers",37
+"Outdoor Power Equipment and Other Small Engine Mechanics",63
+"Packaging and Filling Machine Operators and Tenders",64
+"Packers and Packagers, Hand",51
+"Painters, Construction and Maintenance",50
+"Painting, Coating, and Decorating Workers",56
+"Paper Goods Machine Setters, Operators, and Tenders",54
+"Paperhangers",63
+"Paralegals and Legal Assistants",69
+"Paramedics",37
+"Parking Attendants",59
+"Parking Enforcement Workers",68
+"Parts Salespersons",68
+"Passenger Attendants",60
+"Patternmakers, Metal and Plastic",76
+"Patternmakers, Wood",67
+"Paving, Surfacing, and Tamping Equipment Operators",56
+"Payroll and Timekeeping Clerks",88
+"Pediatric Surgeons",48
+"Pediatricians, General",40
+"Personal Appearance Workers",37
+"Personal Care and Service Workers, All Other",37
+"Personal Financial Advisors",52
+"Personal Service Managers, All Other",44
+"Pest Control Workers",57
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",46
+"Petroleum Engineers",36
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",59
+"Pharmacists",36
+"Pharmacy Aides",59
+"Pharmacy Technicians",68
+"Philosophy and Religion Teachers, Postsecondary",54
+"Phlebotomists",64
+"Photographers",41
+"Photographic Process Workers and Processing Machine Operators",72
+"Physical Scientists",33
+"Physical Scientists, All Other",44
+"Physical Therapist Aides",54
+"Physical Therapist Assistants",33
+"Physical Therapists",31
+"Physician Assistants",36
+"Physicians, All Other",47
+"Physicians, Pathologists",54
+"Physicists",28
+"Physics Teachers, Postsecondary",48
+"Pile Driver Operators",43
+"Pipelayers",54
+"Plant and System Operators",46
+"Plant and System Operators, All Other",62
+"Plasterers and Stucco Masons",37
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",76
+"Plumbers, Pipefitters, and Steamfitters",41
+"Podiatrists",28
+"Police and Sheriff's Patrol Officers",38
+"Political Science Teachers, Postsecondary",53
+"Political Scientists",25
+"Postal Service Clerks",70
+"Postal Service Mail Carriers",68
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",65
+"Postmasters and Mail Superintendents",55
+"Postsecondary Teachers",22
+"Postsecondary Teachers, All Other",22
+"Pourers and Casters, Metal",46
+"Power Distributors and Dispatchers",57
+"Power Plant Operators",69
+"Precision Instrument and Equipment Repairers, All Other",51
+"Prepress Technicians and Workers",78
+"Preschool Teachers, Except Special Education",32
+"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",36
+"Pressers, Textile, Garment, and Related Materials",64
+"Print Binding and Finishing Workers",75
+"Printing Press Operators",71
+"Printing Workers",46
+"Private Detectives and Investigators",53
+"Probation Officers and Correctional Treatment Specialists",48
+"Procurement Clerks",83
+"Producers and Directors",37
+"Production Workers, All Other",49
+"Production, Planning, and Expediting Clerks",67
+"Project Management Specialists",36
+"Proofreaders and Copy Markers",71
+"Property Appraisers and Assessors",49
+"Property, Real Estate, and Community Association Managers",59
+"Prosthodontists",34
+"Protective Service Workers, All Other",61
+"Psychiatric Aides",53
+"Psychiatric Technicians",32
+"Psychiatrists",46
+"Psychologists, All Other",32
+"Psychology Teachers, Postsecondary",54
+"Public Relations Managers",26
+"Public Relations Specialists",36
+"Public Safety Telecommunicators",56
+"Pump Operators, Except Wellhead Pumpers",65
+"Purchasing Managers",32
+"Radiation Therapists",45
+"Radio, Cellular, and Tower Equipment Installers and Repairers",59
+"Radiologic Technologists and Technicians",44
+"Radiologists",50
+"Rail Car Repairers",56
+"Rail Transportation Workers",34
+"Rail Transportation Workers, All Other",36
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",60
+"Rail-Track Laying and Maintenance Equipment Operators",55
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",57
+"Railroad Conductors and Yardmasters",65
+"Real Estate Brokers",63
+"Real Estate Sales Agents",57
+"Receptionists and Information Clerks",73
+"Recreation and Fitness Studies Teachers, Postsecondary",55
+"Recreation Workers",35
+"Recreational Therapists",31
+"Recreational Vehicle Service Technicians",50
+"Refractory Materials Repairers, Except Brickmasons",68
+"Refuse and Recyclable Material Collectors",63
+"Registered Nurses",33
+"Rehabilitation Counselors",37
+"Reinforcing Iron and Rebar Workers",39
+"Religious Workers",35
+"Religious Workers, All Other",36
+"Reservation and Transportation Ticket Agents and Travel Clerks",53
+"Residential Advisors",41
+"Respiratory Therapists",35
+"Retail Sales Workers",31
+"Retail Salespersons",66
+"Riggers",43
+"Rock Splitters, Quarry",57
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",70
+"Roof Bolters, Mining",63
+"Roofers",60
+"Rotary Drill Operators, Oil and Gas",45
+"Roustabouts, Oil and Gas",48
+"Sailors and Marine Oilers",53
+"Sales and Related Workers, All Other",52
+"Sales Engineers",36
+"Sales Managers",36
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",48
+"Sales Representatives, Services",35
+"Sales Representatives, Wholesale and Manufacturing",47
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",61
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",37
+"Sawing Machine Setters, Operators, and Tenders, Wood",59
+"School Bus Monitors",58
+"School Psychologists",30
+"Secondary School Teachers, Except Special and Career/Technical Education",37
+"Secretaries and Administrative Assistants",53
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",73
+"Securities, Commodities, and Financial Services Sales Agents",39
+"Security and Fire Alarm Systems Installers",61
+"Security Guards",60
+"Self-Enrichment Teachers",37
+"Semiconductor Processing Technicians",61
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",66
+"Septic Tank Servicers and Sewer Pipe Cleaners",51
+"Service Unit Operators, Oil and Gas",58
+"Set and Exhibit Designers",28
+"Sewers, Hand",66
+"Sewing Machine Operators",67
+"Shampooers",62
+"Sheet Metal Workers",50
+"Ship Engineers",33
+"Shipping, Receiving, and Inventory Clerks",82
+"Shoe and Leather Workers and Repairers",45
+"Shoe Machine Operators and Tenders",58
+"Shuttle Drivers and Chauffeurs",48
+"Signal and Track Switch Repairers",56
+"Skincare Specialists",46
+"Slaughterers and Meat Packers",47
+"Social and Community Service Managers",40
+"Social and Human Service Assistants",47
+"Social Science Research Assistants",58
+"Social Sciences Teachers, Postsecondary, All Other",34
+"Social Scientists and Related Workers",21
+"Social Scientists and Related Workers, All Other",32
+"Social Work Teachers, Postsecondary",49
+"Social Workers, All Other",22
+"Sociologists",42
+"Sociology Teachers, Postsecondary",50
+"Software Developers",34
+"Software Quality Assurance Analysts and Testers",44
+"Soil and Plant Scientists",34
+"Solar Photovoltaic Installers",47
+"Sound Engineering Technicians",46
+"Special Education Teachers, All Other",39
+"Special Education Teachers, Kindergarten and Elementary School",25
+"Special Education Teachers, Middle School",37
+"Special Education Teachers, Preschool",29
+"Special Education Teachers, Secondary School",37
+"Special Effects Artists and Animators",25
+"Speech-Language Pathologists",33
+"Stationary Engineers and Boiler Operators",60
+"Statistical Assistants",67
+"Statisticians",41
+"Stockers and Order Fillers",60
+"Stonemasons",42
+"Structural Iron and Steel Workers",54
+"Structural Metal Fabricators and Fitters",53
+"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",23
+"Substitute Teachers, Short-Term",45
+"Subway and Streetcar Operators",59
+"Supervisors of Building and Grounds Cleaning and Maintenance Workers",36
+"Supervisors of Construction and Extraction Workers",33
+"Supervisors of Farming, Fishing, and Forestry Workers",35
+"Supervisors of Food Preparation and Serving Workers",43
+"Supervisors of Installation, Maintenance, and Repair Workers",33
+"Supervisors of Office and Administrative Support Workers",23
+"Supervisors of Personal Care and Service Workers",36
+"Supervisors of Production Workers",34
+"Supervisors of Protective Service Workers",33
+"Supervisors of Sales Workers",40
+"Supervisors of Transportation and Material Moving Workers",35
+"Surgeons, All Other",35
+"Surgical Assistants",36
+"Surgical Technologists",44
+"Survey Researchers",51
+"Surveying and Mapping Technicians",67
+"Surveyors",50
+"Switchboard Operators, Including Answering Service",92
+"Tailors, Dressmakers, and Custom Sewers",55
+"Tank Car, Truck, and Ship Loaders",55
+"Tapers",45
+"Tax Examiners and Collectors, and Revenue Agents",74
+"Tax Preparers",72
+"Taxi Drivers",61
+"Teachers and Instructors, All Other",23
+"Teaching Assistants, Except Postsecondary",43
+"Teaching Assistants, Postsecondary",56
+"Technical Writers",64
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",49
+"Telecommunications Line Installers and Repairers",49
+"Telemarketers",96
+"Telephone Operators",89
+"Tellers",86
+"Terrazzo Workers and Finishers",61
+"Textile Bleaching and Dyeing Machine Operators and Tenders",73
+"Textile Cutting Machine Setters, Operators, and Tenders",73
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",67
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",72
+"Textile, Apparel, and Furnishings Workers",40
+"Textile, Apparel, and Furnishings Workers, All Other",61
+"Therapists, All Other",35
+"Tile and Stone Setters",43
+"Timing Device Assemblers and Adjusters",65
+"Tire Builders",55
+"Tire Repairers and Changers",50
+"Title Examiners, Abstractors, and Searchers",71
+"Tool and Die Makers",66
+"Tool Grinders, Filers, and Sharpeners",65
+"Top Executives",31
+"Tour and Travel Guides",52
+"Traffic Technicians",62
+"Training and Development Managers",32
+"Training and Development Specialists",36
+"Transit and Railroad Police",56
+"Transportation Inspectors",63
+"Transportation Security Screeners",53
+"Transportation Workers, All Other",37
+"Transportation, Storage, and Distribution Managers",51
+"Travel Agents",48
+"Tree Trimmers and Pruners",58
+"Tutors",50
+"Umpires, Referees, and Other Sports Officials",75
+"Underground Mining Machine Operators, All Other",46
+"Upholsterers",43
+"Urban and Regional Planners",41
+"Ushers, Lobby Attendants, and Ticket Takers",66
+"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",35
+"Veterinarians",34
+"Veterinary Assistants and Laboratory Animal Caretakers",68
+"Veterinary Technologists and Technicians",38
+"Waiters and Waitresses",62
+"Watch and Clock Repairers",64
+"Water and Wastewater Treatment Plant and System Operators",62
+"Water Transportation Workers",34
+"Web and Digital Interface Designers",46
+"Web Developers",40
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",70
+"Welders, Cutters, Solderers, and Brazers",62
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",62
+"Wellhead Pumpers",60
+"Wind Turbine Service Technicians",46
+"Woodworkers",38
+"Woodworkers, All Other",41
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",63
+"Word Processors and Typists",87
+"Writers and Authors",38
+"Zoologists and Wildlife Biologists",50
