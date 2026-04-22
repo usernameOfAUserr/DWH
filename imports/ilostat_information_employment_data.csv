@@ -126,6 +126,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Burundi,HIES - Living Standards Survey,4.829,2020
 ,Burundi,HIES - Living Standards Survey,4.261,2017
 ,Burundi,HIES - Living Standards Survey,4.052,2014
+,Belgium,LFS - EU Labour Force Survey,219.8,2025
 ,Belgium,LFS - EU Labour Force Survey,200.621,2024
 ,Belgium,LFS - EU Labour Force Survey,183.454,2023
 ,Belgium,LFS - EU Labour Force Survey,196.385,2022
@@ -154,6 +155,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Bangladesh,LFS - Labour Force Survey,179.025,2016
 ,Bangladesh,LFS - Labour Force Survey,143.713,2013
 ,Bangladesh,LFS - Labour Force Survey,54.869,2010
+,Bulgaria,LFS - EU Labour Force Survey,129.3,2025
 ,Bulgaria,LFS - EU Labour Force Survey,116.169,2024
 ,Bulgaria,LFS - EU Labour Force Survey,120.429,2023
 ,Bulgaria,LFS - EU Labour Force Survey,104.339,2022
@@ -261,6 +263,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Botswana,HS - Multi-Topic Household Survey,6.306,2019
 ,Botswana,PC - Population Census,16.96,2011
 ,Botswana,"HS - Core Welfare Indicators Survey, Poverty",7.477,2010
+,Switzerland,LFS - Labour Force Survey,180.2,2025
 ,Switzerland,LFS - Labour Force Survey,191.324,2024
 ,Switzerland,LFS - Labour Force Survey,190.576,2023
 ,Switzerland,LFS - Labour Force Survey,192.624,2022
@@ -333,6 +336,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Cayman Islands,LFS - Labour Force Survey,0.912,2013
 ,Cayman Islands,LFS - Labour Force Survey,0.943,2012
 ,Cayman Islands,LFS - Labour Force Survey,0.614,2011
+,Cyprus,LFS - Labour Force Survey,25.7,2025
 ,Cyprus,LFS - Labour Force Survey,25.998,2024
 ,Cyprus,LFS - Labour Force Survey,27.204,2023
 ,Cyprus,LFS - Labour Force Survey,18.987,2022
@@ -350,6 +354,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Cyprus,LFS - Labour Force Survey,8.352,2010
 ,Cyprus,LFS - Labour Force Survey,8.203,2009
 ,Cyprus,LFS - Labour Force Survey,9.178,2008
+,Czechia,LFS - Labour Force Sample Survey,211.2,2025
 ,Czechia,LFS - Labour Force Sample Survey,186.778,2024
 ,Czechia,LFS - Labour Force Sample Survey,170.106,2023
 ,Czechia,LFS - Labour Force Sample Survey,187.593,2022
@@ -374,6 +379,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Czechia,LFS - Labour Force Sample Survey,195.925,1995
 ,Czechia,LFS - Labour Force Sample Survey,188.33,1994
 ,Czechia,LFS - Labour Force Sample Survey,198.279,1993
+,Germany,LFS - EU Labour Force Survey,1683.3,2025
 ,Germany,LFS - EU Labour Force Survey,1751.959,2024
 ,Germany,LFS - EU Labour Force Survey,1681.276,2023
 ,Germany,LFS - EU Labour Force Survey,1625.853,2022
@@ -391,6 +397,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Germany,LFS - EU Labour Force Survey,1228.741,2010
 ,Germany,LFS - EU Labour Force Survey,1195.172,2009
 ,Germany,LFS - EU Labour Force Survey,1191.8,2008
+,Denmark,LFS - EU Labour Force Survey,127.3,2025
 ,Denmark,LFS - EU Labour Force Survey,127.228,2024
 ,Denmark,LFS - EU Labour Force Survey,133.28,2023
 ,Denmark,LFS - EU Labour Force Survey,130.246,2022
@@ -449,6 +456,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Egypt,LFS - Labour Force Sample Survey,197.662,2011
 ,Egypt,LFS - Labour Force Sample Survey,211.16,2010
 ,Egypt,LFS - Labour Force Sample Survey,208.189,2009
+,Spain,LFS - EU Labour Force Survey,840.1,2025
 ,Spain,LFS - EU Labour Force Survey,757.424,2024
 ,Spain,LFS - EU Labour Force Survey,791.08,2023
 ,Spain,LFS - EU Labour Force Survey,742.332,2022
@@ -466,6 +474,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Spain,LFS - EU Labour Force Survey,516.306,2010
 ,Spain,LFS - EU Labour Force Survey,599.883,2009
 ,Spain,LFS - EU Labour Force Survey,538.948,2008
+,Estonia,LFS - Labour Force Survey,40.2,2025
 ,Estonia,LFS - Labour Force Survey,40.025,2024
 ,Estonia,LFS - Labour Force Survey,36.716,2023
 ,Estonia,LFS - Labour Force Survey,36.703,2022
@@ -485,6 +494,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Estonia,LFS - Labour Force Survey,15.639,2008
 ,Ethiopia,LFS - National Labor Force Survey,92.4,2021
 ,Ethiopia,LFS - National Labor Force Survey,59.685,2013
+,Finland,LFS - EU Labour Force Survey,135,2025
 ,Finland,LFS - EU Labour Force Survey,130.701,2024
 ,Finland,LFS - EU Labour Force Survey,145.86,2023
 ,Finland,LFS - EU Labour Force Survey,129.152,2022
@@ -506,6 +516,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Fiji,"LFS - Employment, Unemployment Survey",1.222,2016
 ,Fiji,"LFS - Employment, Unemployment Survey",3.319,2014
 ,"Falkland Islands, Malvinas",PC - Population Census,0.07,2012
+,France,LFS - Employment Survey,1116.4,2025
 ,France,LFS - Employment Survey,1034.686,2024
 ,France,LFS - Employment Survey,1013.51,2023
 ,France,LFS - Employment Survey,978.731,2022
@@ -623,6 +634,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Honduras,HS - Continous Multi-Purpose Household Survey,27.157,2017
 ,Honduras,HS - Continous Multi-Purpose Household Survey,34.476,2016
 ,Honduras,HS - Continous Multi-Purpose Household Survey,21.745,2015
+,Croatia,LFS - EU Labour Force Survey,75.8,2025
 ,Croatia,LFS - EU Labour Force Survey,74.142,2024
 ,Croatia,LFS - EU Labour Force Survey,62.655,2023
 ,Croatia,LFS - EU Labour Force Survey,56.074,2022
@@ -641,6 +653,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Croatia,LFS - EU Labour Force Survey,42.554,2009
 ,Croatia,LFS - EU Labour Force Survey,39.658,2008
 ,Haiti,HIES - Households Living Conditions Survey,13.113,2012
+,Hungary,LFS - Labour Force Survey,163.8,2025
 ,Hungary,LFS - Labour Force Survey,179.615,2024
 ,Hungary,LFS - Labour Force Survey,179.719,2023
 ,Hungary,LFS - Labour Force Survey,168.568,2022
@@ -672,6 +685,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,India,LFS - Periodic Labour Force Survey,4005.613,2019
 ,India,LFS - Periodic Labour Force Survey,3672.496,2018
 ,India,HS - National Sample Survey,3253.312,2012
+,Ireland,LFS - EU Labour Force Survey,180,2025
 ,Ireland,LFS - EU Labour Force Survey,192.625,2024
 ,Ireland,LFS - EU Labour Force Survey,175.269,2023
 ,Ireland,LFS - EU Labour Force Survey,166.184,2022
@@ -740,6 +754,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Israel,LFS - Labour Force Survey,173.758,2014
 ,Israel,LFS - Labour Force Survey,166.011,2013
 ,Israel,LFS - Labour Force Survey,161.37,2012
+,Italy,LFS - EU Labour Force Survey,710.8,2025
 ,Italy,LFS - EU Labour Force Survey,760.757,2024
 ,Italy,LFS - EU Labour Force Survey,776.095,2023
 ,Italy,LFS - EU Labour Force Survey,688.534,2022
@@ -916,6 +931,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Sri Lanka,LFS - Labour Force Survey,55.2,2013
 ,Lesotho,LFS - Integrated Labour Force Survey,2.452,2024
 ,Lesotho,LFS - Integrated Labour Force Survey,2.085,2019
+,Lithuania,LFS - EU Labour Force Survey,72.6,2025
 ,Lithuania,LFS - EU Labour Force Survey,70.939,2024
 ,Lithuania,LFS - EU Labour Force Survey,62.176,2023
 ,Lithuania,LFS - EU Labour Force Survey,57.063,2022
@@ -950,6 +966,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Luxembourg,LFS - EU Labour Force Survey,8.958,2010
 ,Luxembourg,LFS - EU Labour Force Survey,7.245,2009
 ,Luxembourg,LFS - EU Labour Force Survey,6.829,2008
+,Latvia,LFS - EU Labour Force Survey,40.7,2025
 ,Latvia,LFS - EU Labour Force Survey,45.892,2024
 ,Latvia,LFS - EU Labour Force Survey,42.895,2023
 ,Latvia,LFS - EU Labour Force Survey,44.328,2022
@@ -1040,6 +1057,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Mali,LFS - Continous Household Employment Survey,7.937,2015
 ,Mali,LFS - Continous Household Employment Survey,5.934,2014
 ,Mali,LFS - Continous Household Employment Survey,6.57,2013
+,Malta,LFS - Labour Force Survey,14.1,2025
 ,Malta,LFS - Labour Force Survey,16.59,2024
 ,Malta,LFS - Labour Force Survey,14.492,2023
 ,Malta,LFS - Labour Force Survey,13.358,2022
@@ -1146,6 +1164,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Niue,PC - Population Census,0.045,2022
 ,Niue,PC - Population Census,0.039,2017
 ,Niue,HIES - Household Income and Expenditure Survey,0.04,2015
+,Netherlands,LFS - EU Labour Force Survey,437.6,2025
 ,Netherlands,LFS - EU Labour Force Survey,434.815,2024
 ,Netherlands,LFS - EU Labour Force Survey,421.82,2023
 ,Netherlands,LFS - EU Labour Force Survey,432.704,2022
@@ -1163,6 +1182,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Netherlands,LFS - EU Labour Force Survey,296.356,2010
 ,Netherlands,LFS - EU Labour Force Survey,297.195,2009
 ,Netherlands,LFS - EU Labour Force Survey,311.045,2008
+,Norway,LFS - EU Labour Force Survey,135.1,2025
 ,Norway,LFS - EU Labour Force Survey,129.781,2024
 ,Norway,LFS - EU Labour Force Survey,138.794,2023
 ,Norway,LFS - EU Labour Force Survey,126.189,2022
@@ -1253,6 +1273,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Palau,PC - Population Census,0.192,2020
 ,Palau,HIES - Household Income and Expenditure Survey,0.14,2014
 ,Papua New Guinea,HS - Socio-Demographic and Economic Survey,9.207,2022
+,Poland,LFS - EU Labour Force Survey,686.1,2025
 ,Poland,LFS - Labour Force Survey,670.739,2024
 ,Poland,LFS - Labour Force Survey,603.375,2023
 ,Poland,LFS - Labour Force Survey,490.135,2022
@@ -1270,7 +1291,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Poland,LFS - Labour Force Survey,302.48,2010
 ,Poland,LFS - Labour Force Survey,317.696,2009
 ,Poland,LFS - Labour Force Survey,296.081,2008
-,Portugal,LFS - Employment Survey,222.195,2025
+,Portugal,LFS - EU Labour Force Survey,222.3,2025
 ,Portugal,LFS - EU Labour Force Survey,206.033,2024
 ,Portugal,LFS - EU Labour Force Survey,170.209,2023
 ,Portugal,LFS - EU Labour Force Survey,184.471,2022
@@ -1328,6 +1349,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Qatar,LFS - Labor Force Sample Survey,11.417,2012
 ,Qatar,LFS - Labor Force Sample Survey,9.924,2011
 ,Réunion,LFS - Labour Force Survey,3.38,2012
+,Romania,LFS - Household Labour Force Survey,204.7,2025
 ,Romania,LFS - Household Labour Force Survey,206.685,2024
 ,Romania,LFS - Household Labour Force Survey,182.287,2023
 ,Romania,LFS - Household Labour Force Survey,201.83,2022
@@ -1444,6 +1466,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Suriname,HIES - Survey on Living Conditions,4.896,2016
 ,Suriname,LFS - Continuous Household Sample Survey,3.052,2015
 ,Suriname,LFS - Continuous Household Sample Survey,2.33,2013
+,Slovakia,LFS - Labour Force Survey,107.1,2025
 ,Slovakia,LFS - Labour Force Survey,112.229,2024
 ,Slovakia,LFS - Labour Force Survey,73.093,2023
 ,Slovakia,LFS - Labour Force Survey,107.868,2022
@@ -1461,6 +1484,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Slovakia,LFS - Labour Force Survey,41.361,2010
 ,Slovakia,LFS - Labour Force Survey,48.746,2009
 ,Slovakia,LFS - Labour Force Survey,45.846,2008
+,Slovenia,LFS - Labour Force Survey,36.3,2025
 ,Slovenia,LFS - Labour Force Survey,35.039,2024
 ,Slovenia,LFS - Labour Force Survey,30.826,2023
 ,Slovenia,LFS - Labour Force Survey,36.266,2022
@@ -1478,6 +1502,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Slovenia,LFS - Labour Force Survey,32.323,2010
 ,Slovenia,LFS - Labour Force Survey,31.044,2009
 ,Slovenia,LFS - Labour Force Survey,28.764,2008
+,Sweden,LFS - EU Labour Force Survey,303,2025
 ,Sweden,LFS - EU Labour Force Survey,303.06,2024
 ,Sweden,LFS - EU Labour Force Survey,321.115,2023
 ,Sweden,LFS - EU Labour Force Survey,314.718,2022
@@ -1549,6 +1574,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Tunisia,LFS - National Population and Employment Survey,45.472,2022
 ,Tunisia,HIES - National Survey on Household Budget and Consumption,62.275,2021
 ,Tunisia,LFS - National Population and Employment Survey,49.386,2019
+,Türkiye,LFS - Household Labour Force Survey,377.7,2025
 ,Türkiye,LFS - Household Labour Force Survey,345.529,2024
 ,Türkiye,LFS - Household Labour Force Survey,313.45,2023
 ,Türkiye,LFS - Household Labour Force Survey,281.62,2022
