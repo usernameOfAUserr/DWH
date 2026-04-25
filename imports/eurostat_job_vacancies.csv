@@ -1,841 +1,1710 @@
 FREQ,S_ADJ,NACE_R2,SIZECLAS,INDIC_EM,GEO,TIME_PERIOD,OBSERVATION_VALUE
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,9338
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,475
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,591
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,4674
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,67005
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,3998
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1046
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1094
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,8953
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,5263
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,45402
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,195
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2873
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1100
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1190
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,557
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1141
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,355
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,21300
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,6707
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,8510
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,4940
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2264
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,9300
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,605
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,475
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,4.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,6.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,3.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,3.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,4.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,3.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,3.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,3.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,4.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,6.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,5.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,3.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,2.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-1.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-1.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-2.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,8818
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,676
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,653
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,3798
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,73296
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,4013
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,555
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1093
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,9243
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2904
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,34338
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,208
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,3055
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1100
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1073
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,527
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1106
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,609
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,21000
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,5006
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,6839
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,4492
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2522
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,8700
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,578
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,441
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,4.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,6.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,4.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,3.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,4.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,5.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,3.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,3.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-1.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-1.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,1.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,9832
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,441
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,558
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,3175
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,62325
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,3687
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,923
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,496
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,7820
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2164
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,34582
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,199
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2405
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,1300
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,1177
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,424
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,945
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,632
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,20200
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,5005
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,6715
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,4889
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2033
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,8000
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,618
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,447
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,4.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,6.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,3.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,3.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,1.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,5.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,5.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,1.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,2.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2023-Q4,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,7845
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,578
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,600
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,3119
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,76488
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,4302
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,537
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,732
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,9558
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,3174
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,27458
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,189
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,2160
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1300
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1223
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,306
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1149
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,775
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,19600
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,4098
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,5712
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,5810
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1802
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,6600
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,637
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,464
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,4.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,5.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,3.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,3.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,2.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,4.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,3.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,2.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,2.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,2.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,2.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,6.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,5.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,3.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,4.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,2.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,2.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,1.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,-0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q1,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,8075
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,521
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,683
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2942
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,65375
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,4295
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,672
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1319
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,9177
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,4423
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,26881
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,218
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2250
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1600
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1143
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,273
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1212
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,785
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,19100
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,4351
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,5767
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,5811
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1639
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,11700
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,576
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,349
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,5.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,5.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,3.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,4.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,3.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,6.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,5.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,3.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,4.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,1.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,7299
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,645
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,737
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,2654
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,60379
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,4783
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,934
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,653
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,8739
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,2920
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,22863
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,155
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,2367
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1600
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1033
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,270
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1226
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,710
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,18200
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,4850
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,5466
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,5447
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1748
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,10900
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,551
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,260
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,4.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,5.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,2.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,3.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,4.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,3.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,2.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,2.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,3.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,5.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,5.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,4.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,3.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,4.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,1.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,6424
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,698
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,825
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,2393
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,65091
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,4324
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1205
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,926
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,8422
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,2198
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,28007
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,214
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,2211
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1700
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,986
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,298
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,930
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,703
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,18600
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,4990
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,5077
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,5140
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1561
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,11600
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,454
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,303
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,3.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,4.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,2.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,4.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,2.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,2.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,5.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,5.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,3.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,4.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,1.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2024-Q4,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,6509
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,775
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,774
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1596
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,50481
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,4388
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,457
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,795
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,8840
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,2767
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,21866
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,162
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,2414
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1800
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1007
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,320
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1087
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,602
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,17500
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,5157
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,5036
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,5740
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1751
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,11900
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,460
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,360
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,4.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,2.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,3.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,2.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,2.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,4.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,5.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,4.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,4.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,1.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-1.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-2.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q1,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,7003
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,626
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,863
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1488
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,50563
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,4105
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,436
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,591
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,9087
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,2216
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,24144
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,165
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,2117
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,2400
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1014
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,316
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,842
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,593
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,17600
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,4141
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,4819
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,5899
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1624
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,7900
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,506
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,311
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,3.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,5.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,2.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,3.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,3.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,2.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,2.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,2.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,4.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,5.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,3.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,4.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,-1.6
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q2,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,5870
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,669
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,836
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1409
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,34126
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,3900
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,544
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,525
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,7744
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1361
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,22502
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,135
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,2085
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1900
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1027
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,261
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,947
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,679
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,16600
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,3844
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,4900
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,5817
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1602
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,8500
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,427
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,350
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,5.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,4.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,3.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,2.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,3.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,2.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,2.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1.9
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,2.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,2.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,5.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,4.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,3.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,4.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,3.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,1.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.8
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-1.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.4
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.5
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.7
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.2
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.1
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.0
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,-0.3
-Q,"Seasonally adjusted data, not calendar adjusted data",J,Total,JOBVAC,DE,2025-Q3,0.1
+Q,SA,J,TOTAL,JOBVAC,BE,2013-Q1,2890
+Q,SA,J,TOTAL,JOBVAC,BE,2013-Q2,3617
+Q,SA,J,TOTAL,JOBVAC,BE,2013-Q3,3418
+Q,SA,J,TOTAL,JOBVAC,BE,2013-Q4,3182
+Q,SA,J,TOTAL,JOBVAC,BE,2014-Q1,3826
+Q,SA,J,TOTAL,JOBVAC,BE,2014-Q2,3881
+Q,SA,J,TOTAL,JOBVAC,BE,2014-Q3,4062
+Q,SA,J,TOTAL,JOBVAC,BE,2014-Q4,3827
+Q,SA,J,TOTAL,JOBVAC,BE,2015-Q1,4751
+Q,SA,J,TOTAL,JOBVAC,BE,2015-Q2,4803
+Q,SA,J,TOTAL,JOBVAC,BE,2015-Q3,4777
+Q,SA,J,TOTAL,JOBVAC,BE,2015-Q4,4661
+Q,SA,J,TOTAL,JOBVAC,BE,2016-Q1,5519
+Q,SA,J,TOTAL,JOBVAC,BE,2016-Q2,5738
+Q,SA,J,TOTAL,JOBVAC,BE,2016-Q3,7338
+Q,SA,J,TOTAL,JOBVAC,BE,2016-Q4,7289
+Q,SA,J,TOTAL,JOBVAC,BE,2017-Q1,6159
+Q,SA,J,TOTAL,JOBVAC,BE,2017-Q2,7428
+Q,SA,J,TOTAL,JOBVAC,BE,2017-Q3,7900
+Q,SA,J,TOTAL,JOBVAC,BE,2017-Q4,7359
+Q,SA,J,TOTAL,JOBVAC,BE,2018-Q1,8087
+Q,SA,J,TOTAL,JOBVAC,BE,2018-Q2,8113
+Q,SA,J,TOTAL,JOBVAC,BE,2018-Q3,7670
+Q,SA,J,TOTAL,JOBVAC,BE,2018-Q4,7614
+Q,SA,J,TOTAL,JOBVAC,BE,2019-Q1,8238
+Q,SA,J,TOTAL,JOBVAC,BE,2019-Q2,8124
+Q,SA,J,TOTAL,JOBVAC,BE,2019-Q3,7399
+Q,SA,J,TOTAL,JOBVAC,BE,2019-Q4,6817
+Q,SA,J,TOTAL,JOBVAC,BE,2020-Q1,7645
+Q,SA,J,TOTAL,JOBVAC,BE,2020-Q2,5763
+Q,SA,J,TOTAL,JOBVAC,BE,2020-Q3,7311
+Q,SA,J,TOTAL,JOBVAC,BE,2020-Q4,8153
+Q,SA,J,TOTAL,JOBVAC,BE,2021-Q1,9046
+Q,SA,J,TOTAL,JOBVAC,BE,2021-Q2,9367
+Q,SA,J,TOTAL,JOBVAC,BE,2021-Q3,12126
+Q,SA,J,TOTAL,JOBVAC,BE,2021-Q4,12827
+Q,SA,J,TOTAL,JOBVAC,BE,2022-Q1,12463
+Q,SA,J,TOTAL,JOBVAC,BE,2022-Q2,12891
+Q,SA,J,TOTAL,JOBVAC,BE,2022-Q3,11554
+Q,SA,J,TOTAL,JOBVAC,BE,2022-Q4,10757
+Q,SA,J,TOTAL,JOBVAC,BE,2023-Q1,11485
+Q,SA,J,TOTAL,JOBVAC,BE,2023-Q2,9338
+Q,SA,J,TOTAL,JOBVAC,BE,2023-Q3,8818
+Q,SA,J,TOTAL,JOBVAC,BE,2023-Q4,9832
+Q,SA,J,TOTAL,JOBVAC,BE,2024-Q1,7845
+Q,SA,J,TOTAL,JOBVAC,BE,2024-Q2,8075
+Q,SA,J,TOTAL,JOBVAC,BE,2024-Q3,7299
+Q,SA,J,TOTAL,JOBVAC,BE,2024-Q4,6424
+Q,SA,J,TOTAL,JOBVAC,BE,2025-Q1,6509
+Q,SA,J,TOTAL,JOBVAC,BE,2025-Q2,7003
+Q,SA,J,TOTAL,JOBVAC,BE,2025-Q3,5870
+Q,SA,J,TOTAL,JOBVAC,BE,2025-Q4,5777
+Q,SA,J,TOTAL,JOBVAC,BG,2009-Q1,89
+Q,SA,J,TOTAL,JOBVAC,BG,2009-Q2,75
+Q,SA,J,TOTAL,JOBVAC,BG,2009-Q3,88
+Q,SA,J,TOTAL,JOBVAC,BG,2009-Q4,136
+Q,SA,J,TOTAL,JOBVAC,BG,2010-Q1,151
+Q,SA,J,TOTAL,JOBVAC,BG,2010-Q2,51
+Q,SA,J,TOTAL,JOBVAC,BG,2010-Q3,111
+Q,SA,J,TOTAL,JOBVAC,BG,2010-Q4,156
+Q,SA,J,TOTAL,JOBVAC,BG,2011-Q1,174
+Q,SA,J,TOTAL,JOBVAC,BG,2011-Q2,311
+Q,SA,J,TOTAL,JOBVAC,BG,2011-Q3,115
+Q,SA,J,TOTAL,JOBVAC,BG,2011-Q4,137
+Q,SA,J,TOTAL,JOBVAC,BG,2012-Q1,169
+Q,SA,J,TOTAL,JOBVAC,BG,2012-Q2,166
+Q,SA,J,TOTAL,JOBVAC,BG,2012-Q3,230
+Q,SA,J,TOTAL,JOBVAC,BG,2012-Q4,182
+Q,SA,J,TOTAL,JOBVAC,BG,2013-Q1,198
+Q,SA,J,TOTAL,JOBVAC,BG,2013-Q2,235
+Q,SA,J,TOTAL,JOBVAC,BG,2013-Q3,171
+Q,SA,J,TOTAL,JOBVAC,BG,2013-Q4,193
+Q,SA,J,TOTAL,JOBVAC,BG,2014-Q1,159
+Q,SA,J,TOTAL,JOBVAC,BG,2014-Q2,141
+Q,SA,J,TOTAL,JOBVAC,BG,2014-Q3,151
+Q,SA,J,TOTAL,JOBVAC,BG,2014-Q4,170
+Q,SA,J,TOTAL,JOBVAC,BG,2015-Q1,118
+Q,SA,J,TOTAL,JOBVAC,BG,2015-Q2,216
+Q,SA,J,TOTAL,JOBVAC,BG,2015-Q3,201
+Q,SA,J,TOTAL,JOBVAC,BG,2015-Q4,227
+Q,SA,J,TOTAL,JOBVAC,BG,2016-Q1,361
+Q,SA,J,TOTAL,JOBVAC,BG,2016-Q2,232
+Q,SA,J,TOTAL,JOBVAC,BG,2016-Q3,334
+Q,SA,J,TOTAL,JOBVAC,BG,2016-Q4,208
+Q,SA,J,TOTAL,JOBVAC,BG,2017-Q1,249
+Q,SA,J,TOTAL,JOBVAC,BG,2017-Q2,221
+Q,SA,J,TOTAL,JOBVAC,BG,2017-Q3,436
+Q,SA,J,TOTAL,JOBVAC,BG,2017-Q4,330
+Q,SA,J,TOTAL,JOBVAC,BG,2018-Q1,315
+Q,SA,J,TOTAL,JOBVAC,BG,2018-Q2,402
+Q,SA,J,TOTAL,JOBVAC,BG,2018-Q3,444
+Q,SA,J,TOTAL,JOBVAC,BG,2018-Q4,561
+Q,SA,J,TOTAL,JOBVAC,BG,2019-Q1,361
+Q,SA,J,TOTAL,JOBVAC,BG,2019-Q2,400
+Q,SA,J,TOTAL,JOBVAC,BG,2019-Q3,499
+Q,SA,J,TOTAL,JOBVAC,BG,2019-Q4,601
+Q,SA,J,TOTAL,JOBVAC,BG,2020-Q1,540
+Q,SA,J,TOTAL,JOBVAC,BG,2020-Q2,294
+Q,SA,J,TOTAL,JOBVAC,BG,2020-Q3,339
+Q,SA,J,TOTAL,JOBVAC,BG,2020-Q4,519
+Q,SA,J,TOTAL,JOBVAC,BG,2021-Q1,428
+Q,SA,J,TOTAL,JOBVAC,BG,2021-Q2,546
+Q,SA,J,TOTAL,JOBVAC,BG,2021-Q3,598
+Q,SA,J,TOTAL,JOBVAC,BG,2021-Q4,614
+Q,SA,J,TOTAL,JOBVAC,BG,2022-Q1,654
+Q,SA,J,TOTAL,JOBVAC,BG,2022-Q2,1279
+Q,SA,J,TOTAL,JOBVAC,BG,2022-Q3,802
+Q,SA,J,TOTAL,JOBVAC,BG,2022-Q4,554
+Q,SA,J,TOTAL,JOBVAC,BG,2023-Q1,510
+Q,SA,J,TOTAL,JOBVAC,BG,2023-Q2,475
+Q,SA,J,TOTAL,JOBVAC,BG,2023-Q3,676
+Q,SA,J,TOTAL,JOBVAC,BG,2023-Q4,441
+Q,SA,J,TOTAL,JOBVAC,BG,2024-Q1,578
+Q,SA,J,TOTAL,JOBVAC,BG,2024-Q2,521
+Q,SA,J,TOTAL,JOBVAC,BG,2024-Q3,645
+Q,SA,J,TOTAL,JOBVAC,BG,2024-Q4,698
+Q,SA,J,TOTAL,JOBVAC,BG,2025-Q1,775
+Q,SA,J,TOTAL,JOBVAC,BG,2025-Q2,626
+Q,SA,J,TOTAL,JOBVAC,BG,2025-Q3,669
+Q,SA,J,TOTAL,JOBVAC,BG,2025-Q4,629
+Q,SA,J,TOTAL,JOBVAC,CY,2009-Q1,112
+Q,SA,J,TOTAL,JOBVAC,CY,2009-Q2,194
+Q,SA,J,TOTAL,JOBVAC,CY,2009-Q3,141
+Q,SA,J,TOTAL,JOBVAC,CY,2009-Q4,89
+Q,SA,J,TOTAL,JOBVAC,CY,2010-Q1,69
+Q,SA,J,TOTAL,JOBVAC,CY,2010-Q2,45
+Q,SA,J,TOTAL,JOBVAC,CY,2010-Q3,94
+Q,SA,J,TOTAL,JOBVAC,CY,2010-Q4,86
+Q,SA,J,TOTAL,JOBVAC,CY,2011-Q1,67
+Q,SA,J,TOTAL,JOBVAC,CY,2011-Q2,67
+Q,SA,J,TOTAL,JOBVAC,CY,2011-Q3,38
+Q,SA,J,TOTAL,JOBVAC,CY,2011-Q4,43
+Q,SA,J,TOTAL,JOBVAC,CY,2012-Q1,1
+Q,SA,J,TOTAL,JOBVAC,CY,2012-Q2,54
+Q,SA,J,TOTAL,JOBVAC,CY,2012-Q3,26
+Q,SA,J,TOTAL,JOBVAC,CY,2012-Q4,23
+Q,SA,J,TOTAL,JOBVAC,CY,2013-Q1,14
+Q,SA,J,TOTAL,JOBVAC,CY,2013-Q2,7
+Q,SA,J,TOTAL,JOBVAC,CY,2013-Q3,9
+Q,SA,J,TOTAL,JOBVAC,CY,2013-Q4,34
+Q,SA,J,TOTAL,JOBVAC,CY,2014-Q1,30
+Q,SA,J,TOTAL,JOBVAC,CY,2014-Q2,148
+Q,SA,J,TOTAL,JOBVAC,CY,2014-Q3,168
+Q,SA,J,TOTAL,JOBVAC,CY,2014-Q4,117
+Q,SA,J,TOTAL,JOBVAC,CY,2015-Q1,190
+Q,SA,J,TOTAL,JOBVAC,CY,2015-Q2,177
+Q,SA,J,TOTAL,JOBVAC,CY,2015-Q3,137
+Q,SA,J,TOTAL,JOBVAC,CY,2015-Q4,88
+Q,SA,J,TOTAL,JOBVAC,CY,2016-Q1,65
+Q,SA,J,TOTAL,JOBVAC,CY,2016-Q2,82
+Q,SA,J,TOTAL,JOBVAC,CY,2016-Q3,89
+Q,SA,J,TOTAL,JOBVAC,CY,2016-Q4,70
+Q,SA,J,TOTAL,JOBVAC,CY,2017-Q1,116
+Q,SA,J,TOTAL,JOBVAC,CY,2017-Q2,149
+Q,SA,J,TOTAL,JOBVAC,CY,2017-Q3,261
+Q,SA,J,TOTAL,JOBVAC,CY,2017-Q4,141
+Q,SA,J,TOTAL,JOBVAC,CY,2018-Q1,204
+Q,SA,J,TOTAL,JOBVAC,CY,2018-Q2,247
+Q,SA,J,TOTAL,JOBVAC,CY,2018-Q3,253
+Q,SA,J,TOTAL,JOBVAC,CY,2018-Q4,344
+Q,SA,J,TOTAL,JOBVAC,CY,2019-Q1,217
+Q,SA,J,TOTAL,JOBVAC,CY,2019-Q2,173
+Q,SA,J,TOTAL,JOBVAC,CY,2019-Q3,220
+Q,SA,J,TOTAL,JOBVAC,CY,2019-Q4,285
+Q,SA,J,TOTAL,JOBVAC,CY,2020-Q1,131
+Q,SA,J,TOTAL,JOBVAC,CY,2020-Q2,268
+Q,SA,J,TOTAL,JOBVAC,CY,2020-Q3,345
+Q,SA,J,TOTAL,JOBVAC,CY,2020-Q4,203
+Q,SA,J,TOTAL,JOBVAC,CY,2021-Q1,603
+Q,SA,J,TOTAL,JOBVAC,CY,2021-Q2,237
+Q,SA,J,TOTAL,JOBVAC,CY,2021-Q3,129
+Q,SA,J,TOTAL,JOBVAC,CY,2021-Q4,579
+Q,SA,J,TOTAL,JOBVAC,CY,2022-Q1,307
+Q,SA,J,TOTAL,JOBVAC,CY,2022-Q2,380
+Q,SA,J,TOTAL,JOBVAC,CY,2022-Q3,456
+Q,SA,J,TOTAL,JOBVAC,CY,2022-Q4,267
+Q,SA,J,TOTAL,JOBVAC,CY,2023-Q1,447
+Q,SA,J,TOTAL,JOBVAC,CY,2023-Q2,591
+Q,SA,J,TOTAL,JOBVAC,CY,2023-Q3,653
+Q,SA,J,TOTAL,JOBVAC,CY,2023-Q4,558
+Q,SA,J,TOTAL,JOBVAC,CY,2024-Q1,600
+Q,SA,J,TOTAL,JOBVAC,CY,2024-Q2,683
+Q,SA,J,TOTAL,JOBVAC,CY,2024-Q3,737
+Q,SA,J,TOTAL,JOBVAC,CY,2024-Q4,825
+Q,SA,J,TOTAL,JOBVAC,CY,2025-Q1,774
+Q,SA,J,TOTAL,JOBVAC,CY,2025-Q2,863
+Q,SA,J,TOTAL,JOBVAC,CY,2025-Q3,836
+Q,SA,J,TOTAL,JOBVAC,CY,2025-Q4,868
+Q,SA,J,TOTAL,JOBVAC,CZ,2008-Q1,2779
+Q,SA,J,TOTAL,JOBVAC,CZ,2008-Q2,2819
+Q,SA,J,TOTAL,JOBVAC,CZ,2008-Q3,2658
+Q,SA,J,TOTAL,JOBVAC,CZ,2008-Q4,2221
+Q,SA,J,TOTAL,JOBVAC,CZ,2009-Q1,1314
+Q,SA,J,TOTAL,JOBVAC,CZ,2009-Q2,965
+Q,SA,J,TOTAL,JOBVAC,CZ,2009-Q3,786
+Q,SA,J,TOTAL,JOBVAC,CZ,2009-Q4,750
+Q,SA,J,TOTAL,JOBVAC,CZ,2010-Q1,803
+Q,SA,J,TOTAL,JOBVAC,CZ,2010-Q2,873
+Q,SA,J,TOTAL,JOBVAC,CZ,2010-Q3,942
+Q,SA,J,TOTAL,JOBVAC,CZ,2010-Q4,997
+Q,SA,J,TOTAL,JOBVAC,CZ,2011-Q1,1002
+Q,SA,J,TOTAL,JOBVAC,CZ,2011-Q2,1066
+Q,SA,J,TOTAL,JOBVAC,CZ,2011-Q3,1083
+Q,SA,J,TOTAL,JOBVAC,CZ,2011-Q4,1032
+Q,SA,J,TOTAL,JOBVAC,CZ,2012-Q1,968
+Q,SA,J,TOTAL,JOBVAC,CZ,2012-Q2,982
+Q,SA,J,TOTAL,JOBVAC,CZ,2012-Q3,971
+Q,SA,J,TOTAL,JOBVAC,CZ,2012-Q4,958
+Q,SA,J,TOTAL,JOBVAC,CZ,2013-Q1,835
+Q,SA,J,TOTAL,JOBVAC,CZ,2013-Q2,723
+Q,SA,J,TOTAL,JOBVAC,CZ,2013-Q3,652
+Q,SA,J,TOTAL,JOBVAC,CZ,2013-Q4,664
+Q,SA,J,TOTAL,JOBVAC,CZ,2014-Q1,769
+Q,SA,J,TOTAL,JOBVAC,CZ,2014-Q2,774
+Q,SA,J,TOTAL,JOBVAC,CZ,2014-Q3,889
+Q,SA,J,TOTAL,JOBVAC,CZ,2014-Q4,1052
+Q,SA,J,TOTAL,JOBVAC,CZ,2015-Q1,1174
+Q,SA,J,TOTAL,JOBVAC,CZ,2015-Q2,1508
+Q,SA,J,TOTAL,JOBVAC,CZ,2015-Q3,1762
+Q,SA,J,TOTAL,JOBVAC,CZ,2015-Q4,1983
+Q,SA,J,TOTAL,JOBVAC,CZ,2016-Q1,2391
+Q,SA,J,TOTAL,JOBVAC,CZ,2016-Q2,2716
+Q,SA,J,TOTAL,JOBVAC,CZ,2016-Q3,3111
+Q,SA,J,TOTAL,JOBVAC,CZ,2016-Q4,3381
+Q,SA,J,TOTAL,JOBVAC,CZ,2017-Q1,3421
+Q,SA,J,TOTAL,JOBVAC,CZ,2017-Q2,3874
+Q,SA,J,TOTAL,JOBVAC,CZ,2017-Q3,4289
+Q,SA,J,TOTAL,JOBVAC,CZ,2017-Q4,4452
+Q,SA,J,TOTAL,JOBVAC,CZ,2018-Q1,5007
+Q,SA,J,TOTAL,JOBVAC,CZ,2018-Q2,5648
+Q,SA,J,TOTAL,JOBVAC,CZ,2018-Q3,6018
+Q,SA,J,TOTAL,JOBVAC,CZ,2018-Q4,6295
+Q,SA,J,TOTAL,JOBVAC,CZ,2019-Q1,6810
+Q,SA,J,TOTAL,JOBVAC,CZ,2019-Q2,5857
+Q,SA,J,TOTAL,JOBVAC,CZ,2019-Q3,5540
+Q,SA,J,TOTAL,JOBVAC,CZ,2019-Q4,5907
+Q,SA,J,TOTAL,JOBVAC,CZ,2020-Q1,5798
+Q,SA,J,TOTAL,JOBVAC,CZ,2020-Q2,5902
+Q,SA,J,TOTAL,JOBVAC,CZ,2020-Q3,5865
+Q,SA,J,TOTAL,JOBVAC,CZ,2020-Q4,5438
+Q,SA,J,TOTAL,JOBVAC,CZ,2021-Q1,5253
+Q,SA,J,TOTAL,JOBVAC,CZ,2021-Q2,5097
+Q,SA,J,TOTAL,JOBVAC,CZ,2021-Q3,5223
+Q,SA,J,TOTAL,JOBVAC,CZ,2021-Q4,6302
+Q,SA,J,TOTAL,JOBVAC,CZ,2022-Q1,7359
+Q,SA,J,TOTAL,JOBVAC,CZ,2022-Q2,6808
+Q,SA,J,TOTAL,JOBVAC,CZ,2022-Q3,6650
+Q,SA,J,TOTAL,JOBVAC,CZ,2022-Q4,5587
+Q,SA,J,TOTAL,JOBVAC,CZ,2023-Q1,5101
+Q,SA,J,TOTAL,JOBVAC,CZ,2023-Q2,4674
+Q,SA,J,TOTAL,JOBVAC,CZ,2023-Q3,3798
+Q,SA,J,TOTAL,JOBVAC,CZ,2023-Q4,3175
+Q,SA,J,TOTAL,JOBVAC,CZ,2024-Q1,3119
+Q,SA,J,TOTAL,JOBVAC,CZ,2024-Q2,2942
+Q,SA,J,TOTAL,JOBVAC,CZ,2024-Q3,2654
+Q,SA,J,TOTAL,JOBVAC,CZ,2024-Q4,2393
+Q,SA,J,TOTAL,JOBVAC,CZ,2025-Q1,1596
+Q,SA,J,TOTAL,JOBVAC,CZ,2025-Q2,1488
+Q,SA,J,TOTAL,JOBVAC,CZ,2025-Q3,1409
+Q,SA,J,TOTAL,JOBVAC,CZ,2025-Q4,1300
+Q,SA,J,TOTAL,JOBVAC,DE,2010-Q4,39385
+Q,SA,J,TOTAL,JOBVAC,DE,2011-Q1,36873
+Q,SA,J,TOTAL,JOBVAC,DE,2011-Q2,31683
+Q,SA,J,TOTAL,JOBVAC,DE,2011-Q3,39990
+Q,SA,J,TOTAL,JOBVAC,DE,2011-Q4,32402
+Q,SA,J,TOTAL,JOBVAC,DE,2012-Q1,39108
+Q,SA,J,TOTAL,JOBVAC,DE,2012-Q2,34490
+Q,SA,J,TOTAL,JOBVAC,DE,2012-Q3,32924
+Q,SA,J,TOTAL,JOBVAC,DE,2012-Q4,40255
+Q,SA,J,TOTAL,JOBVAC,DE,2013-Q1,40899
+Q,SA,J,TOTAL,JOBVAC,DE,2013-Q2,34606
+Q,SA,J,TOTAL,JOBVAC,DE,2013-Q3,41281
+Q,SA,J,TOTAL,JOBVAC,DE,2013-Q4,31666
+Q,SA,J,TOTAL,JOBVAC,DE,2014-Q1,36267
+Q,SA,J,TOTAL,JOBVAC,DE,2014-Q2,39697
+Q,SA,J,TOTAL,JOBVAC,DE,2014-Q3,41910
+Q,SA,J,TOTAL,JOBVAC,DE,2014-Q4,45722
+Q,SA,J,TOTAL,JOBVAC,DE,2015-Q1,37834
+Q,SA,J,TOTAL,JOBVAC,DE,2015-Q2,38416
+Q,SA,J,TOTAL,JOBVAC,DE,2015-Q3,39344
+Q,SA,J,TOTAL,JOBVAC,DE,2015-Q4,38736
+Q,SA,J,TOTAL,JOBVAC,DE,2016-Q1,35199
+Q,SA,J,TOTAL,JOBVAC,DE,2016-Q2,38922
+Q,SA,J,TOTAL,JOBVAC,DE,2016-Q3,38651
+Q,SA,J,TOTAL,JOBVAC,DE,2016-Q4,39145
+Q,SA,J,TOTAL,JOBVAC,DE,2017-Q1,50072
+Q,SA,J,TOTAL,JOBVAC,DE,2017-Q2,53134
+Q,SA,J,TOTAL,JOBVAC,DE,2017-Q3,40695
+Q,SA,J,TOTAL,JOBVAC,DE,2017-Q4,41199
+Q,SA,J,TOTAL,JOBVAC,DE,2018-Q1,44091
+Q,SA,J,TOTAL,JOBVAC,DE,2018-Q2,56193
+Q,SA,J,TOTAL,JOBVAC,DE,2018-Q3,50875
+Q,SA,J,TOTAL,JOBVAC,DE,2018-Q4,62193
+Q,SA,J,TOTAL,JOBVAC,DE,2019-Q1,54592
+Q,SA,J,TOTAL,JOBVAC,DE,2019-Q2,66475
+Q,SA,J,TOTAL,JOBVAC,DE,2019-Q3,54951
+Q,SA,J,TOTAL,JOBVAC,DE,2019-Q4,56748
+Q,SA,J,TOTAL,JOBVAC,DE,2020-Q1,48287
+Q,SA,J,TOTAL,JOBVAC,DE,2020-Q2,37584
+Q,SA,J,TOTAL,JOBVAC,DE,2020-Q3,45867
+Q,SA,J,TOTAL,JOBVAC,DE,2020-Q4,49412
+Q,SA,J,TOTAL,JOBVAC,DE,2021-Q1,56025
+Q,SA,J,TOTAL,JOBVAC,DE,2021-Q2,52650
+Q,SA,J,TOTAL,JOBVAC,DE,2021-Q3,60618
+Q,SA,J,TOTAL,JOBVAC,DE,2021-Q4,66267
+Q,SA,J,TOTAL,JOBVAC,DE,2022-Q1,68748
+Q,SA,J,TOTAL,JOBVAC,DE,2022-Q2,84726
+Q,SA,J,TOTAL,JOBVAC,DE,2022-Q3,98876
+Q,SA,J,TOTAL,JOBVAC,DE,2022-Q4,81000
+Q,SA,J,TOTAL,JOBVAC,DE,2023-Q1,68797
+Q,SA,J,TOTAL,JOBVAC,DE,2023-Q2,67005
+Q,SA,J,TOTAL,JOBVAC,DE,2023-Q3,73296
+Q,SA,J,TOTAL,JOBVAC,DE,2023-Q4,62325
+Q,SA,J,TOTAL,JOBVAC,DE,2024-Q1,76488
+Q,SA,J,TOTAL,JOBVAC,DE,2024-Q2,65375
+Q,SA,J,TOTAL,JOBVAC,DE,2024-Q3,60379
+Q,SA,J,TOTAL,JOBVAC,DE,2024-Q4,65091
+Q,SA,J,TOTAL,JOBVAC,DE,2025-Q1,50481
+Q,SA,J,TOTAL,JOBVAC,DE,2025-Q2,50563
+Q,SA,J,TOTAL,JOBVAC,DE,2025-Q3,34126
+Q,SA,J,TOTAL,JOBVAC,DE,2025-Q4,36607
+Q,SA,J,TOTAL,JOBVAC,DK,2010-Q1,1666
+Q,SA,J,TOTAL,JOBVAC,DK,2010-Q2,1600
+Q,SA,J,TOTAL,JOBVAC,DK,2010-Q3,1735
+Q,SA,J,TOTAL,JOBVAC,DK,2010-Q4,1469
+Q,SA,J,TOTAL,JOBVAC,DK,2011-Q1,1700
+Q,SA,J,TOTAL,JOBVAC,DK,2011-Q2,1667
+Q,SA,J,TOTAL,JOBVAC,DK,2011-Q3,1734
+Q,SA,J,TOTAL,JOBVAC,DK,2011-Q4,1746
+Q,SA,J,TOTAL,JOBVAC,DK,2012-Q1,1786
+Q,SA,J,TOTAL,JOBVAC,DK,2012-Q2,1489
+Q,SA,J,TOTAL,JOBVAC,DK,2012-Q3,2117
+Q,SA,J,TOTAL,JOBVAC,DK,2012-Q4,1822
+Q,SA,J,TOTAL,JOBVAC,DK,2013-Q1,1913
+Q,SA,J,TOTAL,JOBVAC,DK,2013-Q2,2469
+Q,SA,J,TOTAL,JOBVAC,DK,2013-Q3,2407
+Q,SA,J,TOTAL,JOBVAC,DK,2013-Q4,2286
+Q,SA,J,TOTAL,JOBVAC,DK,2014-Q1,3072
+Q,SA,J,TOTAL,JOBVAC,DK,2014-Q2,3627
+Q,SA,J,TOTAL,JOBVAC,DK,2014-Q3,2320
+Q,SA,J,TOTAL,JOBVAC,DK,2014-Q4,2848
+Q,SA,J,TOTAL,JOBVAC,DK,2015-Q1,3362
+Q,SA,J,TOTAL,JOBVAC,DK,2015-Q2,3171
+Q,SA,J,TOTAL,JOBVAC,DK,2015-Q3,3119
+Q,SA,J,TOTAL,JOBVAC,DK,2015-Q4,2871
+Q,SA,J,TOTAL,JOBVAC,DK,2016-Q1,3488
+Q,SA,J,TOTAL,JOBVAC,DK,2016-Q2,3731
+Q,SA,J,TOTAL,JOBVAC,DK,2016-Q3,3434
+Q,SA,J,TOTAL,JOBVAC,DK,2016-Q4,3348
+Q,SA,J,TOTAL,JOBVAC,DK,2017-Q1,4247
+Q,SA,J,TOTAL,JOBVAC,DK,2017-Q2,3655
+Q,SA,J,TOTAL,JOBVAC,DK,2017-Q3,3334
+Q,SA,J,TOTAL,JOBVAC,DK,2017-Q4,3832
+Q,SA,J,TOTAL,JOBVAC,DK,2018-Q1,3343
+Q,SA,J,TOTAL,JOBVAC,DK,2018-Q2,3581
+Q,SA,J,TOTAL,JOBVAC,DK,2018-Q3,3524
+Q,SA,J,TOTAL,JOBVAC,DK,2018-Q4,3854
+Q,SA,J,TOTAL,JOBVAC,DK,2019-Q1,3993
+Q,SA,J,TOTAL,JOBVAC,DK,2019-Q2,4374
+Q,SA,J,TOTAL,JOBVAC,DK,2019-Q3,5091
+Q,SA,J,TOTAL,JOBVAC,DK,2019-Q4,4021
+Q,SA,J,TOTAL,JOBVAC,DK,2020-Q1,3388
+Q,SA,J,TOTAL,JOBVAC,DK,2020-Q2,2177
+Q,SA,J,TOTAL,JOBVAC,DK,2020-Q3,2783
+Q,SA,J,TOTAL,JOBVAC,DK,2020-Q4,3487
+Q,SA,J,TOTAL,JOBVAC,DK,2021-Q1,4270
+Q,SA,J,TOTAL,JOBVAC,DK,2021-Q2,5409
+Q,SA,J,TOTAL,JOBVAC,DK,2021-Q3,5674
+Q,SA,J,TOTAL,JOBVAC,DK,2021-Q4,6320
+Q,SA,J,TOTAL,JOBVAC,DK,2022-Q1,6233
+Q,SA,J,TOTAL,JOBVAC,DK,2022-Q2,7053
+Q,SA,J,TOTAL,JOBVAC,DK,2022-Q3,5269
+Q,SA,J,TOTAL,JOBVAC,DK,2022-Q4,4561
+Q,SA,J,TOTAL,JOBVAC,DK,2023-Q1,4551
+Q,SA,J,TOTAL,JOBVAC,DK,2023-Q2,3998
+Q,SA,J,TOTAL,JOBVAC,DK,2023-Q3,4013
+Q,SA,J,TOTAL,JOBVAC,DK,2023-Q4,3687
+Q,SA,J,TOTAL,JOBVAC,DK,2024-Q1,4302
+Q,SA,J,TOTAL,JOBVAC,DK,2024-Q2,4295
+Q,SA,J,TOTAL,JOBVAC,DK,2024-Q3,4783
+Q,SA,J,TOTAL,JOBVAC,DK,2024-Q4,4324
+Q,SA,J,TOTAL,JOBVAC,DK,2025-Q1,4388
+Q,SA,J,TOTAL,JOBVAC,DK,2025-Q2,4105
+Q,SA,J,TOTAL,JOBVAC,DK,2025-Q3,3900
+Q,SA,J,TOTAL,JOBVAC,DK,2025-Q4,4161
+Q,SA,J,TOTAL,JOBVAC,EE,2008-Q1,538
+Q,SA,J,TOTAL,JOBVAC,EE,2008-Q2,427
+Q,SA,J,TOTAL,JOBVAC,EE,2008-Q3,497
+Q,SA,J,TOTAL,JOBVAC,EE,2008-Q4,359
+Q,SA,J,TOTAL,JOBVAC,EE,2009-Q1,321
+Q,SA,J,TOTAL,JOBVAC,EE,2009-Q2,168
+Q,SA,J,TOTAL,JOBVAC,EE,2009-Q3,190
+Q,SA,J,TOTAL,JOBVAC,EE,2009-Q4,142
+Q,SA,J,TOTAL,JOBVAC,EE,2010-Q1,163
+Q,SA,J,TOTAL,JOBVAC,EE,2010-Q2,180
+Q,SA,J,TOTAL,JOBVAC,EE,2010-Q3,194
+Q,SA,J,TOTAL,JOBVAC,EE,2010-Q4,189
+Q,SA,J,TOTAL,JOBVAC,EE,2011-Q1,315
+Q,SA,J,TOTAL,JOBVAC,EE,2011-Q2,316
+Q,SA,J,TOTAL,JOBVAC,EE,2011-Q3,405
+Q,SA,J,TOTAL,JOBVAC,EE,2011-Q4,339
+Q,SA,J,TOTAL,JOBVAC,EE,2012-Q1,447
+Q,SA,J,TOTAL,JOBVAC,EE,2012-Q2,555
+Q,SA,J,TOTAL,JOBVAC,EE,2012-Q3,350
+Q,SA,J,TOTAL,JOBVAC,EE,2012-Q4,291
+Q,SA,J,TOTAL,JOBVAC,EE,2013-Q1,480
+Q,SA,J,TOTAL,JOBVAC,EE,2013-Q2,320
+Q,SA,J,TOTAL,JOBVAC,EE,2013-Q3,401
+Q,SA,J,TOTAL,JOBVAC,EE,2013-Q4,384
+Q,SA,J,TOTAL,JOBVAC,EE,2014-Q1,351
+Q,SA,J,TOTAL,JOBVAC,EE,2014-Q2,304
+Q,SA,J,TOTAL,JOBVAC,EE,2014-Q3,233
+Q,SA,J,TOTAL,JOBVAC,EE,2014-Q4,292
+Q,SA,J,TOTAL,JOBVAC,EE,2015-Q1,360
+Q,SA,J,TOTAL,JOBVAC,EE,2015-Q2,538
+Q,SA,J,TOTAL,JOBVAC,EE,2015-Q3,458
+Q,SA,J,TOTAL,JOBVAC,EE,2015-Q4,454
+Q,SA,J,TOTAL,JOBVAC,EE,2016-Q1,726
+Q,SA,J,TOTAL,JOBVAC,EE,2016-Q2,646
+Q,SA,J,TOTAL,JOBVAC,EE,2016-Q3,580
+Q,SA,J,TOTAL,JOBVAC,EE,2016-Q4,646
+Q,SA,J,TOTAL,JOBVAC,EE,2017-Q1,500
+Q,SA,J,TOTAL,JOBVAC,EE,2017-Q2,474
+Q,SA,J,TOTAL,JOBVAC,EE,2017-Q3,588
+Q,SA,J,TOTAL,JOBVAC,EE,2017-Q4,582
+Q,SA,J,TOTAL,JOBVAC,EE,2018-Q1,493
+Q,SA,J,TOTAL,JOBVAC,EE,2018-Q2,604
+Q,SA,J,TOTAL,JOBVAC,EE,2018-Q3,590
+Q,SA,J,TOTAL,JOBVAC,EE,2018-Q4,706
+Q,SA,J,TOTAL,JOBVAC,EE,2019-Q1,896
+Q,SA,J,TOTAL,JOBVAC,EE,2019-Q2,735
+Q,SA,J,TOTAL,JOBVAC,EE,2019-Q3,777
+Q,SA,J,TOTAL,JOBVAC,EE,2019-Q4,719
+Q,SA,J,TOTAL,JOBVAC,EE,2020-Q1,539
+Q,SA,J,TOTAL,JOBVAC,EE,2020-Q2,437
+Q,SA,J,TOTAL,JOBVAC,EE,2020-Q3,452
+Q,SA,J,TOTAL,JOBVAC,EE,2020-Q4,548
+Q,SA,J,TOTAL,JOBVAC,EE,2021-Q1,753
+Q,SA,J,TOTAL,JOBVAC,EE,2021-Q2,889
+Q,SA,J,TOTAL,JOBVAC,EE,2021-Q3,904
+Q,SA,J,TOTAL,JOBVAC,EE,2021-Q4,1023
+Q,SA,J,TOTAL,JOBVAC,EE,2022-Q1,944
+Q,SA,J,TOTAL,JOBVAC,EE,2022-Q2,857
+Q,SA,J,TOTAL,JOBVAC,EE,2022-Q3,862
+Q,SA,J,TOTAL,JOBVAC,EE,2022-Q4,807
+Q,SA,J,TOTAL,JOBVAC,EE,2023-Q1,808
+Q,SA,J,TOTAL,JOBVAC,EE,2023-Q2,1046
+Q,SA,J,TOTAL,JOBVAC,EE,2023-Q3,555
+Q,SA,J,TOTAL,JOBVAC,EE,2023-Q4,923
+Q,SA,J,TOTAL,JOBVAC,EE,2024-Q1,537
+Q,SA,J,TOTAL,JOBVAC,EE,2024-Q2,672
+Q,SA,J,TOTAL,JOBVAC,EE,2024-Q3,934
+Q,SA,J,TOTAL,JOBVAC,EE,2024-Q4,1205
+Q,SA,J,TOTAL,JOBVAC,EE,2025-Q1,457
+Q,SA,J,TOTAL,JOBVAC,EE,2025-Q2,436
+Q,SA,J,TOTAL,JOBVAC,EE,2025-Q3,544
+Q,SA,J,TOTAL,JOBVAC,EE,2025-Q4,448
+Q,SA,J,TOTAL,JOBVAC,EL,2014-Q1,769
+Q,SA,J,TOTAL,JOBVAC,EL,2014-Q2,714
+Q,SA,J,TOTAL,JOBVAC,EL,2014-Q3,1697
+Q,SA,J,TOTAL,JOBVAC,EL,2014-Q4,1087
+Q,SA,J,TOTAL,JOBVAC,EL,2015-Q1,528
+Q,SA,J,TOTAL,JOBVAC,EL,2015-Q2,451
+Q,SA,J,TOTAL,JOBVAC,EL,2015-Q3,418
+Q,SA,J,TOTAL,JOBVAC,EL,2015-Q4,252
+Q,SA,J,TOTAL,JOBVAC,EL,2016-Q1,273
+Q,SA,J,TOTAL,JOBVAC,EL,2016-Q2,221
+Q,SA,J,TOTAL,JOBVAC,EL,2016-Q3,119
+Q,SA,J,TOTAL,JOBVAC,EL,2016-Q4,598
+Q,SA,J,TOTAL,JOBVAC,EL,2017-Q1,512
+Q,SA,J,TOTAL,JOBVAC,EL,2017-Q2,72
+Q,SA,J,TOTAL,JOBVAC,EL,2017-Q3,525
+Q,SA,J,TOTAL,JOBVAC,EL,2017-Q4,98
+Q,SA,J,TOTAL,JOBVAC,EL,2018-Q1,87
+Q,SA,J,TOTAL,JOBVAC,EL,2018-Q2,392
+Q,SA,J,TOTAL,JOBVAC,EL,2018-Q3,783
+Q,SA,J,TOTAL,JOBVAC,EL,2018-Q4,1453
+Q,SA,J,TOTAL,JOBVAC,EL,2019-Q1,748
+Q,SA,J,TOTAL,JOBVAC,EL,2019-Q2,170
+Q,SA,J,TOTAL,JOBVAC,EL,2019-Q3,984
+Q,SA,J,TOTAL,JOBVAC,EL,2019-Q4,421
+Q,SA,J,TOTAL,JOBVAC,EL,2020-Q1,685
+Q,SA,J,TOTAL,JOBVAC,EL,2020-Q2,246
+Q,SA,J,TOTAL,JOBVAC,EL,2020-Q3,207
+Q,SA,J,TOTAL,JOBVAC,EL,2020-Q4,151
+Q,SA,J,TOTAL,JOBVAC,EL,2021-Q1,69
+Q,SA,J,TOTAL,JOBVAC,EL,2021-Q2,138
+Q,SA,J,TOTAL,JOBVAC,EL,2021-Q3,1048
+Q,SA,J,TOTAL,JOBVAC,EL,2021-Q4,318
+Q,SA,J,TOTAL,JOBVAC,EL,2022-Q1,1427
+Q,SA,J,TOTAL,JOBVAC,EL,2022-Q2,402
+Q,SA,J,TOTAL,JOBVAC,EL,2022-Q3,457
+Q,SA,J,TOTAL,JOBVAC,EL,2022-Q4,2230
+Q,SA,J,TOTAL,JOBVAC,EL,2023-Q1,1072
+Q,SA,J,TOTAL,JOBVAC,EL,2023-Q2,1094
+Q,SA,J,TOTAL,JOBVAC,EL,2023-Q3,1093
+Q,SA,J,TOTAL,JOBVAC,EL,2023-Q4,496
+Q,SA,J,TOTAL,JOBVAC,EL,2024-Q1,732
+Q,SA,J,TOTAL,JOBVAC,EL,2024-Q2,1319
+Q,SA,J,TOTAL,JOBVAC,EL,2024-Q3,653
+Q,SA,J,TOTAL,JOBVAC,EL,2024-Q4,926
+Q,SA,J,TOTAL,JOBVAC,EL,2025-Q1,795
+Q,SA,J,TOTAL,JOBVAC,EL,2025-Q2,591
+Q,SA,J,TOTAL,JOBVAC,EL,2025-Q3,525
+Q,SA,J,TOTAL,JOBVAC,EL,2025-Q4,578
+Q,SA,J,TOTAL,JOBVAC,ES,2010-Q1,2204
+Q,SA,J,TOTAL,JOBVAC,ES,2010-Q2,5041
+Q,SA,J,TOTAL,JOBVAC,ES,2010-Q3,3863
+Q,SA,J,TOTAL,JOBVAC,ES,2010-Q4,4477
+Q,SA,J,TOTAL,JOBVAC,ES,2011-Q1,4482
+Q,SA,J,TOTAL,JOBVAC,ES,2011-Q2,5666
+Q,SA,J,TOTAL,JOBVAC,ES,2011-Q3,3580
+Q,SA,J,TOTAL,JOBVAC,ES,2011-Q4,2573
+Q,SA,J,TOTAL,JOBVAC,ES,2012-Q1,2684
+Q,SA,J,TOTAL,JOBVAC,ES,2012-Q2,2068
+Q,SA,J,TOTAL,JOBVAC,ES,2012-Q3,2367
+Q,SA,J,TOTAL,JOBVAC,ES,2012-Q4,3049
+Q,SA,J,TOTAL,JOBVAC,ES,2013-Q1,2509
+Q,SA,J,TOTAL,JOBVAC,ES,2013-Q2,2941
+Q,SA,J,TOTAL,JOBVAC,ES,2013-Q3,2577
+Q,SA,J,TOTAL,JOBVAC,ES,2013-Q4,1809
+Q,SA,J,TOTAL,JOBVAC,ES,2014-Q1,3504
+Q,SA,J,TOTAL,JOBVAC,ES,2014-Q2,2629
+Q,SA,J,TOTAL,JOBVAC,ES,2014-Q3,2299
+Q,SA,J,TOTAL,JOBVAC,ES,2014-Q4,2221
+Q,SA,J,TOTAL,JOBVAC,ES,2015-Q1,3571
+Q,SA,J,TOTAL,JOBVAC,ES,2015-Q2,3337
+Q,SA,J,TOTAL,JOBVAC,ES,2015-Q3,3207
+Q,SA,J,TOTAL,JOBVAC,ES,2015-Q4,3353
+Q,SA,J,TOTAL,JOBVAC,ES,2016-Q1,3294
+Q,SA,J,TOTAL,JOBVAC,ES,2016-Q2,3565
+Q,SA,J,TOTAL,JOBVAC,ES,2016-Q3,4102
+Q,SA,J,TOTAL,JOBVAC,ES,2016-Q4,3782
+Q,SA,J,TOTAL,JOBVAC,ES,2017-Q1,4656
+Q,SA,J,TOTAL,JOBVAC,ES,2017-Q2,4610
+Q,SA,J,TOTAL,JOBVAC,ES,2017-Q3,4594
+Q,SA,J,TOTAL,JOBVAC,ES,2017-Q4,4194
+Q,SA,J,TOTAL,JOBVAC,ES,2018-Q1,7478
+Q,SA,J,TOTAL,JOBVAC,ES,2018-Q2,7260
+Q,SA,J,TOTAL,JOBVAC,ES,2018-Q3,6165
+Q,SA,J,TOTAL,JOBVAC,ES,2018-Q4,6844
+Q,SA,J,TOTAL,JOBVAC,ES,2019-Q1,5669
+Q,SA,J,TOTAL,JOBVAC,ES,2019-Q2,6289
+Q,SA,J,TOTAL,JOBVAC,ES,2019-Q3,5460
+Q,SA,J,TOTAL,JOBVAC,ES,2019-Q4,3853
+Q,SA,J,TOTAL,JOBVAC,ES,2020-Q1,4519
+Q,SA,J,TOTAL,JOBVAC,ES,2020-Q2,2253
+Q,SA,J,TOTAL,JOBVAC,ES,2020-Q3,2986
+Q,SA,J,TOTAL,JOBVAC,ES,2020-Q4,3741
+Q,SA,J,TOTAL,JOBVAC,ES,2021-Q1,5703
+Q,SA,J,TOTAL,JOBVAC,ES,2021-Q2,6707
+Q,SA,J,TOTAL,JOBVAC,ES,2021-Q3,6639
+Q,SA,J,TOTAL,JOBVAC,ES,2021-Q4,6285
+Q,SA,J,TOTAL,JOBVAC,ES,2022-Q1,9025
+Q,SA,J,TOTAL,JOBVAC,ES,2022-Q2,8492
+Q,SA,J,TOTAL,JOBVAC,ES,2022-Q3,7936
+Q,SA,J,TOTAL,JOBVAC,ES,2022-Q4,7551
+Q,SA,J,TOTAL,JOBVAC,ES,2023-Q1,11178
+Q,SA,J,TOTAL,JOBVAC,ES,2023-Q2,8953
+Q,SA,J,TOTAL,JOBVAC,ES,2023-Q3,9243
+Q,SA,J,TOTAL,JOBVAC,ES,2023-Q4,7820
+Q,SA,J,TOTAL,JOBVAC,ES,2024-Q1,9558
+Q,SA,J,TOTAL,JOBVAC,ES,2024-Q2,9177
+Q,SA,J,TOTAL,JOBVAC,ES,2024-Q3,8739
+Q,SA,J,TOTAL,JOBVAC,ES,2024-Q4,8422
+Q,SA,J,TOTAL,JOBVAC,ES,2025-Q1,8840
+Q,SA,J,TOTAL,JOBVAC,ES,2025-Q2,9087
+Q,SA,J,TOTAL,JOBVAC,ES,2025-Q3,7744
+Q,SA,J,TOTAL,JOBVAC,ES,2025-Q4,6564
+Q,SA,J,TOTAL,JOBVAC,FI,2013-Q1,2188
+Q,SA,J,TOTAL,JOBVAC,FI,2013-Q2,1966
+Q,SA,J,TOTAL,JOBVAC,FI,2013-Q3,1599
+Q,SA,J,TOTAL,JOBVAC,FI,2013-Q4,680
+Q,SA,J,TOTAL,JOBVAC,FI,2014-Q1,1526
+Q,SA,J,TOTAL,JOBVAC,FI,2014-Q2,1090
+Q,SA,J,TOTAL,JOBVAC,FI,2014-Q4,1731
+Q,SA,J,TOTAL,JOBVAC,FI,2015-Q1,2886
+Q,SA,J,TOTAL,JOBVAC,FI,2015-Q2,1813
+Q,SA,J,TOTAL,JOBVAC,FI,2015-Q3,786
+Q,SA,J,TOTAL,JOBVAC,FI,2015-Q4,2459
+Q,SA,J,TOTAL,JOBVAC,FI,2016-Q1,2936
+Q,SA,J,TOTAL,JOBVAC,FI,2016-Q2,2228
+Q,SA,J,TOTAL,JOBVAC,FI,2016-Q3,2165
+Q,SA,J,TOTAL,JOBVAC,FI,2016-Q4,2385
+Q,SA,J,TOTAL,JOBVAC,FI,2017-Q1,3096
+Q,SA,J,TOTAL,JOBVAC,FI,2017-Q2,2719
+Q,SA,J,TOTAL,JOBVAC,FI,2017-Q3,2924
+Q,SA,J,TOTAL,JOBVAC,FI,2017-Q4,3675
+Q,SA,J,TOTAL,JOBVAC,FI,2018-Q1,3072
+Q,SA,J,TOTAL,JOBVAC,FI,2018-Q2,4026
+Q,SA,J,TOTAL,JOBVAC,FI,2018-Q3,2403
+Q,SA,J,TOTAL,JOBVAC,FI,2018-Q4,2975
+Q,SA,J,TOTAL,JOBVAC,FI,2019-Q1,2054
+Q,SA,J,TOTAL,JOBVAC,FI,2019-Q2,3794
+Q,SA,J,TOTAL,JOBVAC,FI,2019-Q3,4302
+Q,SA,J,TOTAL,JOBVAC,FI,2019-Q4,3077
+Q,SA,J,TOTAL,JOBVAC,FI,2020-Q1,3853
+Q,SA,J,TOTAL,JOBVAC,FI,2020-Q2,2587
+Q,SA,J,TOTAL,JOBVAC,FI,2020-Q3,2191
+Q,SA,J,TOTAL,JOBVAC,FI,2020-Q4,3096
+Q,SA,J,TOTAL,JOBVAC,FI,2021-Q1,5620
+Q,SA,J,TOTAL,JOBVAC,FI,2021-Q2,4369
+Q,SA,J,TOTAL,JOBVAC,FI,2021-Q3,4778
+Q,SA,J,TOTAL,JOBVAC,FI,2021-Q4,4667
+Q,SA,J,TOTAL,JOBVAC,FI,2022-Q1,8041
+Q,SA,J,TOTAL,JOBVAC,FI,2022-Q2,6311
+Q,SA,J,TOTAL,JOBVAC,FI,2022-Q3,6382
+Q,SA,J,TOTAL,JOBVAC,FI,2022-Q4,4211
+Q,SA,J,TOTAL,JOBVAC,FI,2023-Q1,7157
+Q,SA,J,TOTAL,JOBVAC,FI,2023-Q2,5263
+Q,SA,J,TOTAL,JOBVAC,FI,2023-Q3,2904
+Q,SA,J,TOTAL,JOBVAC,FI,2023-Q4,2164
+Q,SA,J,TOTAL,JOBVAC,FI,2024-Q1,3174
+Q,SA,J,TOTAL,JOBVAC,FI,2024-Q2,4423
+Q,SA,J,TOTAL,JOBVAC,FI,2024-Q3,2920
+Q,SA,J,TOTAL,JOBVAC,FI,2024-Q4,2198
+Q,SA,J,TOTAL,JOBVAC,FI,2025-Q1,2767
+Q,SA,J,TOTAL,JOBVAC,FI,2025-Q2,2216
+Q,SA,J,TOTAL,JOBVAC,FI,2025-Q3,1361
+Q,SA,J,TOTAL,JOBVAC,FI,2025-Q4,2330
+Q,SA,J,TOTAL,JOBVAC,FR,2011-Q2,14050
+Q,SA,J,TOTAL,JOBVAC,FR,2011-Q3,18615
+Q,SA,J,TOTAL,JOBVAC,FR,2011-Q4,19974
+Q,SA,J,TOTAL,JOBVAC,FR,2012-Q1,16879
+Q,SA,J,TOTAL,JOBVAC,FR,2012-Q2,11962
+Q,SA,J,TOTAL,JOBVAC,FR,2012-Q3,14418
+Q,SA,J,TOTAL,JOBVAC,FR,2012-Q4,10881
+Q,SA,J,TOTAL,JOBVAC,FR,2013-Q1,13061
+Q,SA,J,TOTAL,JOBVAC,FR,2013-Q2,11947
+Q,SA,J,TOTAL,JOBVAC,FR,2013-Q3,9531
+Q,SA,J,TOTAL,JOBVAC,FR,2013-Q4,9442
+Q,SA,J,TOTAL,JOBVAC,FR,2014-Q1,17021
+Q,SA,J,TOTAL,JOBVAC,FR,2014-Q2,14853
+Q,SA,J,TOTAL,JOBVAC,FR,2014-Q3,10647
+Q,SA,J,TOTAL,JOBVAC,FR,2014-Q4,11151
+Q,SA,J,TOTAL,JOBVAC,FR,2015-Q1,11848
+Q,SA,J,TOTAL,JOBVAC,FR,2015-Q2,12383
+Q,SA,J,TOTAL,JOBVAC,FR,2015-Q3,12329
+Q,SA,J,TOTAL,JOBVAC,FR,2015-Q4,22805
+Q,SA,J,TOTAL,JOBVAC,FR,2016-Q1,18947
+Q,SA,J,TOTAL,JOBVAC,FR,2016-Q2,17054
+Q,SA,J,TOTAL,JOBVAC,FR,2016-Q3,17514
+Q,SA,J,TOTAL,JOBVAC,FR,2016-Q4,22653
+Q,SA,J,TOTAL,JOBVAC,FR,2017-Q1,23326
+Q,SA,J,TOTAL,JOBVAC,FR,2017-Q2,23888
+Q,SA,J,TOTAL,JOBVAC,FR,2017-Q3,22948
+Q,SA,J,TOTAL,JOBVAC,FR,2017-Q4,20703
+Q,SA,J,TOTAL,JOBVAC,FR,2018-Q1,20231
+Q,SA,J,TOTAL,JOBVAC,FR,2018-Q2,19533
+Q,SA,J,TOTAL,JOBVAC,FR,2018-Q3,19759
+Q,SA,J,TOTAL,JOBVAC,FR,2018-Q4,31729
+Q,SA,J,TOTAL,JOBVAC,FR,2019-Q1,29990
+Q,SA,J,TOTAL,JOBVAC,FR,2019-Q2,29529
+Q,SA,J,TOTAL,JOBVAC,FR,2019-Q3,28573
+Q,SA,J,TOTAL,JOBVAC,FR,2019-Q4,25397
+Q,SA,J,TOTAL,JOBVAC,FR,2020-Q2,25023
+Q,SA,J,TOTAL,JOBVAC,FR,2020-Q3,19473
+Q,SA,J,TOTAL,JOBVAC,FR,2020-Q4,20959
+Q,SA,J,TOTAL,JOBVAC,FR,2021-Q1,24251
+Q,SA,J,TOTAL,JOBVAC,FR,2021-Q2,25402
+Q,SA,J,TOTAL,JOBVAC,FR,2021-Q3,25555
+Q,SA,J,TOTAL,JOBVAC,FR,2021-Q4,42146
+Q,SA,J,TOTAL,JOBVAC,FR,2022-Q1,38758
+Q,SA,J,TOTAL,JOBVAC,FR,2022-Q2,43417
+Q,SA,J,TOTAL,JOBVAC,FR,2022-Q3,37507
+Q,SA,J,TOTAL,JOBVAC,FR,2022-Q4,42110
+Q,SA,J,TOTAL,JOBVAC,FR,2023-Q1,40243
+Q,SA,J,TOTAL,JOBVAC,FR,2023-Q2,45402
+Q,SA,J,TOTAL,JOBVAC,FR,2023-Q3,34338
+Q,SA,J,TOTAL,JOBVAC,FR,2023-Q4,34582
+Q,SA,J,TOTAL,JOBVAC,FR,2024-Q1,27458
+Q,SA,J,TOTAL,JOBVAC,FR,2024-Q2,26881
+Q,SA,J,TOTAL,JOBVAC,FR,2024-Q3,22863
+Q,SA,J,TOTAL,JOBVAC,FR,2024-Q4,28007
+Q,SA,J,TOTAL,JOBVAC,FR,2025-Q1,21866
+Q,SA,J,TOTAL,JOBVAC,FR,2025-Q2,24144
+Q,SA,J,TOTAL,JOBVAC,FR,2025-Q3,22502
+Q,SA,J,TOTAL,JOBVAC,FR,2025-Q4,24112
+Q,SA,J,TOTAL,JOBVAC,HR,2014-Q3,363
+Q,SA,J,TOTAL,JOBVAC,HR,2016-Q1,196
+Q,SA,J,TOTAL,JOBVAC,HR,2016-Q2,245
+Q,SA,J,TOTAL,JOBVAC,HR,2016-Q3,271
+Q,SA,J,TOTAL,JOBVAC,HR,2016-Q4,233
+Q,SA,J,TOTAL,JOBVAC,HR,2017-Q1,246
+Q,SA,J,TOTAL,JOBVAC,HR,2017-Q2,239
+Q,SA,J,TOTAL,JOBVAC,HR,2017-Q3,247
+Q,SA,J,TOTAL,JOBVAC,HR,2017-Q4,249
+Q,SA,J,TOTAL,JOBVAC,HR,2018-Q1,275
+Q,SA,J,TOTAL,JOBVAC,HR,2018-Q2,290
+Q,SA,J,TOTAL,JOBVAC,HR,2018-Q3,196
+Q,SA,J,TOTAL,JOBVAC,HR,2018-Q4,232
+Q,SA,J,TOTAL,JOBVAC,HR,2019-Q1,241
+Q,SA,J,TOTAL,JOBVAC,HR,2019-Q2,227
+Q,SA,J,TOTAL,JOBVAC,HR,2019-Q3,179
+Q,SA,J,TOTAL,JOBVAC,HR,2019-Q4,197
+Q,SA,J,TOTAL,JOBVAC,HR,2020-Q1,134
+Q,SA,J,TOTAL,JOBVAC,HR,2020-Q2,77
+Q,SA,J,TOTAL,JOBVAC,HR,2020-Q3,132
+Q,SA,J,TOTAL,JOBVAC,HR,2020-Q4,133
+Q,SA,J,TOTAL,JOBVAC,HR,2021-Q1,166
+Q,SA,J,TOTAL,JOBVAC,HR,2021-Q2,184
+Q,SA,J,TOTAL,JOBVAC,HR,2021-Q3,217
+Q,SA,J,TOTAL,JOBVAC,HR,2021-Q4,208
+Q,SA,J,TOTAL,JOBVAC,HR,2022-Q1,197
+Q,SA,J,TOTAL,JOBVAC,HR,2022-Q2,177
+Q,SA,J,TOTAL,JOBVAC,HR,2022-Q3,232
+Q,SA,J,TOTAL,JOBVAC,HR,2022-Q4,217
+Q,SA,J,TOTAL,JOBVAC,HR,2023-Q1,205
+Q,SA,J,TOTAL,JOBVAC,HR,2023-Q2,195
+Q,SA,J,TOTAL,JOBVAC,HR,2023-Q3,208
+Q,SA,J,TOTAL,JOBVAC,HR,2023-Q4,199
+Q,SA,J,TOTAL,JOBVAC,HR,2024-Q1,189
+Q,SA,J,TOTAL,JOBVAC,HR,2024-Q2,218
+Q,SA,J,TOTAL,JOBVAC,HR,2024-Q3,155
+Q,SA,J,TOTAL,JOBVAC,HR,2024-Q4,214
+Q,SA,J,TOTAL,JOBVAC,HR,2025-Q1,162
+Q,SA,J,TOTAL,JOBVAC,HR,2025-Q2,165
+Q,SA,J,TOTAL,JOBVAC,HR,2025-Q3,135
+Q,SA,J,TOTAL,JOBVAC,HR,2025-Q4,131
+Q,SA,J,TOTAL,JOBVAC,HU,2008-Q1,860
+Q,SA,J,TOTAL,JOBVAC,HU,2008-Q2,944
+Q,SA,J,TOTAL,JOBVAC,HU,2008-Q3,841
+Q,SA,J,TOTAL,JOBVAC,HU,2008-Q4,644
+Q,SA,J,TOTAL,JOBVAC,HU,2009-Q1,702
+Q,SA,J,TOTAL,JOBVAC,HU,2009-Q2,796
+Q,SA,J,TOTAL,JOBVAC,HU,2009-Q3,688
+Q,SA,J,TOTAL,JOBVAC,HU,2009-Q4,814
+Q,SA,J,TOTAL,JOBVAC,HU,2010-Q1,870
+Q,SA,J,TOTAL,JOBVAC,HU,2010-Q2,917
+Q,SA,J,TOTAL,JOBVAC,HU,2010-Q3,1035
+Q,SA,J,TOTAL,JOBVAC,HU,2010-Q4,1395
+Q,SA,J,TOTAL,JOBVAC,HU,2011-Q1,1160
+Q,SA,J,TOTAL,JOBVAC,HU,2011-Q2,1211
+Q,SA,J,TOTAL,JOBVAC,HU,2011-Q3,1572
+Q,SA,J,TOTAL,JOBVAC,HU,2011-Q4,1064
+Q,SA,J,TOTAL,JOBVAC,HU,2012-Q1,1640
+Q,SA,J,TOTAL,JOBVAC,HU,2012-Q2,1203
+Q,SA,J,TOTAL,JOBVAC,HU,2012-Q3,1354
+Q,SA,J,TOTAL,JOBVAC,HU,2012-Q4,1504
+Q,SA,J,TOTAL,JOBVAC,HU,2013-Q1,1644
+Q,SA,J,TOTAL,JOBVAC,HU,2013-Q2,1266
+Q,SA,J,TOTAL,JOBVAC,HU,2013-Q3,1305
+Q,SA,J,TOTAL,JOBVAC,HU,2013-Q4,1303
+Q,SA,J,TOTAL,JOBVAC,HU,2014-Q1,1735
+Q,SA,J,TOTAL,JOBVAC,HU,2014-Q2,2261
+Q,SA,J,TOTAL,JOBVAC,HU,2014-Q3,2102
+Q,SA,J,TOTAL,JOBVAC,HU,2014-Q4,2257
+Q,SA,J,TOTAL,JOBVAC,HU,2015-Q1,2138
+Q,SA,J,TOTAL,JOBVAC,HU,2015-Q2,2138
+Q,SA,J,TOTAL,JOBVAC,HU,2015-Q3,2153
+Q,SA,J,TOTAL,JOBVAC,HU,2015-Q4,2567
+Q,SA,J,TOTAL,JOBVAC,HU,2016-Q1,2680
+Q,SA,J,TOTAL,JOBVAC,HU,2016-Q2,2887
+Q,SA,J,TOTAL,JOBVAC,HU,2016-Q3,2905
+Q,SA,J,TOTAL,JOBVAC,HU,2016-Q4,2744
+Q,SA,J,TOTAL,JOBVAC,HU,2017-Q1,2523
+Q,SA,J,TOTAL,JOBVAC,HU,2017-Q2,2784
+Q,SA,J,TOTAL,JOBVAC,HU,2017-Q3,2860
+Q,SA,J,TOTAL,JOBVAC,HU,2017-Q4,2933
+Q,SA,J,TOTAL,JOBVAC,HU,2018-Q1,3143
+Q,SA,J,TOTAL,JOBVAC,HU,2018-Q2,3250
+Q,SA,J,TOTAL,JOBVAC,HU,2018-Q3,3422
+Q,SA,J,TOTAL,JOBVAC,HU,2018-Q4,3578
+Q,SA,J,TOTAL,JOBVAC,HU,2019-Q1,3224
+Q,SA,J,TOTAL,JOBVAC,HU,2019-Q2,3075
+Q,SA,J,TOTAL,JOBVAC,HU,2019-Q3,3125
+Q,SA,J,TOTAL,JOBVAC,HU,2019-Q4,3008
+Q,SA,J,TOTAL,JOBVAC,HU,2020-Q1,2201
+Q,SA,J,TOTAL,JOBVAC,HU,2020-Q2,1819
+Q,SA,J,TOTAL,JOBVAC,HU,2020-Q3,2163
+Q,SA,J,TOTAL,JOBVAC,HU,2020-Q4,2628
+Q,SA,J,TOTAL,JOBVAC,HU,2021-Q1,2753
+Q,SA,J,TOTAL,JOBVAC,HU,2021-Q2,3230
+Q,SA,J,TOTAL,JOBVAC,HU,2021-Q3,3185
+Q,SA,J,TOTAL,JOBVAC,HU,2021-Q4,3553
+Q,SA,J,TOTAL,JOBVAC,HU,2022-Q1,3721
+Q,SA,J,TOTAL,JOBVAC,HU,2022-Q2,5056
+Q,SA,J,TOTAL,JOBVAC,HU,2022-Q3,3765
+Q,SA,J,TOTAL,JOBVAC,HU,2022-Q4,3624
+Q,SA,J,TOTAL,JOBVAC,HU,2023-Q1,3117
+Q,SA,J,TOTAL,JOBVAC,HU,2023-Q2,2873
+Q,SA,J,TOTAL,JOBVAC,HU,2023-Q3,3055
+Q,SA,J,TOTAL,JOBVAC,HU,2023-Q4,2405
+Q,SA,J,TOTAL,JOBVAC,HU,2024-Q1,2160
+Q,SA,J,TOTAL,JOBVAC,HU,2024-Q2,2250
+Q,SA,J,TOTAL,JOBVAC,HU,2024-Q3,2367
+Q,SA,J,TOTAL,JOBVAC,HU,2024-Q4,2211
+Q,SA,J,TOTAL,JOBVAC,HU,2025-Q1,2414
+Q,SA,J,TOTAL,JOBVAC,HU,2025-Q2,2117
+Q,SA,J,TOTAL,JOBVAC,HU,2025-Q3,2085
+Q,SA,J,TOTAL,JOBVAC,HU,2025-Q4,2457
+Q,SA,J,TOTAL,JOBVAC,IE,2008-Q1,1800
+Q,SA,J,TOTAL,JOBVAC,IE,2008-Q2,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2008-Q3,1100
+Q,SA,J,TOTAL,JOBVAC,IE,2008-Q4,600
+Q,SA,J,TOTAL,JOBVAC,IE,2009-Q1,400
+Q,SA,J,TOTAL,JOBVAC,IE,2009-Q2,300
+Q,SA,J,TOTAL,JOBVAC,IE,2009-Q3,400
+Q,SA,J,TOTAL,JOBVAC,IE,2009-Q4,700
+Q,SA,J,TOTAL,JOBVAC,IE,2010-Q1,600
+Q,SA,J,TOTAL,JOBVAC,IE,2010-Q2,600
+Q,SA,J,TOTAL,JOBVAC,IE,2010-Q3,600
+Q,SA,J,TOTAL,JOBVAC,IE,2010-Q4,700
+Q,SA,J,TOTAL,JOBVAC,IE,2011-Q1,900
+Q,SA,J,TOTAL,JOBVAC,IE,2011-Q2,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2011-Q3,800
+Q,SA,J,TOTAL,JOBVAC,IE,2011-Q4,1000
+Q,SA,J,TOTAL,JOBVAC,IE,2012-Q1,1100
+Q,SA,J,TOTAL,JOBVAC,IE,2012-Q2,900
+Q,SA,J,TOTAL,JOBVAC,IE,2012-Q3,900
+Q,SA,J,TOTAL,JOBVAC,IE,2012-Q4,1400
+Q,SA,J,TOTAL,JOBVAC,IE,2013-Q1,800
+Q,SA,J,TOTAL,JOBVAC,IE,2013-Q2,1200
+Q,SA,J,TOTAL,JOBVAC,IE,2013-Q3,1500
+Q,SA,J,TOTAL,JOBVAC,IE,2013-Q4,1200
+Q,SA,J,TOTAL,JOBVAC,IE,2014-Q1,1100
+Q,SA,J,TOTAL,JOBVAC,IE,2014-Q2,1200
+Q,SA,J,TOTAL,JOBVAC,IE,2014-Q3,1400
+Q,SA,J,TOTAL,JOBVAC,IE,2014-Q4,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2015-Q1,1600
+Q,SA,J,TOTAL,JOBVAC,IE,2015-Q2,1600
+Q,SA,J,TOTAL,JOBVAC,IE,2015-Q3,1700
+Q,SA,J,TOTAL,JOBVAC,IE,2015-Q4,1700
+Q,SA,J,TOTAL,JOBVAC,IE,2016-Q1,1600
+Q,SA,J,TOTAL,JOBVAC,IE,2016-Q2,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2016-Q3,900
+Q,SA,J,TOTAL,JOBVAC,IE,2016-Q4,1400
+Q,SA,J,TOTAL,JOBVAC,IE,2017-Q1,1100
+Q,SA,J,TOTAL,JOBVAC,IE,2017-Q2,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2017-Q3,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2017-Q4,1400
+Q,SA,J,TOTAL,JOBVAC,IE,2018-Q1,1500
+Q,SA,J,TOTAL,JOBVAC,IE,2018-Q2,1400
+Q,SA,J,TOTAL,JOBVAC,IE,2018-Q3,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2018-Q4,1200
+Q,SA,J,TOTAL,JOBVAC,IE,2019-Q1,1100
+Q,SA,J,TOTAL,JOBVAC,IE,2019-Q2,1400
+Q,SA,J,TOTAL,JOBVAC,IE,2019-Q3,1400
+Q,SA,J,TOTAL,JOBVAC,IE,2019-Q4,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2020-Q1,1200
+Q,SA,J,TOTAL,JOBVAC,IE,2020-Q2,900
+Q,SA,J,TOTAL,JOBVAC,IE,2020-Q3,1100
+Q,SA,J,TOTAL,JOBVAC,IE,2020-Q4,1400
+Q,SA,J,TOTAL,JOBVAC,IE,2021-Q1,1500
+Q,SA,J,TOTAL,JOBVAC,IE,2021-Q2,2100
+Q,SA,J,TOTAL,JOBVAC,IE,2021-Q3,1900
+Q,SA,J,TOTAL,JOBVAC,IE,2021-Q4,2400
+Q,SA,J,TOTAL,JOBVAC,IE,2022-Q1,2500
+Q,SA,J,TOTAL,JOBVAC,IE,2022-Q2,2200
+Q,SA,J,TOTAL,JOBVAC,IE,2022-Q3,2100
+Q,SA,J,TOTAL,JOBVAC,IE,2022-Q4,1600
+Q,SA,J,TOTAL,JOBVAC,IE,2023-Q1,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2023-Q2,1100
+Q,SA,J,TOTAL,JOBVAC,IE,2023-Q3,1100
+Q,SA,J,TOTAL,JOBVAC,IE,2023-Q4,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2024-Q1,1300
+Q,SA,J,TOTAL,JOBVAC,IE,2024-Q2,1600
+Q,SA,J,TOTAL,JOBVAC,IE,2024-Q3,1600
+Q,SA,J,TOTAL,JOBVAC,IE,2024-Q4,1700
+Q,SA,J,TOTAL,JOBVAC,IE,2025-Q1,1800
+Q,SA,J,TOTAL,JOBVAC,IE,2025-Q2,2400
+Q,SA,J,TOTAL,JOBVAC,IE,2025-Q3,1900
+Q,SA,J,TOTAL,JOBVAC,IE,2025-Q4,1800
+Q,SA,J,TOTAL,JOBVAC,LT,2010-Q1,157
+Q,SA,J,TOTAL,JOBVAC,LT,2010-Q2,192
+Q,SA,J,TOTAL,JOBVAC,LT,2010-Q3,229
+Q,SA,J,TOTAL,JOBVAC,LT,2010-Q4,254
+Q,SA,J,TOTAL,JOBVAC,LT,2011-Q1,294
+Q,SA,J,TOTAL,JOBVAC,LT,2011-Q2,297
+Q,SA,J,TOTAL,JOBVAC,LT,2011-Q3,330
+Q,SA,J,TOTAL,JOBVAC,LT,2011-Q4,294
+Q,SA,J,TOTAL,JOBVAC,LT,2012-Q1,301
+Q,SA,J,TOTAL,JOBVAC,LT,2012-Q2,330
+Q,SA,J,TOTAL,JOBVAC,LT,2012-Q3,311
+Q,SA,J,TOTAL,JOBVAC,LT,2012-Q4,297
+Q,SA,J,TOTAL,JOBVAC,LT,2013-Q1,291
+Q,SA,J,TOTAL,JOBVAC,LT,2013-Q2,276
+Q,SA,J,TOTAL,JOBVAC,LT,2013-Q3,302
+Q,SA,J,TOTAL,JOBVAC,LT,2013-Q4,374
+Q,SA,J,TOTAL,JOBVAC,LT,2014-Q1,417
+Q,SA,J,TOTAL,JOBVAC,LT,2014-Q2,466
+Q,SA,J,TOTAL,JOBVAC,LT,2014-Q3,457
+Q,SA,J,TOTAL,JOBVAC,LT,2014-Q4,491
+Q,SA,J,TOTAL,JOBVAC,LT,2015-Q1,519
+Q,SA,J,TOTAL,JOBVAC,LT,2015-Q2,547
+Q,SA,J,TOTAL,JOBVAC,LT,2015-Q3,611
+Q,SA,J,TOTAL,JOBVAC,LT,2015-Q4,603
+Q,SA,J,TOTAL,JOBVAC,LT,2016-Q1,601
+Q,SA,J,TOTAL,JOBVAC,LT,2016-Q2,695
+Q,SA,J,TOTAL,JOBVAC,LT,2016-Q3,661
+Q,SA,J,TOTAL,JOBVAC,LT,2016-Q4,751
+Q,SA,J,TOTAL,JOBVAC,LT,2017-Q1,800
+Q,SA,J,TOTAL,JOBVAC,LT,2017-Q2,834
+Q,SA,J,TOTAL,JOBVAC,LT,2017-Q3,935
+Q,SA,J,TOTAL,JOBVAC,LT,2017-Q4,832
+Q,SA,J,TOTAL,JOBVAC,LT,2018-Q1,931
+Q,SA,J,TOTAL,JOBVAC,LT,2018-Q2,812
+Q,SA,J,TOTAL,JOBVAC,LT,2018-Q3,697
+Q,SA,J,TOTAL,JOBVAC,LT,2018-Q4,720
+Q,SA,J,TOTAL,JOBVAC,LT,2019-Q1,634
+Q,SA,J,TOTAL,JOBVAC,LT,2019-Q2,672
+Q,SA,J,TOTAL,JOBVAC,LT,2019-Q3,701
+Q,SA,J,TOTAL,JOBVAC,LT,2019-Q4,746
+Q,SA,J,TOTAL,JOBVAC,LT,2020-Q1,735
+Q,SA,J,TOTAL,JOBVAC,LT,2020-Q2,686
+Q,SA,J,TOTAL,JOBVAC,LT,2020-Q3,766
+Q,SA,J,TOTAL,JOBVAC,LT,2020-Q4,837
+Q,SA,J,TOTAL,JOBVAC,LT,2021-Q1,1190
+Q,SA,J,TOTAL,JOBVAC,LT,2021-Q2,1283
+Q,SA,J,TOTAL,JOBVAC,LT,2021-Q3,1426
+Q,SA,J,TOTAL,JOBVAC,LT,2021-Q4,1456
+Q,SA,J,TOTAL,JOBVAC,LT,2022-Q1,1495
+Q,SA,J,TOTAL,JOBVAC,LT,2022-Q2,1435
+Q,SA,J,TOTAL,JOBVAC,LT,2022-Q3,1548
+Q,SA,J,TOTAL,JOBVAC,LT,2022-Q4,1289
+Q,SA,J,TOTAL,JOBVAC,LT,2023-Q1,1010
+Q,SA,J,TOTAL,JOBVAC,LT,2023-Q2,1190
+Q,SA,J,TOTAL,JOBVAC,LT,2023-Q3,1073
+Q,SA,J,TOTAL,JOBVAC,LT,2023-Q4,1177
+Q,SA,J,TOTAL,JOBVAC,LT,2024-Q1,1223
+Q,SA,J,TOTAL,JOBVAC,LT,2024-Q2,1143
+Q,SA,J,TOTAL,JOBVAC,LT,2024-Q3,1033
+Q,SA,J,TOTAL,JOBVAC,LT,2024-Q4,986
+Q,SA,J,TOTAL,JOBVAC,LT,2025-Q1,1007
+Q,SA,J,TOTAL,JOBVAC,LT,2025-Q2,1014
+Q,SA,J,TOTAL,JOBVAC,LT,2025-Q3,1027
+Q,SA,J,TOTAL,JOBVAC,LT,2025-Q4,1075
+Q,SA,J,TOTAL,JOBVAC,LU,2008-Q1,93
+Q,SA,J,TOTAL,JOBVAC,LU,2008-Q2,90
+Q,SA,J,TOTAL,JOBVAC,LU,2008-Q3,84
+Q,SA,J,TOTAL,JOBVAC,LU,2008-Q4,83
+Q,SA,J,TOTAL,JOBVAC,LU,2009-Q1,77
+Q,SA,J,TOTAL,JOBVAC,LU,2009-Q2,64
+Q,SA,J,TOTAL,JOBVAC,LU,2009-Q3,53
+Q,SA,J,TOTAL,JOBVAC,LU,2009-Q4,70
+Q,SA,J,TOTAL,JOBVAC,LU,2010-Q1,89
+Q,SA,J,TOTAL,JOBVAC,LU,2010-Q2,77
+Q,SA,J,TOTAL,JOBVAC,LU,2010-Q3,152
+Q,SA,J,TOTAL,JOBVAC,LU,2010-Q4,146
+Q,SA,J,TOTAL,JOBVAC,LU,2011-Q1,137
+Q,SA,J,TOTAL,JOBVAC,LU,2011-Q2,142
+Q,SA,J,TOTAL,JOBVAC,LU,2011-Q3,113
+Q,SA,J,TOTAL,JOBVAC,LU,2011-Q4,114
+Q,SA,J,TOTAL,JOBVAC,LU,2012-Q1,90
+Q,SA,J,TOTAL,JOBVAC,LU,2012-Q2,93
+Q,SA,J,TOTAL,JOBVAC,LU,2012-Q3,122
+Q,SA,J,TOTAL,JOBVAC,LU,2012-Q4,88
+Q,SA,J,TOTAL,JOBVAC,LU,2013-Q1,104
+Q,SA,J,TOTAL,JOBVAC,LU,2013-Q2,253
+Q,SA,J,TOTAL,JOBVAC,LU,2013-Q3,245
+Q,SA,J,TOTAL,JOBVAC,LU,2013-Q4,266
+Q,SA,J,TOTAL,JOBVAC,LU,2014-Q1,336
+Q,SA,J,TOTAL,JOBVAC,LU,2014-Q2,387
+Q,SA,J,TOTAL,JOBVAC,LU,2014-Q3,360
+Q,SA,J,TOTAL,JOBVAC,LU,2014-Q4,316
+Q,SA,J,TOTAL,JOBVAC,LU,2015-Q1,332
+Q,SA,J,TOTAL,JOBVAC,LU,2015-Q2,301
+Q,SA,J,TOTAL,JOBVAC,LU,2015-Q3,326
+Q,SA,J,TOTAL,JOBVAC,LU,2015-Q4,379
+Q,SA,J,TOTAL,JOBVAC,LU,2016-Q1,379
+Q,SA,J,TOTAL,JOBVAC,LU,2016-Q2,399
+Q,SA,J,TOTAL,JOBVAC,LU,2016-Q3,415
+Q,SA,J,TOTAL,JOBVAC,LU,2016-Q4,458
+Q,SA,J,TOTAL,JOBVAC,LU,2017-Q1,513
+Q,SA,J,TOTAL,JOBVAC,LU,2017-Q2,570
+Q,SA,J,TOTAL,JOBVAC,LU,2017-Q3,626
+Q,SA,J,TOTAL,JOBVAC,LU,2017-Q4,575
+Q,SA,J,TOTAL,JOBVAC,LU,2018-Q1,520
+Q,SA,J,TOTAL,JOBVAC,LU,2018-Q2,634
+Q,SA,J,TOTAL,JOBVAC,LU,2018-Q3,653
+Q,SA,J,TOTAL,JOBVAC,LU,2018-Q4,673
+Q,SA,J,TOTAL,JOBVAC,LU,2019-Q1,642
+Q,SA,J,TOTAL,JOBVAC,LU,2019-Q2,603
+Q,SA,J,TOTAL,JOBVAC,LU,2019-Q3,564
+Q,SA,J,TOTAL,JOBVAC,LU,2019-Q4,565
+Q,SA,J,TOTAL,JOBVAC,LU,2020-Q1,645
+Q,SA,J,TOTAL,JOBVAC,LU,2020-Q2,316
+Q,SA,J,TOTAL,JOBVAC,LU,2020-Q3,380
+Q,SA,J,TOTAL,JOBVAC,LU,2020-Q4,357
+Q,SA,J,TOTAL,JOBVAC,LU,2021-Q1,413
+Q,SA,J,TOTAL,JOBVAC,LU,2021-Q2,451
+Q,SA,J,TOTAL,JOBVAC,LU,2021-Q3,514
+Q,SA,J,TOTAL,JOBVAC,LU,2021-Q4,586
+Q,SA,J,TOTAL,JOBVAC,LU,2022-Q1,747
+Q,SA,J,TOTAL,JOBVAC,LU,2022-Q2,890
+Q,SA,J,TOTAL,JOBVAC,LU,2022-Q3,907
+Q,SA,J,TOTAL,JOBVAC,LU,2022-Q4,876
+Q,SA,J,TOTAL,JOBVAC,LU,2023-Q1,681
+Q,SA,J,TOTAL,JOBVAC,LU,2023-Q2,557
+Q,SA,J,TOTAL,JOBVAC,LU,2023-Q3,527
+Q,SA,J,TOTAL,JOBVAC,LU,2023-Q4,424
+Q,SA,J,TOTAL,JOBVAC,LU,2024-Q1,306
+Q,SA,J,TOTAL,JOBVAC,LU,2024-Q2,273
+Q,SA,J,TOTAL,JOBVAC,LU,2024-Q3,270
+Q,SA,J,TOTAL,JOBVAC,LU,2024-Q4,298
+Q,SA,J,TOTAL,JOBVAC,LU,2025-Q1,320
+Q,SA,J,TOTAL,JOBVAC,LU,2025-Q2,316
+Q,SA,J,TOTAL,JOBVAC,LU,2025-Q3,261
+Q,SA,J,TOTAL,JOBVAC,LU,2025-Q4,286
+Q,SA,J,TOTAL,JOBVAC,LV,2008-Q1,286
+Q,SA,J,TOTAL,JOBVAC,LV,2008-Q2,213
+Q,SA,J,TOTAL,JOBVAC,LV,2008-Q3,129
+Q,SA,J,TOTAL,JOBVAC,LV,2008-Q4,100
+Q,SA,J,TOTAL,JOBVAC,LV,2009-Q1,65
+Q,SA,J,TOTAL,JOBVAC,LV,2009-Q2,67
+Q,SA,J,TOTAL,JOBVAC,LV,2009-Q3,115
+Q,SA,J,TOTAL,JOBVAC,LV,2009-Q4,36
+Q,SA,J,TOTAL,JOBVAC,LV,2010-Q1,127
+Q,SA,J,TOTAL,JOBVAC,LV,2010-Q2,113
+Q,SA,J,TOTAL,JOBVAC,LV,2010-Q3,155
+Q,SA,J,TOTAL,JOBVAC,LV,2010-Q4,104
+Q,SA,J,TOTAL,JOBVAC,LV,2011-Q1,112
+Q,SA,J,TOTAL,JOBVAC,LV,2011-Q2,63
+Q,SA,J,TOTAL,JOBVAC,LV,2011-Q3,117
+Q,SA,J,TOTAL,JOBVAC,LV,2011-Q4,86
+Q,SA,J,TOTAL,JOBVAC,LV,2012-Q1,294
+Q,SA,J,TOTAL,JOBVAC,LV,2012-Q2,347
+Q,SA,J,TOTAL,JOBVAC,LV,2012-Q3,231
+Q,SA,J,TOTAL,JOBVAC,LV,2012-Q4,662
+Q,SA,J,TOTAL,JOBVAC,LV,2013-Q1,765
+Q,SA,J,TOTAL,JOBVAC,LV,2013-Q2,462
+Q,SA,J,TOTAL,JOBVAC,LV,2013-Q3,377
+Q,SA,J,TOTAL,JOBVAC,LV,2013-Q4,83
+Q,SA,J,TOTAL,JOBVAC,LV,2014-Q1,196
+Q,SA,J,TOTAL,JOBVAC,LV,2014-Q2,367
+Q,SA,J,TOTAL,JOBVAC,LV,2014-Q3,180
+Q,SA,J,TOTAL,JOBVAC,LV,2014-Q4,147
+Q,SA,J,TOTAL,JOBVAC,LV,2015-Q1,192
+Q,SA,J,TOTAL,JOBVAC,LV,2015-Q2,87
+Q,SA,J,TOTAL,JOBVAC,LV,2015-Q3,50
+Q,SA,J,TOTAL,JOBVAC,LV,2015-Q4,479
+Q,SA,J,TOTAL,JOBVAC,LV,2016-Q1,531
+Q,SA,J,TOTAL,JOBVAC,LV,2016-Q2,579
+Q,SA,J,TOTAL,JOBVAC,LV,2016-Q3,603
+Q,SA,J,TOTAL,JOBVAC,LV,2016-Q4,593
+Q,SA,J,TOTAL,JOBVAC,LV,2017-Q1,548
+Q,SA,J,TOTAL,JOBVAC,LV,2017-Q2,622
+Q,SA,J,TOTAL,JOBVAC,LV,2017-Q3,629
+Q,SA,J,TOTAL,JOBVAC,LV,2017-Q4,881
+Q,SA,J,TOTAL,JOBVAC,LV,2018-Q1,722
+Q,SA,J,TOTAL,JOBVAC,LV,2018-Q2,736
+Q,SA,J,TOTAL,JOBVAC,LV,2018-Q3,599
+Q,SA,J,TOTAL,JOBVAC,LV,2018-Q4,679
+Q,SA,J,TOTAL,JOBVAC,LV,2019-Q1,674
+Q,SA,J,TOTAL,JOBVAC,LV,2019-Q2,786
+Q,SA,J,TOTAL,JOBVAC,LV,2019-Q3,661
+Q,SA,J,TOTAL,JOBVAC,LV,2019-Q4,811
+Q,SA,J,TOTAL,JOBVAC,LV,2020-Q1,448
+Q,SA,J,TOTAL,JOBVAC,LV,2020-Q2,777
+Q,SA,J,TOTAL,JOBVAC,LV,2020-Q3,750
+Q,SA,J,TOTAL,JOBVAC,LV,2020-Q4,729
+Q,SA,J,TOTAL,JOBVAC,LV,2021-Q1,964
+Q,SA,J,TOTAL,JOBVAC,LV,2021-Q2,1134
+Q,SA,J,TOTAL,JOBVAC,LV,2021-Q3,1146
+Q,SA,J,TOTAL,JOBVAC,LV,2021-Q4,1217
+Q,SA,J,TOTAL,JOBVAC,LV,2022-Q1,1457
+Q,SA,J,TOTAL,JOBVAC,LV,2022-Q2,1405
+Q,SA,J,TOTAL,JOBVAC,LV,2022-Q3,1442
+Q,SA,J,TOTAL,JOBVAC,LV,2022-Q4,1004
+Q,SA,J,TOTAL,JOBVAC,LV,2023-Q1,916
+Q,SA,J,TOTAL,JOBVAC,LV,2023-Q2,1141
+Q,SA,J,TOTAL,JOBVAC,LV,2023-Q3,1106
+Q,SA,J,TOTAL,JOBVAC,LV,2023-Q4,945
+Q,SA,J,TOTAL,JOBVAC,LV,2024-Q1,1149
+Q,SA,J,TOTAL,JOBVAC,LV,2024-Q2,1212
+Q,SA,J,TOTAL,JOBVAC,LV,2024-Q3,1226
+Q,SA,J,TOTAL,JOBVAC,LV,2024-Q4,930
+Q,SA,J,TOTAL,JOBVAC,LV,2025-Q1,1087
+Q,SA,J,TOTAL,JOBVAC,LV,2025-Q2,842
+Q,SA,J,TOTAL,JOBVAC,LV,2025-Q3,947
+Q,SA,J,TOTAL,JOBVAC,LV,2025-Q4,886
+Q,SA,J,TOTAL,JOBVAC,MT,2017-Q1,295
+Q,SA,J,TOTAL,JOBVAC,MT,2017-Q2,380
+Q,SA,J,TOTAL,JOBVAC,MT,2017-Q3,199
+Q,SA,J,TOTAL,JOBVAC,MT,2017-Q4,195
+Q,SA,J,TOTAL,JOBVAC,MT,2018-Q1,169
+Q,SA,J,TOTAL,JOBVAC,MT,2018-Q2,373
+Q,SA,J,TOTAL,JOBVAC,MT,2018-Q3,311
+Q,SA,J,TOTAL,JOBVAC,MT,2018-Q4,314
+Q,SA,J,TOTAL,JOBVAC,MT,2019-Q1,300
+Q,SA,J,TOTAL,JOBVAC,MT,2019-Q2,277
+Q,SA,J,TOTAL,JOBVAC,MT,2019-Q3,312
+Q,SA,J,TOTAL,JOBVAC,MT,2019-Q4,272
+Q,SA,J,TOTAL,JOBVAC,MT,2020-Q1,252
+Q,SA,J,TOTAL,JOBVAC,MT,2020-Q2,275
+Q,SA,J,TOTAL,JOBVAC,MT,2020-Q3,282
+Q,SA,J,TOTAL,JOBVAC,MT,2020-Q4,397
+Q,SA,J,TOTAL,JOBVAC,MT,2021-Q1,309
+Q,SA,J,TOTAL,JOBVAC,MT,2021-Q2,421
+Q,SA,J,TOTAL,JOBVAC,MT,2021-Q3,389
+Q,SA,J,TOTAL,JOBVAC,MT,2021-Q4,391
+Q,SA,J,TOTAL,JOBVAC,MT,2022-Q1,540
+Q,SA,J,TOTAL,JOBVAC,MT,2022-Q2,660
+Q,SA,J,TOTAL,JOBVAC,MT,2022-Q3,715
+Q,SA,J,TOTAL,JOBVAC,MT,2022-Q4,762
+Q,SA,J,TOTAL,JOBVAC,MT,2023-Q1,628
+Q,SA,J,TOTAL,JOBVAC,MT,2023-Q2,355
+Q,SA,J,TOTAL,JOBVAC,MT,2023-Q3,609
+Q,SA,J,TOTAL,JOBVAC,MT,2023-Q4,632
+Q,SA,J,TOTAL,JOBVAC,MT,2024-Q1,775
+Q,SA,J,TOTAL,JOBVAC,MT,2024-Q2,785
+Q,SA,J,TOTAL,JOBVAC,MT,2024-Q3,710
+Q,SA,J,TOTAL,JOBVAC,MT,2024-Q4,703
+Q,SA,J,TOTAL,JOBVAC,MT,2025-Q1,602
+Q,SA,J,TOTAL,JOBVAC,MT,2025-Q2,593
+Q,SA,J,TOTAL,JOBVAC,MT,2025-Q3,679
+Q,SA,J,TOTAL,JOBVAC,MT,2025-Q4,625
+Q,SA,J,TOTAL,JOBVAC,NL,2008-Q1,13400
+Q,SA,J,TOTAL,JOBVAC,NL,2008-Q2,16400
+Q,SA,J,TOTAL,JOBVAC,NL,2008-Q3,14500
+Q,SA,J,TOTAL,JOBVAC,NL,2008-Q4,11100
+Q,SA,J,TOTAL,JOBVAC,NL,2009-Q1,6700
+Q,SA,J,TOTAL,JOBVAC,NL,2009-Q2,5300
+Q,SA,J,TOTAL,JOBVAC,NL,2009-Q3,6100
+Q,SA,J,TOTAL,JOBVAC,NL,2009-Q4,6000
+Q,SA,J,TOTAL,JOBVAC,NL,2010-Q1,6900
+Q,SA,J,TOTAL,JOBVAC,NL,2010-Q2,7600
+Q,SA,J,TOTAL,JOBVAC,NL,2010-Q3,7800
+Q,SA,J,TOTAL,JOBVAC,NL,2010-Q4,6700
+Q,SA,J,TOTAL,JOBVAC,NL,2011-Q1,9200
+Q,SA,J,TOTAL,JOBVAC,NL,2011-Q2,9300
+Q,SA,J,TOTAL,JOBVAC,NL,2011-Q3,8800
+Q,SA,J,TOTAL,JOBVAC,NL,2011-Q4,7800
+Q,SA,J,TOTAL,JOBVAC,NL,2012-Q1,7700
+Q,SA,J,TOTAL,JOBVAC,NL,2012-Q2,7500
+Q,SA,J,TOTAL,JOBVAC,NL,2012-Q3,7700
+Q,SA,J,TOTAL,JOBVAC,NL,2012-Q4,7900
+Q,SA,J,TOTAL,JOBVAC,NL,2013-Q1,7000
+Q,SA,J,TOTAL,JOBVAC,NL,2013-Q2,6700
+Q,SA,J,TOTAL,JOBVAC,NL,2013-Q3,6900
+Q,SA,J,TOTAL,JOBVAC,NL,2013-Q4,7400
+Q,SA,J,TOTAL,JOBVAC,NL,2014-Q1,8300
+Q,SA,J,TOTAL,JOBVAC,NL,2014-Q2,8400
+Q,SA,J,TOTAL,JOBVAC,NL,2014-Q3,8600
+Q,SA,J,TOTAL,JOBVAC,NL,2014-Q4,9200
+Q,SA,J,TOTAL,JOBVAC,NL,2015-Q1,10100
+Q,SA,J,TOTAL,JOBVAC,NL,2015-Q2,9400
+Q,SA,J,TOTAL,JOBVAC,NL,2015-Q3,10500
+Q,SA,J,TOTAL,JOBVAC,NL,2015-Q4,11700
+Q,SA,J,TOTAL,JOBVAC,NL,2016-Q1,12100
+Q,SA,J,TOTAL,JOBVAC,NL,2016-Q2,12000
+Q,SA,J,TOTAL,JOBVAC,NL,2016-Q3,11500
+Q,SA,J,TOTAL,JOBVAC,NL,2016-Q4,11800
+Q,SA,J,TOTAL,JOBVAC,NL,2017-Q1,13000
+Q,SA,J,TOTAL,JOBVAC,NL,2017-Q2,13800
+Q,SA,J,TOTAL,JOBVAC,NL,2017-Q3,13400
+Q,SA,J,TOTAL,JOBVAC,NL,2017-Q4,15500
+Q,SA,J,TOTAL,JOBVAC,NL,2018-Q1,16400
+Q,SA,J,TOTAL,JOBVAC,NL,2018-Q2,16700
+Q,SA,J,TOTAL,JOBVAC,NL,2018-Q3,17300
+Q,SA,J,TOTAL,JOBVAC,NL,2018-Q4,17200
+Q,SA,J,TOTAL,JOBVAC,NL,2019-Q1,18400
+Q,SA,J,TOTAL,JOBVAC,NL,2019-Q2,18000
+Q,SA,J,TOTAL,JOBVAC,NL,2019-Q3,18800
+Q,SA,J,TOTAL,JOBVAC,NL,2019-Q4,18400
+Q,SA,J,TOTAL,JOBVAC,NL,2020-Q1,14300
+Q,SA,J,TOTAL,JOBVAC,NL,2020-Q2,12700
+Q,SA,J,TOTAL,JOBVAC,NL,2020-Q3,13900
+Q,SA,J,TOTAL,JOBVAC,NL,2020-Q4,15800
+Q,SA,J,TOTAL,JOBVAC,NL,2021-Q1,18100
+Q,SA,J,TOTAL,JOBVAC,NL,2021-Q2,23500
+Q,SA,J,TOTAL,JOBVAC,NL,2021-Q3,23700
+Q,SA,J,TOTAL,JOBVAC,NL,2021-Q4,25700
+Q,SA,J,TOTAL,JOBVAC,NL,2022-Q1,28300
+Q,SA,J,TOTAL,JOBVAC,NL,2022-Q2,28400
+Q,SA,J,TOTAL,JOBVAC,NL,2022-Q3,26600
+Q,SA,J,TOTAL,JOBVAC,NL,2022-Q4,23400
+Q,SA,J,TOTAL,JOBVAC,NL,2023-Q1,22700
+Q,SA,J,TOTAL,JOBVAC,NL,2023-Q2,21300
+Q,SA,J,TOTAL,JOBVAC,NL,2023-Q3,21000
+Q,SA,J,TOTAL,JOBVAC,NL,2023-Q4,20200
+Q,SA,J,TOTAL,JOBVAC,NL,2024-Q1,19600
+Q,SA,J,TOTAL,JOBVAC,NL,2024-Q2,19100
+Q,SA,J,TOTAL,JOBVAC,NL,2024-Q3,18200
+Q,SA,J,TOTAL,JOBVAC,NL,2024-Q4,18600
+Q,SA,J,TOTAL,JOBVAC,NL,2025-Q1,17500
+Q,SA,J,TOTAL,JOBVAC,NL,2025-Q2,17600
+Q,SA,J,TOTAL,JOBVAC,NL,2025-Q3,16600
+Q,SA,J,TOTAL,JOBVAC,NL,2025-Q4,16900
+Q,SA,J,TOTAL,JOBVAC,NO,2010-Q1,1920
+Q,SA,J,TOTAL,JOBVAC,NO,2010-Q2,2099
+Q,SA,J,TOTAL,JOBVAC,NO,2010-Q3,2407
+Q,SA,J,TOTAL,JOBVAC,NO,2010-Q4,3114
+Q,SA,J,TOTAL,JOBVAC,NO,2011-Q1,3148
+Q,SA,J,TOTAL,JOBVAC,NO,2011-Q2,3151
+Q,SA,J,TOTAL,JOBVAC,NO,2011-Q3,3020
+Q,SA,J,TOTAL,JOBVAC,NO,2011-Q4,2894
+Q,SA,J,TOTAL,JOBVAC,NO,2012-Q1,3280
+Q,SA,J,TOTAL,JOBVAC,NO,2012-Q2,3205
+Q,SA,J,TOTAL,JOBVAC,NO,2012-Q3,3297
+Q,SA,J,TOTAL,JOBVAC,NO,2012-Q4,3060
+Q,SA,J,TOTAL,JOBVAC,NO,2013-Q1,2929
+Q,SA,J,TOTAL,JOBVAC,NO,2013-Q2,3238
+Q,SA,J,TOTAL,JOBVAC,NO,2013-Q3,3100
+Q,SA,J,TOTAL,JOBVAC,NO,2013-Q4,2718
+Q,SA,J,TOTAL,JOBVAC,NO,2014-Q1,2846
+Q,SA,J,TOTAL,JOBVAC,NO,2014-Q2,2801
+Q,SA,J,TOTAL,JOBVAC,NO,2014-Q3,2486
+Q,SA,J,TOTAL,JOBVAC,NO,2014-Q4,3000
+Q,SA,J,TOTAL,JOBVAC,NO,2015-Q1,2294
+Q,SA,J,TOTAL,JOBVAC,NO,2015-Q2,2116
+Q,SA,J,TOTAL,JOBVAC,NO,2015-Q3,1945
+Q,SA,J,TOTAL,JOBVAC,NO,2015-Q4,2099
+Q,SA,J,TOTAL,JOBVAC,NO,2016-Q1,2344
+Q,SA,J,TOTAL,JOBVAC,NO,2016-Q2,2647
+Q,SA,J,TOTAL,JOBVAC,NO,2016-Q3,2796
+Q,SA,J,TOTAL,JOBVAC,NO,2016-Q4,3140
+Q,SA,J,TOTAL,JOBVAC,NO,2017-Q1,2739
+Q,SA,J,TOTAL,JOBVAC,NO,2017-Q2,2717
+Q,SA,J,TOTAL,JOBVAC,NO,2017-Q3,3029
+Q,SA,J,TOTAL,JOBVAC,NO,2017-Q4,3087
+Q,SA,J,TOTAL,JOBVAC,NO,2018-Q1,3376
+Q,SA,J,TOTAL,JOBVAC,NO,2018-Q2,3453
+Q,SA,J,TOTAL,JOBVAC,NO,2018-Q3,4079
+Q,SA,J,TOTAL,JOBVAC,NO,2018-Q4,4140
+Q,SA,J,TOTAL,JOBVAC,NO,2019-Q1,4514
+Q,SA,J,TOTAL,JOBVAC,NO,2019-Q2,4792
+Q,SA,J,TOTAL,JOBVAC,NO,2019-Q3,4795
+Q,SA,J,TOTAL,JOBVAC,NO,2019-Q4,4704
+Q,SA,J,TOTAL,JOBVAC,NO,2020-Q1,4694
+Q,SA,J,TOTAL,JOBVAC,NO,2020-Q2,3250
+Q,SA,J,TOTAL,JOBVAC,NO,2020-Q3,3458
+Q,SA,J,TOTAL,JOBVAC,NO,2020-Q4,4776
+Q,SA,J,TOTAL,JOBVAC,NO,2021-Q1,4726
+Q,SA,J,TOTAL,JOBVAC,NO,2021-Q2,6563
+Q,SA,J,TOTAL,JOBVAC,NO,2021-Q3,5970
+Q,SA,J,TOTAL,JOBVAC,NO,2021-Q4,5938
+Q,SA,J,TOTAL,JOBVAC,NO,2022-Q1,5984
+Q,SA,J,TOTAL,JOBVAC,NO,2022-Q2,6042
+Q,SA,J,TOTAL,JOBVAC,NO,2022-Q3,6606
+Q,SA,J,TOTAL,JOBVAC,NO,2022-Q4,5922
+Q,SA,J,TOTAL,JOBVAC,NO,2023-Q1,6860
+Q,SA,J,TOTAL,JOBVAC,NO,2023-Q2,6707
+Q,SA,J,TOTAL,JOBVAC,NO,2023-Q3,5006
+Q,SA,J,TOTAL,JOBVAC,NO,2023-Q4,5005
+Q,SA,J,TOTAL,JOBVAC,NO,2024-Q1,4098
+Q,SA,J,TOTAL,JOBVAC,NO,2024-Q2,4351
+Q,SA,J,TOTAL,JOBVAC,NO,2024-Q3,4850
+Q,SA,J,TOTAL,JOBVAC,NO,2024-Q4,4990
+Q,SA,J,TOTAL,JOBVAC,NO,2025-Q1,5157
+Q,SA,J,TOTAL,JOBVAC,NO,2025-Q2,4141
+Q,SA,J,TOTAL,JOBVAC,NO,2025-Q3,3844
+Q,SA,J,TOTAL,JOBVAC,NO,2025-Q4,3749
+Q,SA,J,TOTAL,JOBVAC,PL,2010-Q1,2482
+Q,SA,J,TOTAL,JOBVAC,PL,2010-Q2,2247
+Q,SA,J,TOTAL,JOBVAC,PL,2010-Q3,2404
+Q,SA,J,TOTAL,JOBVAC,PL,2010-Q4,2423
+Q,SA,J,TOTAL,JOBVAC,PL,2011-Q1,2567
+Q,SA,J,TOTAL,JOBVAC,PL,2011-Q2,2718
+Q,SA,J,TOTAL,JOBVAC,PL,2011-Q3,2845
+Q,SA,J,TOTAL,JOBVAC,PL,2011-Q4,2334
+Q,SA,J,TOTAL,JOBVAC,PL,2012-Q1,2805
+Q,SA,J,TOTAL,JOBVAC,PL,2012-Q2,2817
+Q,SA,J,TOTAL,JOBVAC,PL,2012-Q3,2780
+Q,SA,J,TOTAL,JOBVAC,PL,2012-Q4,2540
+Q,SA,J,TOTAL,JOBVAC,PL,2013-Q1,3494
+Q,SA,J,TOTAL,JOBVAC,PL,2013-Q2,3593
+Q,SA,J,TOTAL,JOBVAC,PL,2013-Q3,4093
+Q,SA,J,TOTAL,JOBVAC,PL,2013-Q4,2772
+Q,SA,J,TOTAL,JOBVAC,PL,2014-Q1,4056
+Q,SA,J,TOTAL,JOBVAC,PL,2014-Q2,3926
+Q,SA,J,TOTAL,JOBVAC,PL,2014-Q3,4527
+Q,SA,J,TOTAL,JOBVAC,PL,2014-Q4,3934
+Q,SA,J,TOTAL,JOBVAC,PL,2015-Q1,4496
+Q,SA,J,TOTAL,JOBVAC,PL,2015-Q2,4502
+Q,SA,J,TOTAL,JOBVAC,PL,2015-Q3,5214
+Q,SA,J,TOTAL,JOBVAC,PL,2015-Q4,5705
+Q,SA,J,TOTAL,JOBVAC,PL,2016-Q1,5356
+Q,SA,J,TOTAL,JOBVAC,PL,2016-Q2,6027
+Q,SA,J,TOTAL,JOBVAC,PL,2016-Q3,5486
+Q,SA,J,TOTAL,JOBVAC,PL,2016-Q4,5853
+Q,SA,J,TOTAL,JOBVAC,PL,2017-Q1,6219
+Q,SA,J,TOTAL,JOBVAC,PL,2017-Q2,6475
+Q,SA,J,TOTAL,JOBVAC,PL,2017-Q3,6320
+Q,SA,J,TOTAL,JOBVAC,PL,2017-Q4,5702
+Q,SA,J,TOTAL,JOBVAC,PL,2018-Q1,6683
+Q,SA,J,TOTAL,JOBVAC,PL,2018-Q2,9318
+Q,SA,J,TOTAL,JOBVAC,PL,2018-Q3,6920
+Q,SA,J,TOTAL,JOBVAC,PL,2018-Q4,6500
+Q,SA,J,TOTAL,JOBVAC,PL,2019-Q1,6747
+Q,SA,J,TOTAL,JOBVAC,PL,2019-Q2,7775
+Q,SA,J,TOTAL,JOBVAC,PL,2019-Q3,8060
+Q,SA,J,TOTAL,JOBVAC,PL,2019-Q4,6254
+Q,SA,J,TOTAL,JOBVAC,PL,2020-Q1,4825
+Q,SA,J,TOTAL,JOBVAC,PL,2020-Q2,4362
+Q,SA,J,TOTAL,JOBVAC,PL,2020-Q3,5295
+Q,SA,J,TOTAL,JOBVAC,PL,2020-Q4,5302
+Q,SA,J,TOTAL,JOBVAC,PL,2021-Q1,9370
+Q,SA,J,TOTAL,JOBVAC,PL,2021-Q2,12918
+Q,SA,J,TOTAL,JOBVAC,PL,2021-Q3,13452
+Q,SA,J,TOTAL,JOBVAC,PL,2021-Q4,12848
+Q,SA,J,TOTAL,JOBVAC,PL,2022-Q1,14340
+Q,SA,J,TOTAL,JOBVAC,PL,2022-Q2,13992
+Q,SA,J,TOTAL,JOBVAC,PL,2022-Q3,12208
+Q,SA,J,TOTAL,JOBVAC,PL,2022-Q4,10299
+Q,SA,J,TOTAL,JOBVAC,PL,2023-Q1,7530
+Q,SA,J,TOTAL,JOBVAC,PL,2023-Q2,8510
+Q,SA,J,TOTAL,JOBVAC,PL,2023-Q3,6839
+Q,SA,J,TOTAL,JOBVAC,PL,2023-Q4,6715
+Q,SA,J,TOTAL,JOBVAC,PL,2024-Q1,5712
+Q,SA,J,TOTAL,JOBVAC,PL,2024-Q2,5767
+Q,SA,J,TOTAL,JOBVAC,PL,2024-Q3,5466
+Q,SA,J,TOTAL,JOBVAC,PL,2024-Q4,5077
+Q,SA,J,TOTAL,JOBVAC,PL,2025-Q1,5036
+Q,SA,J,TOTAL,JOBVAC,PL,2025-Q2,4819
+Q,SA,J,TOTAL,JOBVAC,PL,2025-Q3,4900
+Q,SA,J,TOTAL,JOBVAC,PL,2025-Q4,5070
+Q,SA,J,TOTAL,JOBVAC,PT,2014-Q1,1033
+Q,SA,J,TOTAL,JOBVAC,PT,2014-Q2,1240
+Q,SA,J,TOTAL,JOBVAC,PT,2014-Q3,1683
+Q,SA,J,TOTAL,JOBVAC,PT,2014-Q4,1611
+Q,SA,J,TOTAL,JOBVAC,PT,2015-Q1,690
+Q,SA,J,TOTAL,JOBVAC,PT,2015-Q2,1122
+Q,SA,J,TOTAL,JOBVAC,PT,2015-Q3,1095
+Q,SA,J,TOTAL,JOBVAC,PT,2015-Q4,834
+Q,SA,J,TOTAL,JOBVAC,PT,2016-Q1,837
+Q,SA,J,TOTAL,JOBVAC,PT,2016-Q2,917
+Q,SA,J,TOTAL,JOBVAC,PT,2016-Q3,799
+Q,SA,J,TOTAL,JOBVAC,PT,2016-Q4,630
+Q,SA,J,TOTAL,JOBVAC,PT,2017-Q1,1142
+Q,SA,J,TOTAL,JOBVAC,PT,2017-Q2,1368
+Q,SA,J,TOTAL,JOBVAC,PT,2017-Q3,1086
+Q,SA,J,TOTAL,JOBVAC,PT,2017-Q4,1145
+Q,SA,J,TOTAL,JOBVAC,PT,2018-Q1,1729
+Q,SA,J,TOTAL,JOBVAC,PT,2018-Q2,1683
+Q,SA,J,TOTAL,JOBVAC,PT,2018-Q3,1548
+Q,SA,J,TOTAL,JOBVAC,PT,2018-Q4,1475
+Q,SA,J,TOTAL,JOBVAC,PT,2019-Q1,2550
+Q,SA,J,TOTAL,JOBVAC,PT,2019-Q2,2627
+Q,SA,J,TOTAL,JOBVAC,PT,2019-Q3,2699
+Q,SA,J,TOTAL,JOBVAC,PT,2019-Q4,2815
+Q,SA,J,TOTAL,JOBVAC,PT,2020-Q1,1888
+Q,SA,J,TOTAL,JOBVAC,PT,2020-Q2,1658
+Q,SA,J,TOTAL,JOBVAC,PT,2020-Q3,2598
+Q,SA,J,TOTAL,JOBVAC,PT,2020-Q4,2593
+Q,SA,J,TOTAL,JOBVAC,PT,2021-Q1,3571
+Q,SA,J,TOTAL,JOBVAC,PT,2021-Q2,3493
+Q,SA,J,TOTAL,JOBVAC,PT,2021-Q3,4261
+Q,SA,J,TOTAL,JOBVAC,PT,2021-Q4,3577
+Q,SA,J,TOTAL,JOBVAC,PT,2022-Q1,4141
+Q,SA,J,TOTAL,JOBVAC,PT,2022-Q2,3480
+Q,SA,J,TOTAL,JOBVAC,PT,2022-Q3,4022
+Q,SA,J,TOTAL,JOBVAC,PT,2022-Q4,3185
+Q,SA,J,TOTAL,JOBVAC,PT,2023-Q1,3254
+Q,SA,J,TOTAL,JOBVAC,PT,2023-Q2,4940
+Q,SA,J,TOTAL,JOBVAC,PT,2023-Q3,4492
+Q,SA,J,TOTAL,JOBVAC,PT,2023-Q4,4889
+Q,SA,J,TOTAL,JOBVAC,PT,2024-Q1,5810
+Q,SA,J,TOTAL,JOBVAC,PT,2024-Q2,5811
+Q,SA,J,TOTAL,JOBVAC,PT,2024-Q3,5447
+Q,SA,J,TOTAL,JOBVAC,PT,2024-Q4,5140
+Q,SA,J,TOTAL,JOBVAC,PT,2025-Q1,5740
+Q,SA,J,TOTAL,JOBVAC,PT,2025-Q2,5899
+Q,SA,J,TOTAL,JOBVAC,PT,2025-Q3,5817
+Q,SA,J,TOTAL,JOBVAC,PT,2025-Q4,5446
+Q,SA,J,TOTAL,JOBVAC,RO,2009-Q1,740
+Q,SA,J,TOTAL,JOBVAC,RO,2009-Q2,582
+Q,SA,J,TOTAL,JOBVAC,RO,2009-Q3,576
+Q,SA,J,TOTAL,JOBVAC,RO,2009-Q4,409
+Q,SA,J,TOTAL,JOBVAC,RO,2010-Q1,906
+Q,SA,J,TOTAL,JOBVAC,RO,2010-Q2,854
+Q,SA,J,TOTAL,JOBVAC,RO,2010-Q3,565
+Q,SA,J,TOTAL,JOBVAC,RO,2010-Q4,734
+Q,SA,J,TOTAL,JOBVAC,RO,2011-Q1,861
+Q,SA,J,TOTAL,JOBVAC,RO,2011-Q2,1132
+Q,SA,J,TOTAL,JOBVAC,RO,2011-Q3,826
+Q,SA,J,TOTAL,JOBVAC,RO,2011-Q4,785
+Q,SA,J,TOTAL,JOBVAC,RO,2012-Q1,848
+Q,SA,J,TOTAL,JOBVAC,RO,2012-Q2,876
+Q,SA,J,TOTAL,JOBVAC,RO,2012-Q3,629
+Q,SA,J,TOTAL,JOBVAC,RO,2012-Q4,409
+Q,SA,J,TOTAL,JOBVAC,RO,2013-Q1,715
+Q,SA,J,TOTAL,JOBVAC,RO,2013-Q2,880
+Q,SA,J,TOTAL,JOBVAC,RO,2013-Q3,637
+Q,SA,J,TOTAL,JOBVAC,RO,2013-Q4,610
+Q,SA,J,TOTAL,JOBVAC,RO,2014-Q1,933
+Q,SA,J,TOTAL,JOBVAC,RO,2014-Q2,716
+Q,SA,J,TOTAL,JOBVAC,RO,2014-Q3,1145
+Q,SA,J,TOTAL,JOBVAC,RO,2014-Q4,962
+Q,SA,J,TOTAL,JOBVAC,RO,2015-Q1,1542
+Q,SA,J,TOTAL,JOBVAC,RO,2015-Q2,1648
+Q,SA,J,TOTAL,JOBVAC,RO,2015-Q3,1761
+Q,SA,J,TOTAL,JOBVAC,RO,2015-Q4,1724
+Q,SA,J,TOTAL,JOBVAC,RO,2016-Q1,2162
+Q,SA,J,TOTAL,JOBVAC,RO,2016-Q2,2457
+Q,SA,J,TOTAL,JOBVAC,RO,2016-Q3,2195
+Q,SA,J,TOTAL,JOBVAC,RO,2016-Q4,2216
+Q,SA,J,TOTAL,JOBVAC,RO,2017-Q1,1944
+Q,SA,J,TOTAL,JOBVAC,RO,2017-Q2,2530
+Q,SA,J,TOTAL,JOBVAC,RO,2017-Q3,1555
+Q,SA,J,TOTAL,JOBVAC,RO,2017-Q4,2080
+Q,SA,J,TOTAL,JOBVAC,RO,2018-Q1,2778
+Q,SA,J,TOTAL,JOBVAC,RO,2018-Q2,2956
+Q,SA,J,TOTAL,JOBVAC,RO,2018-Q3,2946
+Q,SA,J,TOTAL,JOBVAC,RO,2018-Q4,3103
+Q,SA,J,TOTAL,JOBVAC,RO,2019-Q1,2341
+Q,SA,J,TOTAL,JOBVAC,RO,2019-Q2,2646
+Q,SA,J,TOTAL,JOBVAC,RO,2019-Q3,2586
+Q,SA,J,TOTAL,JOBVAC,RO,2019-Q4,2275
+Q,SA,J,TOTAL,JOBVAC,RO,2020-Q1,2250
+Q,SA,J,TOTAL,JOBVAC,RO,2020-Q2,2467
+Q,SA,J,TOTAL,JOBVAC,RO,2020-Q3,1784
+Q,SA,J,TOTAL,JOBVAC,RO,2020-Q4,1885
+Q,SA,J,TOTAL,JOBVAC,RO,2021-Q1,2315
+Q,SA,J,TOTAL,JOBVAC,RO,2021-Q2,2355
+Q,SA,J,TOTAL,JOBVAC,RO,2021-Q3,2115
+Q,SA,J,TOTAL,JOBVAC,RO,2021-Q4,3415
+Q,SA,J,TOTAL,JOBVAC,RO,2022-Q1,3703
+Q,SA,J,TOTAL,JOBVAC,RO,2022-Q2,3173
+Q,SA,J,TOTAL,JOBVAC,RO,2022-Q3,2478
+Q,SA,J,TOTAL,JOBVAC,RO,2022-Q4,1886
+Q,SA,J,TOTAL,JOBVAC,RO,2023-Q1,2492
+Q,SA,J,TOTAL,JOBVAC,RO,2023-Q2,2264
+Q,SA,J,TOTAL,JOBVAC,RO,2023-Q3,2522
+Q,SA,J,TOTAL,JOBVAC,RO,2023-Q4,2033
+Q,SA,J,TOTAL,JOBVAC,RO,2024-Q1,1802
+Q,SA,J,TOTAL,JOBVAC,RO,2024-Q2,1639
+Q,SA,J,TOTAL,JOBVAC,RO,2024-Q3,1748
+Q,SA,J,TOTAL,JOBVAC,RO,2024-Q4,1561
+Q,SA,J,TOTAL,JOBVAC,RO,2025-Q1,1751
+Q,SA,J,TOTAL,JOBVAC,RO,2025-Q2,1624
+Q,SA,J,TOTAL,JOBVAC,RO,2025-Q3,1602
+Q,SA,J,TOTAL,JOBVAC,RO,2025-Q4,1598
+Q,SA,J,TOTAL,JOBVAC,SE,2010-Q1,3000
+Q,SA,J,TOTAL,JOBVAC,SE,2010-Q2,3000
+Q,SA,J,TOTAL,JOBVAC,SE,2010-Q3,3800
+Q,SA,J,TOTAL,JOBVAC,SE,2010-Q4,4000
+Q,SA,J,TOTAL,JOBVAC,SE,2011-Q1,3600
+Q,SA,J,TOTAL,JOBVAC,SE,2011-Q2,5100
+Q,SA,J,TOTAL,JOBVAC,SE,2011-Q3,5300
+Q,SA,J,TOTAL,JOBVAC,SE,2011-Q4,5200
+Q,SA,J,TOTAL,JOBVAC,SE,2012-Q1,5300
+Q,SA,J,TOTAL,JOBVAC,SE,2012-Q2,4900
+Q,SA,J,TOTAL,JOBVAC,SE,2012-Q3,4500
+Q,SA,J,TOTAL,JOBVAC,SE,2012-Q4,3700
+Q,SA,J,TOTAL,JOBVAC,SE,2013-Q1,4100
+Q,SA,J,TOTAL,JOBVAC,SE,2013-Q2,3800
+Q,SA,J,TOTAL,JOBVAC,SE,2013-Q3,3600
+Q,SA,J,TOTAL,JOBVAC,SE,2013-Q4,4100
+Q,SA,J,TOTAL,JOBVAC,SE,2014-Q1,4000
+Q,SA,J,TOTAL,JOBVAC,SE,2014-Q2,5200
+Q,SA,J,TOTAL,JOBVAC,SE,2014-Q3,4600
+Q,SA,J,TOTAL,JOBVAC,SE,2014-Q4,5400
+Q,SA,J,TOTAL,JOBVAC,SE,2015-Q1,5300
+Q,SA,J,TOTAL,JOBVAC,SE,2015-Q2,5600
+Q,SA,J,TOTAL,JOBVAC,SE,2015-Q3,6700
+Q,SA,J,TOTAL,JOBVAC,SE,2015-Q4,7100
+Q,SA,J,TOTAL,JOBVAC,SE,2016-Q1,7100
+Q,SA,J,TOTAL,JOBVAC,SE,2016-Q2,7500
+Q,SA,J,TOTAL,JOBVAC,SE,2016-Q3,7500
+Q,SA,J,TOTAL,JOBVAC,SE,2016-Q4,7500
+Q,SA,J,TOTAL,JOBVAC,SE,2017-Q1,8300
+Q,SA,J,TOTAL,JOBVAC,SE,2017-Q2,6200
+Q,SA,J,TOTAL,JOBVAC,SE,2017-Q3,9200
+Q,SA,J,TOTAL,JOBVAC,SE,2017-Q4,8300
+Q,SA,J,TOTAL,JOBVAC,SE,2018-Q1,8600
+Q,SA,J,TOTAL,JOBVAC,SE,2018-Q2,10500
+Q,SA,J,TOTAL,JOBVAC,SE,2018-Q3,10300
+Q,SA,J,TOTAL,JOBVAC,SE,2018-Q4,9100
+Q,SA,J,TOTAL,JOBVAC,SE,2019-Q1,10300
+Q,SA,J,TOTAL,JOBVAC,SE,2019-Q2,10200
+Q,SA,J,TOTAL,JOBVAC,SE,2019-Q3,10800
+Q,SA,J,TOTAL,JOBVAC,SE,2019-Q4,10600
+Q,SA,J,TOTAL,JOBVAC,SE,2020-Q1,9900
+Q,SA,J,TOTAL,JOBVAC,SE,2020-Q2,5500
+Q,SA,J,TOTAL,JOBVAC,SE,2020-Q3,6600
+Q,SA,J,TOTAL,JOBVAC,SE,2020-Q4,7700
+Q,SA,J,TOTAL,JOBVAC,SE,2021-Q1,8000
+Q,SA,J,TOTAL,JOBVAC,SE,2021-Q2,9800
+Q,SA,J,TOTAL,JOBVAC,SE,2021-Q3,10500
+Q,SA,J,TOTAL,JOBVAC,SE,2021-Q4,12500
+Q,SA,J,TOTAL,JOBVAC,SE,2022-Q1,14600
+Q,SA,J,TOTAL,JOBVAC,SE,2022-Q2,13800
+Q,SA,J,TOTAL,JOBVAC,SE,2022-Q3,13800
+Q,SA,J,TOTAL,JOBVAC,SE,2022-Q4,10100
+Q,SA,J,TOTAL,JOBVAC,SE,2023-Q1,9600
+Q,SA,J,TOTAL,JOBVAC,SE,2023-Q2,9300
+Q,SA,J,TOTAL,JOBVAC,SE,2023-Q3,8700
+Q,SA,J,TOTAL,JOBVAC,SE,2023-Q4,8000
+Q,SA,J,TOTAL,JOBVAC,SE,2024-Q1,6600
+Q,SA,J,TOTAL,JOBVAC,SE,2024-Q2,11700
+Q,SA,J,TOTAL,JOBVAC,SE,2024-Q3,10900
+Q,SA,J,TOTAL,JOBVAC,SE,2024-Q4,11600
+Q,SA,J,TOTAL,JOBVAC,SE,2025-Q1,11900
+Q,SA,J,TOTAL,JOBVAC,SE,2025-Q2,7900
+Q,SA,J,TOTAL,JOBVAC,SE,2025-Q3,8500
+Q,SA,J,TOTAL,JOBVAC,SE,2025-Q4,7500
+Q,SA,J,TOTAL,JOBVAC,SI,2008-Q1,97
+Q,SA,J,TOTAL,JOBVAC,SI,2008-Q2,132
+Q,SA,J,TOTAL,JOBVAC,SI,2008-Q3,108
+Q,SA,J,TOTAL,JOBVAC,SI,2008-Q4,100
+Q,SA,J,TOTAL,JOBVAC,SI,2009-Q1,78
+Q,SA,J,TOTAL,JOBVAC,SI,2009-Q2,59
+Q,SA,J,TOTAL,JOBVAC,SI,2009-Q3,74
+Q,SA,J,TOTAL,JOBVAC,SI,2009-Q4,61
+Q,SA,J,TOTAL,JOBVAC,SI,2010-Q1,87
+Q,SA,J,TOTAL,JOBVAC,SI,2010-Q2,85
+Q,SA,J,TOTAL,JOBVAC,SI,2010-Q3,91
+Q,SA,J,TOTAL,JOBVAC,SI,2010-Q4,110
+Q,SA,J,TOTAL,JOBVAC,SI,2011-Q1,108
+Q,SA,J,TOTAL,JOBVAC,SI,2011-Q2,91
+Q,SA,J,TOTAL,JOBVAC,SI,2011-Q3,104
+Q,SA,J,TOTAL,JOBVAC,SI,2011-Q4,111
+Q,SA,J,TOTAL,JOBVAC,SI,2012-Q1,122
+Q,SA,J,TOTAL,JOBVAC,SI,2012-Q2,72
+Q,SA,J,TOTAL,JOBVAC,SI,2012-Q3,101
+Q,SA,J,TOTAL,JOBVAC,SI,2012-Q4,97
+Q,SA,J,TOTAL,JOBVAC,SI,2013-Q1,85
+Q,SA,J,TOTAL,JOBVAC,SI,2013-Q2,109
+Q,SA,J,TOTAL,JOBVAC,SI,2013-Q3,159
+Q,SA,J,TOTAL,JOBVAC,SI,2013-Q4,209
+Q,SA,J,TOTAL,JOBVAC,SI,2014-Q1,213
+Q,SA,J,TOTAL,JOBVAC,SI,2014-Q2,262
+Q,SA,J,TOTAL,JOBVAC,SI,2014-Q3,278
+Q,SA,J,TOTAL,JOBVAC,SI,2014-Q4,328
+Q,SA,J,TOTAL,JOBVAC,SI,2015-Q1,276
+Q,SA,J,TOTAL,JOBVAC,SI,2015-Q2,400
+Q,SA,J,TOTAL,JOBVAC,SI,2015-Q3,302
+Q,SA,J,TOTAL,JOBVAC,SI,2015-Q4,304
+Q,SA,J,TOTAL,JOBVAC,SI,2016-Q1,369
+Q,SA,J,TOTAL,JOBVAC,SI,2016-Q2,475
+Q,SA,J,TOTAL,JOBVAC,SI,2016-Q3,402
+Q,SA,J,TOTAL,JOBVAC,SI,2016-Q4,404
+Q,SA,J,TOTAL,JOBVAC,SI,2017-Q1,304
+Q,SA,J,TOTAL,JOBVAC,SI,2017-Q2,400
+Q,SA,J,TOTAL,JOBVAC,SI,2017-Q3,434
+Q,SA,J,TOTAL,JOBVAC,SI,2017-Q4,536
+Q,SA,J,TOTAL,JOBVAC,SI,2018-Q1,559
+Q,SA,J,TOTAL,JOBVAC,SI,2018-Q2,444
+Q,SA,J,TOTAL,JOBVAC,SI,2018-Q3,464
+Q,SA,J,TOTAL,JOBVAC,SI,2018-Q4,507
+Q,SA,J,TOTAL,JOBVAC,SI,2019-Q1,557
+Q,SA,J,TOTAL,JOBVAC,SI,2019-Q2,493
+Q,SA,J,TOTAL,JOBVAC,SI,2019-Q3,579
+Q,SA,J,TOTAL,JOBVAC,SI,2019-Q4,502
+Q,SA,J,TOTAL,JOBVAC,SI,2020-Q1,649
+Q,SA,J,TOTAL,JOBVAC,SI,2020-Q2,420
+Q,SA,J,TOTAL,JOBVAC,SI,2020-Q3,521
+Q,SA,J,TOTAL,JOBVAC,SI,2020-Q4,540
+Q,SA,J,TOTAL,JOBVAC,SI,2021-Q1,538
+Q,SA,J,TOTAL,JOBVAC,SI,2021-Q2,800
+Q,SA,J,TOTAL,JOBVAC,SI,2021-Q3,801
+Q,SA,J,TOTAL,JOBVAC,SI,2021-Q4,753
+Q,SA,J,TOTAL,JOBVAC,SI,2022-Q1,993
+Q,SA,J,TOTAL,JOBVAC,SI,2022-Q2,1211
+Q,SA,J,TOTAL,JOBVAC,SI,2022-Q3,836
+Q,SA,J,TOTAL,JOBVAC,SI,2022-Q4,668
+Q,SA,J,TOTAL,JOBVAC,SI,2023-Q1,648
+Q,SA,J,TOTAL,JOBVAC,SI,2023-Q2,605
+Q,SA,J,TOTAL,JOBVAC,SI,2023-Q3,578
+Q,SA,J,TOTAL,JOBVAC,SI,2023-Q4,618
+Q,SA,J,TOTAL,JOBVAC,SI,2024-Q1,637
+Q,SA,J,TOTAL,JOBVAC,SI,2024-Q2,576
+Q,SA,J,TOTAL,JOBVAC,SI,2024-Q3,551
+Q,SA,J,TOTAL,JOBVAC,SI,2024-Q4,454
+Q,SA,J,TOTAL,JOBVAC,SI,2025-Q1,460
+Q,SA,J,TOTAL,JOBVAC,SI,2025-Q2,506
+Q,SA,J,TOTAL,JOBVAC,SI,2025-Q3,427
+Q,SA,J,TOTAL,JOBVAC,SI,2025-Q4,541
+Q,SA,J,TOTAL,JOBVAC,SK,2008-Q1,200
+Q,SA,J,TOTAL,JOBVAC,SK,2008-Q2,216
+Q,SA,J,TOTAL,JOBVAC,SK,2008-Q3,271
+Q,SA,J,TOTAL,JOBVAC,SK,2008-Q4,226
+Q,SA,J,TOTAL,JOBVAC,SK,2009-Q1,187
+Q,SA,J,TOTAL,JOBVAC,SK,2009-Q2,157
+Q,SA,J,TOTAL,JOBVAC,SK,2009-Q3,330
+Q,SA,J,TOTAL,JOBVAC,SK,2009-Q4,285
+Q,SA,J,TOTAL,JOBVAC,SK,2010-Q1,216
+Q,SA,J,TOTAL,JOBVAC,SK,2010-Q2,197
+Q,SA,J,TOTAL,JOBVAC,SK,2010-Q3,301
+Q,SA,J,TOTAL,JOBVAC,SK,2010-Q4,269
+Q,SA,J,TOTAL,JOBVAC,SK,2011-Q1,492
+Q,SA,J,TOTAL,JOBVAC,SK,2011-Q2,366
+Q,SA,J,TOTAL,JOBVAC,SK,2011-Q3,323
+Q,SA,J,TOTAL,JOBVAC,SK,2011-Q4,365
+Q,SA,J,TOTAL,JOBVAC,SK,2012-Q1,388
+Q,SA,J,TOTAL,JOBVAC,SK,2012-Q2,382
+Q,SA,J,TOTAL,JOBVAC,SK,2012-Q3,252
+Q,SA,J,TOTAL,JOBVAC,SK,2012-Q4,188
+Q,SA,J,TOTAL,JOBVAC,SK,2013-Q1,365
+Q,SA,J,TOTAL,JOBVAC,SK,2013-Q2,297
+Q,SA,J,TOTAL,JOBVAC,SK,2013-Q3,352
+Q,SA,J,TOTAL,JOBVAC,SK,2013-Q4,267
+Q,SA,J,TOTAL,JOBVAC,SK,2014-Q1,228
+Q,SA,J,TOTAL,JOBVAC,SK,2014-Q2,152
+Q,SA,J,TOTAL,JOBVAC,SK,2014-Q3,219
+Q,SA,J,TOTAL,JOBVAC,SK,2014-Q4,286
+Q,SA,J,TOTAL,JOBVAC,SK,2015-Q1,271
+Q,SA,J,TOTAL,JOBVAC,SK,2015-Q2,318
+Q,SA,J,TOTAL,JOBVAC,SK,2015-Q3,349
+Q,SA,J,TOTAL,JOBVAC,SK,2015-Q4,375
+Q,SA,J,TOTAL,JOBVAC,SK,2016-Q1,623
+Q,SA,J,TOTAL,JOBVAC,SK,2016-Q2,430
+Q,SA,J,TOTAL,JOBVAC,SK,2016-Q3,394
+Q,SA,J,TOTAL,JOBVAC,SK,2016-Q4,390
+Q,SA,J,TOTAL,JOBVAC,SK,2017-Q1,437
+Q,SA,J,TOTAL,JOBVAC,SK,2017-Q2,457
+Q,SA,J,TOTAL,JOBVAC,SK,2017-Q3,433
+Q,SA,J,TOTAL,JOBVAC,SK,2017-Q4,478
+Q,SA,J,TOTAL,JOBVAC,SK,2018-Q1,665
+Q,SA,J,TOTAL,JOBVAC,SK,2018-Q2,560
+Q,SA,J,TOTAL,JOBVAC,SK,2018-Q3,524
+Q,SA,J,TOTAL,JOBVAC,SK,2018-Q4,425
+Q,SA,J,TOTAL,JOBVAC,SK,2019-Q1,498
+Q,SA,J,TOTAL,JOBVAC,SK,2019-Q2,508
+Q,SA,J,TOTAL,JOBVAC,SK,2019-Q3,433
+Q,SA,J,TOTAL,JOBVAC,SK,2019-Q4,280
+Q,SA,J,TOTAL,JOBVAC,SK,2020-Q1,252
+Q,SA,J,TOTAL,JOBVAC,SK,2020-Q2,307
+Q,SA,J,TOTAL,JOBVAC,SK,2020-Q3,292
+Q,SA,J,TOTAL,JOBVAC,SK,2020-Q4,360
+Q,SA,J,TOTAL,JOBVAC,SK,2021-Q1,261
+Q,SA,J,TOTAL,JOBVAC,SK,2021-Q2,354
+Q,SA,J,TOTAL,JOBVAC,SK,2021-Q3,374
+Q,SA,J,TOTAL,JOBVAC,SK,2021-Q4,471
+Q,SA,J,TOTAL,JOBVAC,SK,2022-Q1,595
+Q,SA,J,TOTAL,JOBVAC,SK,2022-Q2,423
+Q,SA,J,TOTAL,JOBVAC,SK,2022-Q3,431
+Q,SA,J,TOTAL,JOBVAC,SK,2022-Q4,422
+Q,SA,J,TOTAL,JOBVAC,SK,2023-Q1,447
+Q,SA,J,TOTAL,JOBVAC,SK,2023-Q2,475
+Q,SA,J,TOTAL,JOBVAC,SK,2023-Q3,441
+Q,SA,J,TOTAL,JOBVAC,SK,2023-Q4,447
+Q,SA,J,TOTAL,JOBVAC,SK,2024-Q1,464
+Q,SA,J,TOTAL,JOBVAC,SK,2024-Q2,349
+Q,SA,J,TOTAL,JOBVAC,SK,2024-Q3,260
+Q,SA,J,TOTAL,JOBVAC,SK,2024-Q4,303
+Q,SA,J,TOTAL,JOBVAC,SK,2025-Q1,360
+Q,SA,J,TOTAL,JOBVAC,SK,2025-Q2,311
+Q,SA,J,TOTAL,JOBVAC,SK,2025-Q3,350
+Q,SA,J,TOTAL,JOBVAC,SK,2025-Q4,301
+Q,SA,J,TOTAL,JOBVAC,UK,2001-Q2,50000
+Q,SA,J,TOTAL,JOBVAC,UK,2001-Q3,46000
+Q,SA,J,TOTAL,JOBVAC,UK,2001-Q4,40000
+Q,SA,J,TOTAL,JOBVAC,UK,2002-Q1,43000
+Q,SA,J,TOTAL,JOBVAC,UK,2002-Q2,44000
+Q,SA,J,TOTAL,JOBVAC,UK,2002-Q3,43000
+Q,SA,J,TOTAL,JOBVAC,UK,2002-Q4,40000
+Q,SA,J,TOTAL,JOBVAC,UK,2003-Q1,42000
+Q,SA,J,TOTAL,JOBVAC,UK,2003-Q2,39000
+Q,SA,J,TOTAL,JOBVAC,UK,2003-Q3,39000
+Q,SA,J,TOTAL,JOBVAC,UK,2003-Q4,41000
+Q,SA,J,TOTAL,JOBVAC,UK,2004-Q1,42000
+Q,SA,J,TOTAL,JOBVAC,UK,2004-Q2,44000
+Q,SA,J,TOTAL,JOBVAC,UK,2004-Q3,46000
+Q,SA,J,TOTAL,JOBVAC,UK,2004-Q4,47000
+Q,SA,J,TOTAL,JOBVAC,UK,2005-Q1,42000
+Q,SA,J,TOTAL,JOBVAC,UK,2005-Q2,42000
+Q,SA,J,TOTAL,JOBVAC,UK,2005-Q3,39000
+Q,SA,J,TOTAL,JOBVAC,UK,2005-Q4,39000
+Q,SA,J,TOTAL,JOBVAC,UK,2006-Q1,40000
+Q,SA,J,TOTAL,JOBVAC,UK,2006-Q2,40000
+Q,SA,J,TOTAL,JOBVAC,UK,2006-Q3,41000
+Q,SA,J,TOTAL,JOBVAC,UK,2006-Q4,39000
+Q,SA,J,TOTAL,JOBVAC,UK,2007-Q1,41000
+Q,SA,J,TOTAL,JOBVAC,UK,2007-Q2,43000
+Q,SA,J,TOTAL,JOBVAC,UK,2007-Q3,43000
+Q,SA,J,TOTAL,JOBVAC,UK,2007-Q4,43000
+Q,SA,J,TOTAL,JOBVAC,UK,2008-Q1,39000
+Q,SA,J,TOTAL,JOBVAC,UK,2008-Q2,33000
+Q,SA,J,TOTAL,JOBVAC,UK,2008-Q3,37000
+Q,SA,J,TOTAL,JOBVAC,UK,2008-Q4,30000
+Q,SA,J,TOTAL,JOBVAC,UK,2009-Q1,26000
+Q,SA,J,TOTAL,JOBVAC,UK,2009-Q2,23000
+Q,SA,J,TOTAL,JOBVAC,UK,2009-Q3,23000
+Q,SA,J,TOTAL,JOBVAC,UK,2009-Q4,25000
+Q,SA,J,TOTAL,JOBVAC,UK,2010-Q1,25000
+Q,SA,J,TOTAL,JOBVAC,UK,2010-Q2,26000
+Q,SA,J,TOTAL,JOBVAC,UK,2010-Q3,28000
+Q,SA,J,TOTAL,JOBVAC,UK,2010-Q4,29000
+Q,SA,J,TOTAL,JOBVAC,UK,2011-Q1,33000
+Q,SA,J,TOTAL,JOBVAC,UK,2011-Q2,32000
+Q,SA,J,TOTAL,JOBVAC,UK,2011-Q3,33000
+Q,SA,J,TOTAL,JOBVAC,UK,2011-Q4,33000
+Q,SA,J,TOTAL,JOBVAC,UK,2012-Q1,32000
+Q,SA,J,TOTAL,JOBVAC,UK,2012-Q2,31000
+Q,SA,J,TOTAL,JOBVAC,UK,2012-Q3,28000
+Q,SA,J,TOTAL,JOBVAC,UK,2012-Q4,28000
+Q,SA,J,TOTAL,JOBVAC,UK,2013-Q1,29000
+Q,SA,J,TOTAL,JOBVAC,UK,2013-Q2,30000
+Q,SA,J,TOTAL,JOBVAC,UK,2013-Q3,31000
+Q,SA,J,TOTAL,JOBVAC,UK,2013-Q4,33000
+Q,SA,J,TOTAL,JOBVAC,UK,2014-Q1,31000
+Q,SA,J,TOTAL,JOBVAC,UK,2014-Q2,30000
+Q,SA,J,TOTAL,JOBVAC,UK,2014-Q3,34000
+Q,SA,J,TOTAL,JOBVAC,UK,2014-Q4,35000
+Q,SA,J,TOTAL,JOBVAC,UK,2015-Q1,36000
+Q,SA,J,TOTAL,JOBVAC,UK,2015-Q2,36000
+Q,SA,J,TOTAL,JOBVAC,UK,2015-Q3,38000
+Q,SA,J,TOTAL,JOBVAC,UK,2015-Q4,41000
+Q,SA,J,TOTAL,JOBVAC,UK,2016-Q1,42000
+Q,SA,J,TOTAL,JOBVAC,UK,2016-Q2,44000
+Q,SA,J,TOTAL,JOBVAC,UK,2016-Q3,40000
+Q,SA,J,TOTAL,JOBVAC,UK,2016-Q4,37000
+Q,SA,J,TOTAL,JOBVAC,UK,2017-Q1,40000
+Q,SA,J,TOTAL,JOBVAC,UK,2017-Q2,42000
+Q,SA,J,TOTAL,JOBVAC,UK,2017-Q3,43000
+Q,SA,J,TOTAL,JOBVAC,UK,2017-Q4,43000
+Q,SA,J,TOTAL,JOBVAC,UK,2018-Q1,45000
+Q,SA,J,TOTAL,JOBVAC,UK,2018-Q2,48000
+Q,SA,J,TOTAL,JOBVAC,UK,2018-Q3,48000
+Q,SA,J,TOTAL,JOBVAC,UK,2018-Q4,51000
+Q,SA,J,TOTAL,JOBVAC,UK,2019-Q1,49000
+Q,SA,J,TOTAL,JOBVAC,UK,2019-Q2,44000
+Q,SA,J,TOTAL,JOBVAC,UK,2019-Q3,44000
+Q,SA,J,TOTAL,JOBVAC,UK,2019-Q4,40000
+Q,SA,J,TOTAL,JOBVAC,UK,2020-Q1,43000
+Q,SA,J,TOTAL,JOBVAC,UK,2020-Q2,13000
+Q,SA,J,TOTAL,JOBVAC,UK,2020-Q3,23000
