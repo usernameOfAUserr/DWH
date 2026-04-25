@@ -1,0 +1,11 @@
+TIME_PERIOD,COUNTRY_CODE,COUNTRY_NAME,INDUSTRY_CODE,INDUSTRY_NAME,INDICATOR_CODE,INDICATOR_NAME,OBSERVATION_VALUE,UNIT,SEASONAL_ADJUSTMENT,SIZE_CLASS,STATUS
+2023-Q2,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,67005,,"Seasonally adjusted data, not calendar adjusted data",Total,
+2023-Q3,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,73296,,"Seasonally adjusted data, not calendar adjusted data",Total,
+2023-Q4,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,62325,,"Seasonally adjusted data, not calendar adjusted data",Total,
+2024-Q1,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,76488,,"Seasonally adjusted data, not calendar adjusted data",Total,
+2024-Q2,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,65375,,"Seasonally adjusted data, not calendar adjusted data",Total,
+2024-Q3,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,60379,,"Seasonally adjusted data, not calendar adjusted data",Total,
+2024-Q4,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,65091,,"Seasonally adjusted data, not calendar adjusted data",Total,
+2025-Q1,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,50481,,"Seasonally adjusted data, not calendar adjusted data",Total,
+2025-Q2,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,50563,,"Seasonally adjusted data, not calendar adjusted data",Total,
+2025-Q3,DE,Germany,J,Information and communication,JOBVAC,Job vacancies,34126,,"Seasonally adjusted data, not calendar adjusted data",Total,
