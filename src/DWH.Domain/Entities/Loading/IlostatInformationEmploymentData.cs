@@ -1,4 +1,4 @@
-namespace DWH.Domain.Entities;
+namespace DWH.Domain.Entities.Loading;
 
 /// <summary>
 /// Dto eines ILOSTAT-Beschäftigungsdatensatzes

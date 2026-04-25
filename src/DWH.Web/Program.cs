@@ -1,10 +1,12 @@
 using DWH.Application.Helpers;
+using DWH.Application.Services;
 using DWH.Web;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddServices();
 builder.Services.AddControllers();
+builder.Services.AddHttpClient<GithubFileUploadService>();
 
 builder.Services.AddCors(options =>
 {
@@ -22,8 +24,6 @@ builder.Services.Configure<DestatisOptions>(builder.Configuration.GetSection("De
 var app = builder.Build();
 
 app.UseCors("AllowAll");
-
-app.UseRouting();
 
 app.MapControllers();
 

@@ -6,14 +6,19 @@ namespace DWH.Web.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class ImportController(IImportService importService, ILogger<ImportController> logger) : ControllerBase
+public class ImportController(
+    IImportService importService,
+    IStagingService stagingService,
+    ILogger<ImportController> logger) : ControllerBase
 {
     [HttpPost("start")]
     public async Task<IActionResult> StartImport(CancellationToken cancellationToken = default)
     {
         logger.LogInformation("Import-Start wurde angefordert");
+        
+        // await importService.StartImportAsync(cancellationToken);
 
-        await importService.StartImportAsync(cancellationToken);
+        await stagingService.RebuildWarehouseAsync(cancellationToken);
 
         logger.LogInformation("Import wurde erfolgreich gestartet");
 

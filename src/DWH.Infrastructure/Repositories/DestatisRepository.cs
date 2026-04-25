@@ -10,9 +10,9 @@ namespace DWH.Infrastructure.Repositories;
 public class DestatisRepository(HttpClient httpClient, IOptions<DestatisOptions> options) : IDestatisRepository
 {
     private const string BaseUrl = "https://www-genesis.destatis.de/genesisWS/rest/2020";
-
+    
     private readonly DestatisOptions _options = options.Value;
-
+    
     public async Task<DestatisApiResponse> ListAsync(DestatisTableRequest request,
         CancellationToken cancellationToken = default)
     {
@@ -24,7 +24,10 @@ public class DestatisRepository(HttpClient httpClient, IOptions<DestatisOptions>
     {
         using var httpRequest = new HttpRequestMessage(HttpMethod.Post, $"{BaseUrl}/data/table");
         httpRequest.Headers.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-
+        
+        _options.Password = Environment.GetEnvironmentVariable("DESTATIS_PASSWORD") ?? throw new
+            InvalidOperationException();
+        
         var hasCredentials =
             !string.IsNullOrWhiteSpace(_options.Username) &&
             !string.IsNullOrWhiteSpace(_options.Password);

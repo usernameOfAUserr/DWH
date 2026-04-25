@@ -13,7 +13,7 @@ public sealed class DestatisOptions
     /// <summary>
     /// Passwort
     /// </summary>
-    public string Password { get; init; } = "fdasdfasdf!!!9979797FFFF";
+    public string Password { get; set; } = null!;
 
     /// <summary>
     /// Sprache

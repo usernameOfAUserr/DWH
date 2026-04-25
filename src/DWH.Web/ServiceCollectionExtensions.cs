@@ -10,14 +10,17 @@ public static class ServiceCollectionExtensions
     public static IServiceCollection AddServices(this IServiceCollection services)
     {
         services.AddScoped<IImportService, ImportService>();
-        
+        services.AddScoped<IStagingService, StagingService>();
+
         services.AddScoped<IIlostatRepository, IlostatRepository>();
         services.AddScoped<IAiExposureRepository, AiExposureRepository>();
         services.AddScoped<IDestatisRepository, DestatisRepository>();
-        services.AddScoped<IDbRepository, DbRepository>();
+        services.AddScoped<ILoadRepository, LoadRepository>();
+        services.AddScoped<IStagingRepository, StagingRepository>();
+        services.AddScoped<IEurostatRepository, EurostatRepository>();
         services.AddHttpClient<IDestatisRepository, DestatisRepository>();
         services.AddHttpClient<IAiExposureRepository, AiExposureRepository>();
-        
+
         return services;
     }
 }

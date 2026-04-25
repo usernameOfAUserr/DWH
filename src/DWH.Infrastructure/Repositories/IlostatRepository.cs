@@ -2,6 +2,7 @@ using System.Globalization;
 using System.Text.Json;
 using DWH.Application.Interfaces.Repositories;
 using DWH.Domain.Entities;
+using DWH.Domain.Entities.Loading;
 
 namespace DWH.Infrastructure.Repositories;
 
