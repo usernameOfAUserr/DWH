@@ -1,0 +1,42 @@
+# .NET build-artifacts
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Node/Vue (falls du ein Frontend hast)
+node_modules/
+dist/
+*.log
+
+# Docker/CI
+docker-compose.override.yml
+*.pid
+.js
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Secrets / Config
+.env
+.env.*
+
+# Schlüssel/Certificates (zur Sicherheit)
+*.pfx
+*.snk
+*.pem
+etc/secrets/
+*.key
+*.p12
+*.cer
+gcp-sa.json
+./etc/secrets/*
+*.dll
+*.pdb

@@ -1,0 +1,180 @@
+DATA_YEAR,SALARY,JOB
+2022,77656,Informatik- und andere IKT-Berufe
+2022,76910,Informatik
+2022,64974,Informatik (oS) - Fachkraft
+2022,97503,Informatik (oS) - Spezialist
+2022,84363,Informatik (oS) - Experte
+2022,68914,Wirtschaftsinformatik - Fachkraft
+2022,72938,Wirtschaftsinformatik - Spezialist
+2022,88685,Wirtschaftsinformatik - Experte
+2022,63339,Technische Informatik - Fachkraft
+2022,58550,Technische Informatik - Spezialist
+2022,80272,Technische Informatik - Experte
+2022,55383,Geoinformatik - Experte
+2022,62313,Medieninformatik - Spezialist
+2022,64799,Medieninformatik - Experte
+2022,141369,Führung - Informatik
+2022,83780,"IT-Systemanalyse, -Anwendungsberatung, -Vertrieb"
+2022,84977,IT-Systemanalyse - Experte
+2022,76723,IT-Anwendungsberatung - Spezialist
+2022,84208,IT-Anwendungsberatung - Experte
+2022,106348,IT-Vertrieb - Spezialist
+2022,127490,"Führung - IT-Systemanalyse, -Anwendung, -Vertrieb"
+2022,75953,"IT-Netzwerktechnik, -Koord., -Admin., -Organis."
+2022,38581,IT-Netzwerktechnik - Fachkraft
+2022,78111,IT-Netzwerktechnik - Spezialist
+2022,77991,IT-Netzwerktechnik - Experte
+2022,75942,IT-Koordination - Spezialist
+2022,78069,IT-Organisation - Spezialist
+2022,64901,IT-Systemadministation - Spezialist
+2022,74942,"Datenbankentwicklung, -administration - Spezialist"
+2022,66909,Webadministration - Spezialist
+2022,83714,"IT-Netzwerk,Koord.,Admin.,Org. (ssT) - Spezialist"
+2022,73672,"IT-Netzwerk,Koord.,Admin.,Org. (ssT) - Experte"
+2022,108413,"Führung - IT-Netzwerk,-Koord.,-Admin.,-Org."
+2022,75320,Softwareentwicklung und Programmierung
+2022,62933,Softwareentwicklung - Fachkraft
+2022,81373,Softwareentwicklung - Spezialist
+2022,76355,Softwareentwicklung - Experte
+2022,67474,Programmierung - Spezialist
+2022,103108,"Führung - Softwareentwicklung, Programmierung"
+2022,70342,Vertrieb (außer IKT) - Fachkraft
+2022,79732,Vertrieb (außer IKT) - Spezialist
+2022,99637,Vertrieb (außer IKT) - Experte
+2022,61219,IT-Anwendungstraining - Experte
+2023,80906,Informatik- und andere IKT-Berufe
+2023,81075,Informatik
+2023,67534,Informatik (oS) - Fachkraft
+2023,100766,Informatik (oS) - Spezialist
+2023,90299,Informatik (oS) - Experte
+2023,75201,Wirtschaftsinformatik - Fachkraft
+2023,77673,Wirtschaftsinformatik - Spezialist
+2023,87832,Wirtschaftsinformatik - Experte
+2023,67754,Technische Informatik - Fachkraft
+2023,59612,Technische Informatik - Spezialist
+2023,84542,Technische Informatik - Experte
+2023,86038,"Bio-, Medizininformatik - Experte"
+2023,58889,Geoinformatik - Experte
+2023,63896,Medieninformatik - Fachkraft
+2023,66567,Medieninformatik - Experte
+2023,158613,Führung - Informatik
+2023,84899,"IT-Systemanalyse, -Anwendungsberatung, -Vertrieb"
+2023,88358,IT-Systemanalyse - Experte
+2023,79800,IT-Anwendungsberatung - Spezialist
+2023,84117,IT-Anwendungsberatung - Experte
+2023,64461,IT-Vertrieb - Fachkraft
+2023,99837,IT-Vertrieb - Spezialist
+2023,162735,"Führung - IT-Systemanalyse, -Anwendung, -Vertrieb"
+2023,78586,"IT-Netzwerktechnik, -Koord., -Admin., -Organis."
+2023,79265,IT-Netzwerktechnik - Spezialist
+2023,84098,IT-Netzwerktechnik - Experte
+2023,75368,IT-Koordination - Spezialist
+2023,77912,IT-Organisation - Spezialist
+2023,68201,IT-Systemadministation - Spezialist
+2023,83386,"Datenbankentwicklung, -administration - Spezialist"
+2023,76871,Webadministration - Spezialist
+2023,83563,"IT-Netzwerk,Koord.,Admin.,Org. (ssT) - Spezialist"
+2023,83001,"IT-Netzwerk,Koord.,Admin.,Org. (ssT) - Experte"
+2023,111102,"Führung - IT-Netzwerk,-Koord.,-Admin.,-Org."
+2023,79705,Softwareentwicklung und Programmierung
+2023,62789,Softwareentwicklung - Fachkraft
+2023,87574,Softwareentwicklung - Spezialist
+2023,80799,Softwareentwicklung - Experte
+2023,70359,Programmierung - Spezialist
+2023,114721,"Führung - Softwareentwicklung, Programmierung"
+2023,69081,Vertrieb (außer IKT) - Fachkraft
+2023,82235,Vertrieb (außer IKT) - Spezialist
+2023,108076,Vertrieb (außer IKT) - Experte
+2023,59962,IT-Anwendungstraining - Experte
+2024,84505,Informatik- und andere IKT-Berufe
+2024,85834,Informatik
+2024,68638,Informatik (oS) - Fachkraft
+2024,119210,Informatik (oS) - Spezialist
+2024,89703,Informatik (oS) - Experte
+2024,72481,Wirtschaftsinformatik - Fachkraft
+2024,82692,Wirtschaftsinformatik - Spezialist
+2024,89663,Wirtschaftsinformatik - Experte
+2024,71451,Technische Informatik - Fachkraft
+2024,59262,Technische Informatik - Spezialist
+2024,88234,Technische Informatik - Experte
+2024,88713,"Bio-, Medizininformatik - Experte"
+2024,62222,Geoinformatik - Experte
+2024,61088,Medieninformatik - Fachkraft
+2024,69394,Medieninformatik - Spezialist
+2024,66362,Medieninformatik - Experte
+2024,153828,Führung - Informatik
+2024,87925,"IT-Systemanalyse, -Anwendungsberatung, -Vertrieb"
+2024,88731,IT-Systemanalyse - Experte
+2024,81367,IT-Anwendungsberatung - Spezialist
+2024,87818,IT-Anwendungsberatung - Experte
+2024,67659,IT-Vertrieb - Fachkraft
+2024,111359,IT-Vertrieb - Spezialist
+2024,164972,"Führung - IT-Systemanalyse, -Anwendung, -Vertrieb"
+2024,81782,"IT-Netzwerktechnik, -Koord., -Admin., -Organis."
+2024,64513,IT-Netzwerktechnik - Fachkraft
+2024,81645,IT-Netzwerktechnik - Spezialist
+2024,85674,IT-Netzwerktechnik - Experte
+2024,75260,IT-Koordination - Spezialist
+2024,82115,IT-Organisation - Spezialist
+2024,71117,IT-Systemadministation - Spezialist
+2024,86013,"Datenbankentwicklung, -administration - Spezialist"
+2024,75799,Webadministration - Spezialist
+2024,89255,"IT-Netzwerk,Koord.,Admin.,Org. (ssT) - Spezialist"
+2024,80399,"IT-Netzwerk,Koord.,Admin.,Org. (ssT) - Experte"
+2024,116097,"Führung - IT-Netzwerk,-Koord.,-Admin.,-Org."
+2024,83234,Softwareentwicklung und Programmierung
+2024,61026,Softwareentwicklung - Fachkraft
+2024,90285,Softwareentwicklung - Spezialist
+2024,83912,Softwareentwicklung - Experte
+2024,74620,Programmierung - Spezialist
+2024,125589,"Führung - Softwareentwicklung, Programmierung"
+2024,72437,Vertrieb (außer IKT) - Fachkraft
+2024,85616,Vertrieb (außer IKT) - Spezialist
+2024,108814,Vertrieb (außer IKT) - Experte
+2024,75093,IT-Anwendungstraining - Experte
+2025,85461,Informatik- und andere IKT-Berufe
+2025,84720,Informatik
+2025,70986,Informatik (oS) - Fachkraft
+2025,109355,Informatik (oS) - Spezialist
+2025,92262,Informatik (oS) - Experte
+2025,75461,Wirtschaftsinformatik - Fachkraft
+2025,85661,Wirtschaftsinformatik - Spezialist
+2025,88518,Wirtschaftsinformatik - Experte
+2025,71595,Technische Informatik - Fachkraft
+2025,60216,Technische Informatik - Spezialist
+2025,97136,Technische Informatik - Experte
+2025,76775,"Bio-, Medizininformatik - Experte"
+2025,65459,Geoinformatik - Experte
+2025,66431,Medieninformatik - Fachkraft
+2025,67694,Medieninformatik - Spezialist
+2025,69842,Medieninformatik - Experte
+2025,150288,Führung - Informatik
+2025,89622,"IT-Systemanalyse, -Anwendungsberatung, -Vertrieb"
+2025,91972,IT-Systemanalyse - Experte
+2025,80248,IT-Anwendungsberatung - Spezialist
+2025,89341,IT-Anwendungsberatung - Experte
+2025,64114,IT-Vertrieb - Fachkraft
+2025,119976,IT-Vertrieb - Spezialist
+2025,161110,"Führung - IT-Systemanalyse, -Anwendung, -Vertrieb"
+2025,83274,"IT-Netzwerktechnik, -Koord., -Admin., -Organis."
+2025,61520,IT-Netzwerktechnik - Fachkraft
+2025,80057,IT-Netzwerktechnik - Spezialist
+2025,77876,IT-Netzwerktechnik - Experte
+2025,76814,IT-Koordination - Spezialist
+2025,89294,IT-Organisation - Spezialist
+2025,72802,IT-Systemadministation - Spezialist
+2025,93216,"Datenbankentwicklung, -administration - Spezialist"
+2025,82091,Webadministration - Spezialist
+2025,91170,"IT-Netzwerk,Koord.,Admin.,Org. (ssT) - Spezialist"
+2025,81335,"IT-Netzwerk,Koord.,Admin.,Org. (ssT) - Experte"
+2025,116086,"Führung - IT-Netzwerk,-Koord.,-Admin.,-Org."
+2025,85130,Softwareentwicklung und Programmierung
+2025,59636,Softwareentwicklung - Fachkraft
+2025,89480,Softwareentwicklung - Spezialist
+2025,87768,Softwareentwicklung - Experte
+2025,72179,Programmierung - Spezialist
+2025,124514,"Führung - Softwareentwicklung, Programmierung"
+2025,75851,Vertrieb (außer IKT) - Fachkraft
+2025,86423,Vertrieb (außer IKT) - Spezialist
+2025,110741,Vertrieb (außer IKT) - Experte
+2025,74878,IT-Anwendungstraining - Experte
