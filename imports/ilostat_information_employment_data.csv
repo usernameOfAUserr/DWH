@@ -677,6 +677,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Indonesia,LFS - National Labour Force Survey,580.544,2013
 ,Indonesia,LFS - National Labour Force Survey,541.318,2012
 ,Isle of Man,PC - Population Census,1.355,2016
+,India,LFS - Periodic Labour Force Survey,6746.013,2025
 ,India,LFS - Periodic Labour Force Survey,6756.306,2024
 ,India,LFS - Periodic Labour Force Survey,6778.583,2023
 ,India,LFS - Periodic Labour Force Survey,6344.173,2022
@@ -1381,6 +1382,7 @@ REF_AREA,AREA_LABEL,SOURCE_LABEL,TOTAL,TIME
 ,Russian Federation,LFS - Labour Force Survey,1302.911,2007
 ,Russian Federation,LFS - Labour Force Survey,1239.538,2006
 ,Russian Federation,LFS - Labour Force Survey,1182.812,2005
+,Rwanda,LFS - Labour Force Survey,17.492,2025
 ,Rwanda,LFS - Labour Force Survey,12.127,2024
 ,Rwanda,LFS - Labour Force Survey,11.279,2023
 ,Rwanda,LFS - Labour Force Survey,8.228,2022
