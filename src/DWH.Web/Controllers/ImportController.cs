@@ -16,7 +16,7 @@ public class ImportController(
     {
         logger.LogInformation("Import-Start wurde angefordert");
         
-        //await importService.StartImportAsync(cancellationToken);
+        await importService.StartImportAsync(cancellationToken);
 
         await stagingService.RebuildWarehouseAsync(cancellationToken);
 

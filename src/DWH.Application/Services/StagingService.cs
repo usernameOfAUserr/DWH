@@ -3,15 +3,8 @@ using DWH.Application.Interfaces.Services;
 
 namespace DWH.Application.Services;
 
-public sealed class StagingService : IStagingService
+public sealed class StagingService(IStagingRepository stagingRepository) : IStagingService
 {
-    private readonly IStagingRepository _stagingRepository;
-
-    public StagingService(IStagingRepository stagingRepository)
-    {
-        _stagingRepository = stagingRepository ?? throw new ArgumentNullException(nameof(stagingRepository));
-    }
-
     public async Task RebuildWarehouseAsync(CancellationToken cancellationToken = default)
     {
         await TruncateWarehouseAsync(cancellationToken);
@@ -22,24 +15,27 @@ public sealed class StagingService : IStagingService
 
     private async Task TruncateWarehouseAsync(CancellationToken cancellationToken)
     {
-        await _stagingRepository.TruncateFactAiExposureAsync(cancellationToken);
-        await _stagingRepository.TruncateFactSalaryAsync(cancellationToken);
-        await _stagingRepository.TruncateFactEmploymentIndustryAsync(cancellationToken);
-        await _stagingRepository.TruncateFactJobVacancyAsync(cancellationToken);
-        await _stagingRepository.TruncateDimTimeAsync(cancellationToken);
+        await stagingRepository.TruncateFactAiExposureAsync(cancellationToken);
+        await stagingRepository.TruncateFactSalaryAsync(cancellationToken);
+        await stagingRepository.TruncateFactEmploymentIndustryAsync(cancellationToken);
+        await stagingRepository.TruncateFactJobVacancyAsync(cancellationToken);
+        await stagingRepository.TruncateDimJobAsync(cancellationToken);
+        await stagingRepository.TruncateDimTimeAsync(cancellationToken);
+        await stagingRepository.TruncateDimGeoAsync(cancellationToken);
     }
 
     private async Task BuildDimensionsAsync(CancellationToken cancellationToken)
     {
-        await _stagingRepository.BuildDimTimeAsync(cancellationToken);
-        await _stagingRepository.BuildDimJobAsync(cancellationToken);
+        await stagingRepository.BuildDimTimeAsync(cancellationToken);
+        await stagingRepository.BuildDimJobAsync(cancellationToken);
+        await stagingRepository.BuildDimGeoAsync(cancellationToken);
     }
 
     private async Task BuildFactsAsync(CancellationToken cancellationToken)
     {
-        await _stagingRepository.BuildFactJobVacancyAsync(cancellationToken);
-        await _stagingRepository.BuildFactAiExposureAsync(cancellationToken);
-        await _stagingRepository.BuildFactSalaryAsync(cancellationToken);
-        await _stagingRepository.BuildFactEmploymentIndustryAsync(cancellationToken);
+        await stagingRepository.BuildFactJobVacancyAsync(cancellationToken);
+        await stagingRepository.BuildFactAiExposureAsync(cancellationToken);
+        await stagingRepository.BuildFactSalaryAsync(cancellationToken);
+        await stagingRepository.BuildFactEmploymentIndustryAsync(cancellationToken);
     }
 }

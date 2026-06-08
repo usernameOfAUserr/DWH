@@ -19,6 +19,11 @@ public class StagingRepository : IStagingRepository
             $"TRUNCATE TABLE {GetQualifiedTableName("FACT_SALARY")}",
             cancellationToken);
 
+    public Task TruncateDimGeoAsync(CancellationToken cancellationToken = default)
+        => ExecuteNonQueryAsync(
+            $"TRUNCATE TABLE {GetQualifiedTableName("DIM_GEO")}",
+            cancellationToken);
+
     public Task TruncateFactEmploymentIndustryAsync(CancellationToken cancellationToken = default)
         => ExecuteNonQueryAsync(
             $"TRUNCATE TABLE {GetQualifiedTableName("FACT_EMPLOYMENT_INDUSTRY")}",
@@ -99,6 +104,20 @@ public class StagingRepository : IStagingRepository
              ) SOURCE_DATA
              WHERE SOURCE_DATA.REFERENCE_DATE IS NOT NULL
              """;
+
+        return ExecuteNonQueryAsync(sql, cancellationToken);
+    }
+
+    public Task BuildDimGeoAsync(CancellationToken cancellationToken = default)
+    {
+        var sql = $"""
+                      INSERT INTO {GetQualifiedTableName("DIM_GEO")}
+                      ({QuoteIdentifier("GEO_CODE")})
+                      SELECT DISTINCT
+                          JV.{QuoteIdentifier("GEO")} AS GEO_CODE
+                          FROM {GetQualifiedTableName("EUROSTAT_JOB_VACANCIES")} JV
+                   WHERE JV.{QuoteIdentifier("GEO")} IS NOT NULL
+                   """;
 
         return ExecuteNonQueryAsync(sql, cancellationToken);
     }
@@ -237,12 +256,12 @@ public class StagingRepository : IStagingRepository
              (
                  {QuoteIdentifier("TIME_ID")},
                  {QuoteIdentifier("JOB_VACANCIES")},
-                 {QuoteIdentifier("GEO")}
+                 {QuoteIdentifier("GEO_ID")}
              )
              SELECT
                  DT.{QuoteIdentifier("ID")} AS TIME_ID,
                  JV.{QuoteIdentifier("OBSERVATION_VALUE")} AS JOB_VACANCIES,
-                 JV.{QuoteIdentifier("GEO")} as GEO
+                 DG.{QuoteIdentifier("ID")} as GEO_ID
              FROM {GetQualifiedTableName("EUROSTAT_JOB_VACANCIES")} JV
              INNER JOIN {GetQualifiedTableName("DIM_TIME")} DT
                  ON DT.{QuoteIdentifier("REFERENCE_DATE")} =
@@ -256,6 +275,8 @@ public class StagingRepository : IStagingRepository
                         END || '-01',
                         'YYYY-MM-DD'
                     )
+             Join {GetQualifiedTableName("DIM_GEO")} DG 
+                ON JV.{QuoteIdentifier("GEO")} = DG.{QuoteIdentifier("GEO_CODE")}
              WHERE JV.{QuoteIdentifier("OBSERVATION_VALUE")} IS NOT NULL
              """;
 

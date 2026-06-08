@@ -4,9 +4,13 @@ public interface IStagingRepository
 {
     Task TruncateFactAiExposureAsync(CancellationToken cancellationToken = default);
 
+    Task TruncateDimJobAsync(CancellationToken cancellationToken = default);
+    
     Task TruncateFactSalaryAsync(CancellationToken cancellationToken = default);
 
     Task TruncateFactJobVacancyAsync(CancellationToken cancellationToken = default);
+    
+    Task TruncateDimGeoAsync(CancellationToken cancellationToken = default);
 
     Task TruncateFactEmploymentIndustryAsync(CancellationToken cancellationToken = default);
 
@@ -14,6 +18,8 @@ public interface IStagingRepository
 
 
     Task BuildDimTimeAsync(CancellationToken cancellationToken = default);
+    
+    Task BuildDimGeoAsync(CancellationToken cancellationToken = default);
 
     Task BuildFactJobVacancyAsync(CancellationToken cancellationToken = default);
 
